@@ -29,7 +29,12 @@ For each sub-task and each language:
 For the **binary-classification** sub-task, the training and test set will be composed by 10,000  and 23,000 samples, respectively;
 For the **regression** sub-task, 1,000 sentences will be provided for the training set and 600 for the test set.
 
+## Evaluation Measures
+**Coming Soon**
 
+## Formating and Evaluation Scripts
+
+**Coming Soon**
 
 ## License
 
