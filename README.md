@@ -51,3 +51,7 @@ MIT
    mailinglist: semeval2022-task3@googlegroups.com
    
 ## Organizers
+
+
+
+**Contact**: semeval2022-task3-organizers@googlegroups.com
