@@ -36,6 +36,7 @@ For the **regression** sub-task, 1,000 sentences will be provided for the traini
 MIT
 
 **Useful links**
+
    [Task Website]: https://github.com/joemccann/dillinger
    
    [Competition Link]: https://github.com/joemccann/dillinger
