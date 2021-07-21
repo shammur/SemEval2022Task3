@@ -37,7 +37,11 @@ MIT
 
 **Useful links**
    [Task Website]: <https://github.com/joemccann/dillinger>
+   
    [Competition Link]: <https://github.com/joemccann/dillinger>
+   
    [Participants Form]: <https://github.com/joemccann/dillinger>
+   
    [mailinglist]: <https://github.com/joemccann/dillinger.git>
+   
 
