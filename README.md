@@ -35,7 +35,7 @@ For the **regression** sub-task, 1,000 sentences will be provided for the traini
 
 MIT
 
-**Useful links**
+## Useful links
 
    Task Website: Website
    
@@ -45,4 +45,4 @@ MIT
    
    mailinglist: semeval2022-task3@googlegroups.com
    
-
+## Organizers
