@@ -2,7 +2,7 @@
 ## SemEval 2022 Task 3: Evaluating presuppositional knowledge in language models
 
 
-![Alt text](relative/path/to/img.jpg?raw=true "PRESUP")
+![Alt text](https://github.com/shammur/PRESUP/blob/main/presup_logo.png?raw=true "PRESUP")
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
