@@ -1,8 +1,9 @@
-# SemEval 2022 Task 3: PRESUP
+<p align="center">
+# SemEval 2022 Task 3
 # Evaluating presuppositional knowledge in language models
 <!-- # PRESUP -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="https://github.com/shammur/PRESUP/blob/main/presup_logo.png" width="350" title="PRESUP">
 <!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
 </p>
