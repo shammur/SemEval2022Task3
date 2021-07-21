@@ -46,7 +46,7 @@ MIT
    
    Competition Link: CODALAB
    
-   Participants Form: FORM
+   Participants Form: [!FORM]<https://docs.google.com/forms/d/e/1FAIpQLSfS1oIjxCifghMFPpxPOpu-8HC8lJutXa65BXfpXpOmxcJ_Wg/viewform>
    
    mailinglist: semeval2022-task3@googlegroups.com
    
