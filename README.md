@@ -1,4 +1,5 @@
-# SemEval 2022 Task 3: Evaluating presuppositional knowledge in language models
+# SemEval 2022 Task 3: PRESUP
+# Evaluating presuppositional knowledge in language models
 <!-- # PRESUP -->
 
 <p align="center">
