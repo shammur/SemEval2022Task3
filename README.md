@@ -37,12 +37,12 @@ MIT
 
 **Useful links**
 
-   Task Website: https://github.com/joemccann/dillinger
+   Task Website: Website
    
-   Competition Link: https://github.com/joemccann/dillinger
+   Competition Link: CODALAB
    
-   Participants Form: https://github.com/joemccann/dillinger
+   Participants Form: FORM
    
-   mailinglist: https://github.com/joemccann/dillinger.git
+   mailinglist: semeval2022-task3@googlegroups.com
    
 
