@@ -5,13 +5,13 @@
 </p>
 
 # SemEval 2022 Task 3
-# Evaluating presuppositional knowledge in language models
+# Presupposed Taxonomies: Evaluating Neural-network Semantics (PreTENS) 
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
 ## Tasks
 
-PRESUP includes the two following sub-tasks: 
+PreTENS includes the two following sub-tasks: 
 - a binary classification: Predicting the acceptability of sentences (**A** _vs_ **UA**)
 <!-- - , which consists in predicting the acceptability label assigned to each sentence of the test set; -->
 - a regression task: Predicting the degree of Acceptance in a five Likert-scale
@@ -44,7 +44,7 @@ MIT
 
    Task Website: Website
    
-   Competition Link: CODALAB
+   Competition Link: Coming Soon
    
    [Participants Registration Form](<https://docs.google.com/forms/d/e/1FAIpQLSfS1oIjxCifghMFPpxPOpu-8HC8lJutXa65BXfpXpOmxcJ_Wg/viewform>)
    
@@ -52,6 +52,13 @@ MIT
    
 ## Organizers
 
+Dominique Brunato - Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
+Cristiano Chesi - University School for Advanced Studies (IUSS), Pavia, Italy
+Shammur Absar Chowdhury - Qatar Computing Research Institute, HBKU, University of Trento, Italy
+Felice Dell'Orletta - Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
+Simonetta Montemagni - Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
+Giulia Venturi -  Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
+Roberto Zamparelli - Department of Psychology and Cognitive Science - University of Trento, Italy
 
 
 **Contact**: semeval2022-task3-organizers@googlegroups.com
