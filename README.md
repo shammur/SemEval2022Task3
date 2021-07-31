@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/shammur/PRESUP/blob/main/presup_logo.png" width="350" title="PRESUP">
+  <img src="https://github.com/shammur/PRESUP/blob/main/pretens_logo.png" width="350" title="PRESUP">
 <!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
 </p>
 
