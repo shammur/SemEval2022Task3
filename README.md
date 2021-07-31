@@ -53,11 +53,17 @@ MIT
 ## Organizers
 
 Dominique Brunato - Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
+
 Cristiano Chesi - University School for Advanced Studies (IUSS), Pavia, Italy
+
 Shammur Absar Chowdhury - Qatar Computing Research Institute, HBKU, University of Trento, Italy
+
 Felice Dell'Orletta - Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
+
 Simonetta Montemagni - Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
+
 Giulia Venturi -  Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
+
 Roberto Zamparelli - Department of Psychology and Cognitive Science - University of Trento, Italy
 
 
