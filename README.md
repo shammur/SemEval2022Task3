@@ -56,7 +56,7 @@ Dominique Brunato - Institute for Computational Linguistics "A. Zampolli" (CNR),
 
 Cristiano Chesi - University School for Advanced Studies (IUSS), Pavia, Italy
 
-Shammur Absar Chowdhury - Qatar Computing Research Institute, HBKU, University of Trento, Italy
+Shammur Absar Chowdhury - Qatar Computing Research Institute, HBKU, Qatar
 
 Felice Dell'Orletta - Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
 
