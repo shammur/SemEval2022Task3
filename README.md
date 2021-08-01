@@ -5,7 +5,7 @@
 </p>
 
 # SemEval 2022 Task 3
-# Presupposed Taxonomies: Evaluating Neural-network Semantics (PreTENS) 
+# Presupposed Taxonomies: Evaluating Neural Network Semantics (PreTENS) 
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
