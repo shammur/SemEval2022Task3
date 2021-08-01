@@ -30,8 +30,11 @@ For the **binary-classification** sub-task, the training and test set will be co
 For the **regression** sub-task, 1,000 sentences will be provided for the training set and 600 for the test set.
 
 Sample/Trail data for Evaluation Campaign: data/trail
+
 Data Format:
+
 **ID    SENT    LABEL/AVG_SCORE**
+
 where LABEL is for binary classification task and AVG_SCORE is for the regression task.
 AVG_SCORE: represent average of the assigned score (1-7) given by the annotator. Details of scales and agreements will be elaborated/updated later.
 The LABEL (1/0) is assigned based on the regression score.
