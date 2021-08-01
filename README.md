@@ -52,7 +52,7 @@ MIT
 
 ## Useful links
 
-   Task Website: https://sites.google.com/view/semeval2022-pretens
+   [Task Website] (<https://sites.google.com/view/semeval2022-pretens>)
    
    Competition Link: Coming Soon
    
