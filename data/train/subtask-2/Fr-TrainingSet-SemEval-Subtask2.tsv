@@ -1,0 +1,525 @@
+ID	Sentence	Score
+5841	J'aime les perrouquets, mais pas les chats.	4.92
+5842	J'aime les chats, mais pas les perrouquets.	5.75
+5843	J'aime les perrouquets, mais pas les oiseaux.	2.33
+5844	J'aime les oiseaux, mais pas les perrouquets.	4.42
+5845	J'aime les oiseaux, mais pas les chats.	5.75
+5846	J'aime les perrouquets, mais pas les hamsters.	5.08
+5847	J'aime les hamsters, mais pas les perrouquets.	4.75
+5850	J'aime les oiseaux, mais pas les hamsters.	5.36
+5851	J'aime les perrouquets, mais pas les cochons.	5.92
+5852	J'aime les cochons, mais pas les perrouquets.	4.58
+5855	J'aime les oiseaux, mais pas les cochons.	5.33
+5856	J'aime les perrouquets, mais pas les chiens.	4.42
+5860	J'aime les oiseaux, mais pas les chiens.	5.83
+5861	J'aime les canards, mais pas les chats.	6.45
+5862	J'aime les chats, mais pas les canards.	6.25
+5863	J'aime les canards, mais pas les oiseaux.	3.67
+5864	J'aime les oiseaux, mais pas les canards.	5.33
+5866	J'aime les canards, mais pas les hamsters.	6.25
+5867	J'aime les hamsters, mais pas les canards.	6.25
+5871	J'aime les canards, mais pas les cochons.	6.0
+5872	J'aime les cochons, mais pas les canards.	5.92
+5876	J'aime les canards, mais pas les chiens.	5.42
+5877	J'aime les chiens, mais pas les canards.	5.67
+5881	J'aime les merles, mais pas les chats.	5.33
+5882	J'aime les chats, mais pas les merles.	4.67
+5883	J'aime les merles, mais pas les oiseaux.	3.1
+5884	J'aime les oiseaux, mais pas les merles.	6.5
+5886	J'aime les merles, mais pas les hamsters.	6.08
+5887	J'aime les hamsters, mais pas les merles.	5.83
+5891	J'aime les merles, mais pas les cochons.	6.42
+5892	J'aime les cochons, mais pas les merles.	4.08
+5896	J'aime les merles, mais pas les chiens.	5.33
+5897	J'aime les chiens, mais pas les merles.	4.82
+5901	J'aime les moineaux, mais pas les chats.	6.25
+5902	J'aime les chats, mais pas les moineaux.	6.0
+5903	J'aime les moineaux, mais pas les oiseaux.	2.83
+5904	J'aime les oiseaux, mais pas les moineaux.	5.92
+5906	J'aime les moineaux, mais pas les hamsters.	5.92
+5907	J'aime les hamsters, mais pas les moineaux.	5.0
+5911	J'aime les moineaux, mais pas les cochons.	5.75
+5912	J'aime les cochons, mais pas les moineaux.	5.92
+5916	J'aime les moineaux, mais pas les chiens.	5.42
+5917	J'aime les chiens, mais pas les moineaux.	5.75
+6401	J'adore les chênes, mais pas la pelouse.	4.25
+6402	J'adore la pelouse, mais pas les chênes.	4.18
+6403	J'adore les chênes, mais pas les arbres.	2.5
+6404	J'adore les arbres, mais pas les chênes.	5.67
+6405	J'adore les arbres, mais pas la pelouse.	5.45
+6406	J'adore les chênes, mais pas les animaux.	5.27
+6407	J'adore les animaux, mais pas les chênes.	3.25
+6410	J'adore les arbres, mais pas les animaux.	4.83
+6411	J'adore les chênes, mais pas les buissons.	4.5
+6412	J'adore les buissons, mais pas les chênes.	5.08
+6415	J'adore les arbres, mais pas les buissons.	5.42
+6416	J'adore les chênes, mais pas les arbustes.	5.58
+6417	J'adore les arbustes, mais pas les chênes.	4.58
+6420	J'adore les arbres, mais pas les arbustes.	6.08
+6421	J'adore les bouleaux, mais pas la pelouse.	5.25
+6422	J'adore la pelouse, mais pas les bouleaux.	4.92
+6423	J'adore les bouleaux, mais pas les arbres.	2.67
+6424	J'adore les arbres, mais pas les bouleaux.	6.33
+6426	J'adore les bouleaux, mais pas les animaux.	4.83
+6427	J'adore les animaux, mais pas les bouleaux.	3.83
+6431	J'adore les bouleaux, mais pas les buissons.	5.25
+6432	J'adore les buissons, mais pas les bouleaux.	4.75
+6436	J'adore les bouleaux, mais pas les arbustes.	4.83
+6437	J'adore les arbustes, mais pas les bouleaux.	4.58
+6441	J'adore les sapins, mais pas la pelouse.	5.67
+6442	J'adore la pelouse, mais pas les sapins.	5.08
+6443	J'adore les sapins, mais pas les arbres.	2.33
+6444	J'adore les arbres, mais pas les sapins.	6.08
+6446	J'adore les sapins, mais pas les animaux.	4.0
+6447	J'adore les animaux, mais pas les sapins.	3.58
+6451	J'adore les sapins, mais pas les buissons.	5.58
+6452	J'adore les buissons, mais pas les sapins.	5.17
+6456	J'adore les sapins, mais pas les arbustes.	5.33
+6457	J'adore les arbustes, mais pas les sapins.	5.45
+6461	J'adore les pins, mais pas la pelouse.	3.75
+6462	J'adore la pelouse, mais pas les pins.	4.67
+6463	J'adore les pins, mais pas les arbres.	2.17
+6464	J'adore les arbres, mais pas les pins.	6.25
+6466	J'adore les pins, mais pas les animaux.	4.5
+6467	J'adore les animaux, mais pas les pins.	3.08
+6471	J'adore les pins, mais pas les buissons.	6.0
+6472	J'adore les buissons, mais pas les pins.	5.33
+6476	J'adore les pins, mais pas les arbustes.	6.25
+6477	J'adore les arbustes, mais pas les pins.	5.08
+7281	J'adore le saumon, mais pas le poulet.	6.33
+7282	J'adore le poulet, mais pas le saumon.	6.08
+7283	J'adore le saumon, mais pas les produits de la mer.	4.25
+7284	J'adore les produits de la mer, mais pas le saumon.	6.42
+7285	J'adore les produits de la mer, mais pas le poulet.	5.25
+7286	J'adore le saumon, mais pas le veau.	6.25
+7287	J'adore le veau, mais pas le saumon.	5.83
+7290	J'adore les produits de la mer, mais pas le veau.	3.75
+7291	J'adore le saumon, mais pas la dinde.	5.75
+7292	J'adore la dinde, mais pas le saumon.	5.73
+7295	J'adore les produits de la mer, mais pas la dinde.	4.42
+7296	J'adore le saumon, mais pas le boeuf.	6.25
+7297	J'adore le boeuf, mais pas le saumon.	6.42
+7300	J'adore les produits de la mer, mais pas le boeuf.	4.58
+7301	J'adore les crabes, mais pas le poulet.	6.08
+7302	J'adore le poulet, mais pas les crabes.	4.92
+7303	J'adore les crabes, mais pas les produits de la mer.	3.08
+7304	J'adore les produits de la mer, mais pas les crabes.	5.25
+7306	J'adore les crabes, mais pas le veau.	5.17
+7307	J'adore le veau, mais pas les crabes.	5.25
+7311	J'adore les crabes, mais pas la dinde.	5.5
+7312	J'adore la dinde, mais pas les crabes.	5.67
+7316	J'adore les crabes, mais pas le boeuf.	5.5
+7317	J'adore le boeuf, mais pas les crabes.	5.08
+7321	J'adore les huîtres, mais pas le poulet.	5.92
+7322	J'adore le poulet, mais pas les huîtres.	5.75
+7323	J'adore les huîtres, mais pas les produits de la mer.	2.83
+7324	J'adore les produits de la mer, mais pas les huîtres.	6.08
+7326	J'adore les huîtres, mais pas le veau.	5.42
+7327	J'adore le veau, mais pas les huîtres.	6.17
+7331	J'adore les huîtres, mais pas la dinde.	6.08
+7332	J'adore la dinde, mais pas les huîtres.	6.0
+7336	J'adore les huîtres, mais pas le boeuf.	5.75
+7337	J'adore le boeuf, mais pas les huîtres.	5.83
+7341	J'adore le caviar, mais pas le poulet.	6.25
+7342	J'adore le poulet, mais pas le caviar.	5.92
+7343	J'adore le caviar, mais pas les produits de la mer.	3.55
+7344	J'adore les produits de la mer, mais pas le caviar.	6.33
+7346	J'adore le caviar, mais pas le veau.	6.25
+7347	J'adore le veau, mais pas le caviar.	6.0
+7351	J'adore le caviar, mais pas la dinde.	5.25
+7352	J'adore la dinde, mais pas le caviar.	5.92
+7356	J'adore le caviar, mais pas le boeuf.	5.92
+7357	J'adore le boeuf, mais pas le caviar.	5.83
+20321	J'aime les perrouquets, un type intéressant de chat.	1.08
+20322	J'aime les chats, un type intéressant de perrouquet.	1.17
+20323	J'aime les perrouquets, un type intéressant d' oiseau.	5.75
+20324	J'aime les oiseaux, un type intéressant de perrouquet.	1.5
+20325	J'aime les oiseaux, un type intéressant de chat.	1.08
+20326	J'aime les perrouquets, un type intéressant de hamster.	1.42
+20327	J'aime les hamsters, un type intéressant de perrouquet.	1.17
+20330	J'aime les oiseaux, un type intéressant de hamster.	1.25
+20331	J'aime les perrouquets, un type intéressant de cochon.	1.0
+20332	J'aime les cochons, un type intéressant de perrouquet.	1.42
+20335	J'aime les oiseaux, un type intéressant de cochon.	1.08
+20336	J'aime les perrouquets, un type intéressant de chien.	1.08
+20340	J'aime les oiseaux, un type intéressant de chien.	1.42
+20361	J'aime les canards, un type intéressant de chat.	1.17
+20362	J'aime les chats, un type intéressant de canard.	1.33
+20363	J'aime les canards, un type intéressant d' oiseau.	5.92
+20364	J'aime les oiseaux, un type intéressant de canard.	1.42
+20366	J'aime les canards, un type intéressant de hamster.	1.0
+20367	J'aime les hamsters, un type intéressant de canard.	1.17
+20371	J'aime les canards, un type intéressant de cochon.	1.0
+20372	J'aime les cochons, un type intéressant de canard.	1.17
+20376	J'aime les canards, un type intéressant de chien.	1.17
+20377	J'aime les chiens, un type intéressant de canard.	1.0
+20401	J'aime les merles, un type intéressant de chat.	1.17
+20402	J'aime les chats, un type intéressant de merle.	1.25
+20403	J'aime les merles, un type intéressant d' oiseau.	6.08
+20404	J'aime les oiseaux, un type intéressant de merle.	1.67
+20406	J'aime les merles, un type intéressant de hamster.	1.08
+20407	J'aime les hamsters, un type intéressant de merle.	1.08
+20411	J'aime les merles, un type intéressant de cochon.	1.25
+20412	J'aime les cochons, un type intéressant de merle.	1.0
+20416	J'aime les merles, un type intéressant de chien.	1.08
+20417	J'aime les chiens, un type intéressant de merle.	1.08
+20441	J'aime les moineaux, un type intéressant de chat.	1.17
+20442	J'aime les chats, un type intéressant de moineau.	2.0
+20443	J'aime les moineaux, un type intéressant d' oiseau.	6.92
+20444	J'aime les oiseaux, un type intéressant de moineau.	1.25
+20446	J'aime les moineaux, un type intéressant de hamster.	1.75
+20447	J'aime les hamsters, un type intéressant de moineau.	1.0
+20451	J'aime les moineaux, un type intéressant de cochon.	1.0
+20452	J'aime les cochons, un type intéressant de moineau.	1.08
+20456	J'aime les moineaux, un type intéressant de chien.	1.0
+20457	J'aime les chiens, un type intéressant de moineau.	1.42
+21441	J'adore les chênes, un type intéressant de pelouse.	1.0
+21442	J'adore la pelouse, un type intéressant de chênes.	1.17
+21443	J'adore les chênes, un type intéressant d' arbre.	5.5
+21444	J'adore les arbres, un type intéressant de chênes.	1.33
+21445	J'adore les arbres, un type intéressant de pelouse.	1.33
+21446	J'adore les chênes, un type intéressant d' animal.	1.08
+21447	J'adore les animaux, un type intéressant de chênes.	1.0
+21450	J'adore les arbres, un type intéressant d' animal.	1.08
+21451	J'adore les chênes, un type intéressant de buisson.	1.42
+21452	J'adore les buissons, un type intéressant de chênes.	2.17
+21455	J'adore les arbres, un type intéressant de buisson.	2.0
+21456	J'adore les chênes, un type intéressant d' arbuste.	3.0
+21457	J'adore les arbustes, un type intéressant de chênes.	1.75
+21460	J'adore les arbres, un type intéressant d' arbuste.	1.73
+21481	J'adore les bouleaux, un type intéressant de pelouse.	1.5
+21482	J'adore la pelouse, un type intéressant de bouleau.	1.58
+21483	J'adore les bouleaux, un type intéressant d' arbre.	6.45
+21484	J'adore les arbres, un type intéressant de bouleau.	2.5
+21486	J'adore les bouleaux, un type intéressant d' animal.	1.25
+21487	J'adore les animaux, un type intéressant de bouleau.	1.08
+21491	J'adore les bouleaux, un type intéressant de buisson.	1.92
+21492	J'adore les buissons, un type intéressant de bouleau.	1.08
+21496	J'adore les bouleaux, un type intéressant d' arbuste.	3.45
+21497	J'adore les arbustes, un type intéressant de bouleau.	2.25
+21521	J'adore les sapins, un type intéressant de pelouse.	1.25
+21522	J'adore la pelouse, un type intéressant de sapin.	1.17
+21523	J'adore les sapins, un type intéressant d' arbre.	6.58
+21524	J'adore les arbres, un type intéressant de sapin.	1.92
+21526	J'adore les sapins, un type intéressant d' animal.	1.25
+21527	J'adore les animaux, un type intéressant de sapin.	1.0
+21531	J'adore les sapins, un type intéressant de buisson.	1.55
+21532	J'adore les buissons, un type intéressant de sapin.	1.42
+21536	J'adore les sapins, un type intéressant d' arbuste.	4.58
+21537	J'adore les arbustes, un type intéressant de sapin.	2.17
+21561	J'adore les pins, un type intéressant de pelouse.	1.33
+21562	J'adore la pelouse, un type intéressant de pin.	1.42
+21563	J'adore les pins, un type intéressant d' arbre.	6.67
+21564	J'adore les arbres, un type intéressant de pin.	1.33
+21566	J'adore les pins, un type intéressant d' animal.	1.0
+21567	J'adore les animaux, un type intéressant de pin.	1.0
+21571	J'adore les pins, un type intéressant de buisson.	1.58
+21572	J'adore les buissons, un type intéressant de pin.	1.83
+21576	J'adore les pins, un type intéressant d' arbuste.	3.42
+21577	J'adore les arbustes, un type intéressant de pin.	1.75
+23201	J'adore le saumon, un type intéressant de poulet.	1.42
+23202	J'adore le poulet, un type intéressant de saumon.	1.42
+23203	J'adore le saumon, un type intéressant de produits de la mer.	6.0
+23204	J'adore les produits de la mer, un type intéressant de saumon.	1.42
+23205	J'adore les produits de la mer, un type intéressant de poulet.	1.25
+23206	J'adore le saumon, un type intéressant de veau.	1.0
+23207	J'adore le veau, un type intéressant de saumon.	1.08
+23210	J'adore les produits de la mer, un type intéressant de veau.	1.0
+23211	J'adore le saumon, un type intéressant de dinde.	1.33
+23212	J'adore la dinde, un type intéressant de saumon.	1.33
+23215	J'adore les produits de la mer, un type intéressant de dinde.	1.08
+23216	J'adore le saumon, un type intéressant de boeuf.	1.0
+23217	J'adore le boeuf, un type intéressant de saumon.	1.0
+23220	J'adore les produits de la mer, un type intéressant de boeuf.	1.5
+23241	J'adore les crabes, un type intéressant de poulet.	1.0
+23242	J'adore le poulet, un type intéressant de crabes.	1.5
+23243	J'adore les crabes, un type intéressant de produits de la mer.	6.33
+23244	J'adore les produits de la mer, un type intéressant de crabe.	1.08
+23246	J'adore les crabes, un type intéressant de veau.	1.0
+23247	J'adore le veau, un type intéressant de crabes.	1.17
+23251	J'adore les crabes, un type intéressant de dinde.	1.08
+23252	J'adore la dinde, un type intéressant de crabes.	1.17
+23256	J'adore les crabes, un type intéressant de boeuf.	1.08
+23257	J'adore le boeuf, un type intéressant de crabes.	1.67
+23281	J'adore les huîtres, un type intéressant de poulet.	1.0
+23282	J'adore le poulet, un type intéressant de huîtres.	1.0
+23283	J'adore les huîtres, un type intéressant de produits de la mer.	6.25
+23284	J'adore les produits de la mer, un type intéressant de huître.	2.17
+23286	J'adore les huîtres, un type intéressant de veau.	1.0
+23287	J'adore le veau, un type intéressant de huîtres.	1.25
+23291	J'adore les huîtres, un type intéressant de dinde.	1.0
+23292	J'adore la dinde, un type intéressant de huîtres.	1.17
+23296	J'adore les huîtres, un type intéressant de boeuf.	1.0
+23297	J'adore le boeuf, un type intéressant de huîtres.	1.08
+23321	J'adore le caviar, un type intéressant de poulet.	1.08
+23322	J'adore le poulet, un type intéressant de caviar.	1.0
+23323	J'adore le caviar, un type intéressant de produits de la mer.	6.67
+23324	J'adore les produits de la mer, un type intéressant de caviar.	1.33
+23326	J'adore le caviar, un type intéressant de veau.	1.08
+23327	J'adore le veau, un type intéressant de caviar.	1.17
+23331	J'adore le caviar, un type intéressant de dinde.	1.0
+23332	J'adore la dinde, un type intéressant de caviar.	1.33
+23336	J'adore le caviar, un type intéressant de boeuf.	1.67
+23337	J'adore le boeuf, un type intéressant de caviar.	1.08
+26001	J'aime les perrouquets, et aussi les chats.	5.75
+26002	J'aime les chats, et aussi les perrouquets.	5.67
+26003	J'aime les perrouquets, et aussi les oiseaux.	2.33
+26004	J'aime les oiseaux, et aussi les perrouquets.	3.92
+26005	J'aime les oiseaux, et aussi les chats.	6.5
+26006	J'aime les perrouquets, et aussi les hamsters.	5.5
+26007	J'aime les hamsters, et aussi les perrouquets.	5.67
+26010	J'aime les oiseaux, et aussi les hamsters.	6.42
+26011	J'aime les perrouquets, et aussi les cochons.	6.0
+26012	J'aime les cochons, et aussi les perrouquets.	4.92
+26015	J'aime les oiseaux, et aussi les cochons.	6.33
+26016	J'aime les perrouquets, et aussi les chiens.	5.5
+26020	J'aime les oiseaux, et aussi les chiens.	6.75
+26021	J'aime les canards, et aussi les chats.	6.5
+26022	J'aime les chats, et aussi les canards.	6.17
+26023	J'aime les canards, et aussi les oiseaux.	3.75
+26024	J'aime les oiseaux, et aussi les canards.	4.92
+26026	J'aime les canards, et aussi les hamsters.	6.58
+26027	J'aime les hamsters, et aussi les canards.	6.08
+26031	J'aime les canards, et aussi les cochons.	5.92
+26032	J'aime les cochons, et aussi les canards.	6.17
+26036	J'aime les canards, et aussi les chiens.	5.75
+26037	J'aime les chiens, et aussi les canards.	6.42
+26041	J'aime les merles, et aussi les chats.	6.42
+26042	J'aime les chats, et aussi les merles.	5.58
+26043	J'aime les merles, et aussi les oiseaux.	3.25
+26044	J'aime les oiseaux, et aussi les merles.	3.75
+26046	J'aime les merles, et aussi les hamsters.	5.83
+26047	J'aime les hamsters, et aussi les merles.	5.75
+26051	J'aime les merles, et aussi les cochons.	5.33
+26052	J'aime les cochons, et aussi les merles.	5.33
+26056	J'aime les merles, et aussi les chiens.	6.17
+26057	J'aime les chiens, et aussi les merles.	6.25
+26061	J'aime les moineaux, et aussi les chats.	6.42
+26062	J'aime les chats, et aussi les moineaux.	6.17
+26063	J'aime les moineaux, et aussi les oiseaux.	2.36
+26064	J'aime les oiseaux, et aussi les moineaux.	2.67
+26066	J'aime les moineaux, et aussi les hamsters.	5.25
+26067	J'aime les hamsters, et aussi les moineaux.	5.92
+26071	J'aime les moineaux, et aussi les cochons.	5.92
+26072	J'aime les cochons, et aussi les moineaux.	6.17
+26076	J'aime les moineaux, et aussi les chiens.	5.83
+26077	J'aime les chiens, et aussi les moineaux.	6.25
+26561	J'aime les chênes, et aussi la pelouse.	5.67
+26562	J'aime la pelouse, et aussi les chênes.	5.08
+26563	J'aime les chênes, et aussi les arbres.	3.67
+26564	J'aime les arbres, et aussi les chênes.	3.5
+26565	J'aime les arbres, et aussi la pelouse.	5.33
+26566	J'aime les chênes, et aussi les animaux.	5.25
+26567	J'aime les animaux, et aussi les chênes.	5.42
+26570	J'aime les arbres, et aussi les animaux.	6.25
+26571	J'aime les chênes, et aussi les buissons.	5.83
+26572	J'aime les buissons, et aussi les chênes.	5.83
+26575	J'aime les arbres, et aussi les buissons.	6.0
+26576	J'aime les chênes, et aussi les arbustes.	5.67
+26577	J'aime les arbustes, et aussi les chênes.	5.58
+26580	J'aime les arbres, et aussi les arbustes.	6.17
+26581	J'aime les bouleaux, et aussi la pelouse.	5.33
+26582	J'aime la pelouse, et aussi les bouleaux.	5.92
+26583	J'aime les bouleaux, et aussi les arbres.	2.33
+26584	J'aime les arbres, et aussi les bouleaux.	2.67
+26586	J'aime les bouleaux, et aussi les animaux.	5.42
+26587	J'aime les animaux, et aussi les bouleaux.	4.58
+26591	J'aime les bouleaux, et aussi les buissons.	6.08
+26592	J'aime les buissons, et aussi les bouleaux.	5.58
+26596	J'aime les bouleaux, et aussi les arbustes.	5.67
+26597	J'aime les arbustes, et aussi les bouleaux.	5.75
+26601	J'aime les sapins, et aussi la pelouse.	6.0
+26602	J'aime la pelouse, et aussi les sapins.	6.17
+26603	J'aime les sapins, et aussi les arbres.	3.0
+26604	J'aime les arbres, et aussi les sapins.	3.92
+26606	J'aime les sapins, et aussi les animaux.	5.0
+26607	J'aime les animaux, et aussi les sapins.	5.67
+26611	J'aime les sapins, et aussi les buissons.	5.92
+26612	J'aime les buissons, et aussi les sapins.	6.33
+26616	J'aime les sapins, et aussi les arbustes.	6.0
+26617	J'aime les arbustes, et aussi les sapins.	5.08
+26621	J'aime les pins, et aussi la pelouse.	4.92
+26622	J'aime la pelouse, et aussi les pins.	5.42
+26623	J'aime les pins, et aussi les arbres.	2.42
+26624	J'aime les arbres, et aussi les pins.	3.83
+26626	J'aime les pins, et aussi les animaux.	5.17
+26627	J'aime les animaux, et aussi les pins.	4.33
+26631	J'aime les pins, et aussi les buissons.	5.67
+26632	J'aime les buissons, et aussi les pins.	6.33
+26636	J'aime les pins, et aussi les arbustes.	5.92
+26637	J'aime les arbustes, et aussi les pins.	5.92
+27441	J'aime le saumon, et aussi le poulet.	6.58
+27442	J'aime le poulet, et aussi le saumon.	6.0
+27443	J'aime le saumon, et aussi les produits de la mer.	5.08
+27444	J'aime les produits de la mer, et aussi le saumon.	3.91
+27445	J'aime les produits de la mer, et aussi le poulet.	5.83
+27446	J'aime le saumon, et aussi le veau.	6.17
+27447	J'aime le veau, et aussi le saumon.	6.17
+27450	J'aime les produits de la mer, et aussi le veau.	5.92
+27451	J'aime le saumon, et aussi la dinde.	6.58
+27452	J'aime la dinde, et aussi le saumon.	6.25
+27455	J'aime les produits de la mer, et aussi la dinde.	6.17
+27456	J'aime le saumon, et aussi le boeuf.	6.17
+27457	J'aime le boeuf, et aussi le saumon.	6.42
+27460	J'aime les produits de la mer, et aussi le boeuf.	6.17
+27461	J'aime les crabes, et aussi le poulet.	5.92
+27462	J'aime le poulet, et aussi les crabes.	5.17
+27463	J'aime les crabes, et aussi les produits de la mer.	4.67
+27464	J'aime les produits de la mer, et aussi les crabes.	3.17
+27466	J'aime les crabes, et aussi le veau.	5.75
+27467	J'aime le veau, et aussi les crabes.	6.08
+27471	J'aime les crabes, et aussi la dinde.	5.25
+27472	J'aime la dinde, et aussi les crabes.	6.0
+27476	J'aime les crabes, et aussi le boeuf.	5.08
+27477	J'aime le boeuf, et aussi les crabes.	5.25
+27481	J'aime les huîtres, et aussi le poulet.	5.92
+27482	J'aime le poulet, et aussi les huîtres.	5.83
+27483	J'aime les huîtres, et aussi les produits de la mer.	4.0
+27484	J'aime les produits de la mer, et aussi les huîtres.	3.17
+27486	J'aime les huîtres, et aussi le veau.	5.92
+27487	J'aime le veau, et aussi les huîtres.	5.75
+27491	J'aime les huîtres, et aussi la dinde.	6.17
+27492	J'aime la dinde, et aussi les huîtres.	5.83
+27496	J'aime les huîtres, et aussi le boeuf.	6.17
+27497	J'aime le boeuf, et aussi les huîtres.	6.17
+27501	J'aime le caviar, et aussi le poulet.	6.09
+27502	J'aime le poulet, et aussi le caviar.	6.25
+27503	J'aime le caviar, et aussi les produits de la mer.	5.0
+27504	J'aime les produits de la mer, et aussi le caviar.	4.58
+27506	J'aime le caviar, et aussi le veau.	5.83
+27507	J'aime le veau, et aussi le caviar.	6.25
+27511	J'aime le caviar, et aussi la dinde.	6.42
+27512	J'aime la dinde, et aussi le caviar.	6.58
+27516	J'aime le caviar, et aussi le boeuf.	6.0
+27517	J'aime le boeuf, et aussi le caviar.	5.75
+31921	J'aime les perrouquets plus que les chats.	5.5
+31922	J'aime les chats plus que les perrouquets.	5.67
+31923	J'aime les perrouquets plus que les oiseaux.	2.5
+31924	J'aime les oiseaux plus que les perrouquets.	2.18
+31925	J'aime les oiseaux plus que les chats.	6.58
+31926	J'aime les perrouquets plus que les hamsters.	3.5
+31927	J'aime les hamsters plus que les perrouquets.	4.83
+31930	J'aime les oiseaux plus que les hamsters.	6.0
+31931	J'aime les perrouquets plus que les cochons.	5.08
+31932	J'aime les cochons plus que les perrouquets.	4.33
+31935	J'aime les oiseaux plus que les cochons.	5.92
+31936	J'aime les perrouquets plus que les chiens.	4.75
+31940	J'aime les oiseaux plus que les chiens.	6.5
+31981	J'aime les canards plus que les chats.	6.0
+31982	J'aime les chats plus que les canards.	6.5
+31983	J'aime les canards plus que les oiseaux.	3.5
+31984	J'aime les oiseaux plus que les canards.	3.42
+31986	J'aime les canards plus que les hamsters.	6.08
+31987	J'aime les hamsters plus que les canards.	5.67
+31991	J'aime les canards plus que les cochons.	6.58
+31992	J'aime les cochons plus que les canards.	6.83
+31996	J'aime les canards plus que les chiens.	6.5
+31997	J'aime les chiens plus que les canards.	6.25
+32041	J'aime les merles plus que les chats.	5.67
+32042	J'aime les chats plus que les merles.	5.58
+32043	J'aime les merles plus que les oiseaux.	1.58
+32044	J'aime les oiseaux plus que les merles.	2.33
+32046	J'aime les merles plus que les hamsters.	5.92
+32047	J'aime les hamsters plus que les merles.	6.42
+32051	J'aime les merles plus que les cochons.	5.45
+32052	J'aime les cochons plus que les merles.	6.33
+32056	J'aime les merles plus que les chiens.	6.17
+32057	J'aime les chiens plus que les merles.	5.58
+32101	J'aime les moineaux plus que les chats.	6.08
+32102	J'aime les chats plus que les moineaux.	6.33
+32103	J'aime les moineaux plus que les oiseaux.	1.67
+32104	J'aime les oiseaux plus que les moineaux.	1.58
+32106	J'aime les moineaux plus que les hamsters.	6.33
+32107	J'aime les hamsters plus que les moineaux.	6.42
+32111	J'aime les moineaux plus que les cochons.	6.0
+32112	J'aime les cochons plus que les moineaux.	6.33
+32116	J'aime les moineaux plus que les chiens.	6.67
+32117	J'aime les chiens plus que les moineaux.	6.25
+33601	J'aime les chênes plus que la pelouse.	4.67
+33602	J'aime la pelouse plus que les chênes.	6.08
+33603	J'aime les chênes plus que les arbres.	2.42
+33604	J'aime les arbres plus que les chênes.	1.75
+33605	J'aime les arbres plus que la pelouse.	5.33
+33606	J'aime les chênes plus que les animaux.	5.42
+33607	J'aime les animaux plus que les chênes.	5.45
+33610	J'aime les arbres plus que les animaux.	6.73
+33611	J'aime les chênes plus que les buissons.	6.42
+33612	J'aime les buissons plus que les chênes.	5.83
+33615	J'aime les arbres plus que les buissons.	6.67
+33616	J'aime les chênes plus que les arbustes.	5.92
+33617	J'aime les arbustes plus que les chênes.	5.25
+33620	J'aime les arbres plus que les arbustes.	5.75
+33661	J'aime les bouleaux plus que la pelouse.	5.25
+33662	J'aime la pelouse plus que les bouleaux.	5.17
+33663	J'aime les bouleaux plus que les arbres.	2.25
+33664	J'aime les arbres plus que les bouleaux.	1.67
+33666	J'aime les bouleaux plus que les animaux.	4.5
+33667	J'aime les animaux plus que les bouleaux.	5.08
+33671	J'aime les bouleaux plus que les buissons.	5.55
+33672	J'aime les buissons plus que les bouleaux.	6.0
+33676	J'aime les bouleaux plus que les arbustes.	5.33
+33677	J'aime les arbustes plus que les bouleaux.	5.5
+33721	J'aime les sapins plus que la pelouse.	5.5
+33722	J'aime la pelouse plus que les sapins.	4.0
+33723	J'aime les sapins plus que les arbres.	1.75
+33724	J'aime les arbres plus que les sapins.	2.83
+33726	J'aime les sapins plus que les animaux.	5.08
+33727	J'aime les animaux plus que les sapins.	5.58
+33731	J'aime les sapins plus que les buissons.	5.58
+33732	J'aime les buissons plus que les sapins.	6.0
+33736	J'aime les sapins plus que les arbustes.	5.33
+33737	J'aime les arbustes plus que les sapins.	5.83
+33781	J'aime les pins plus que la pelouse.	5.17
+33782	J'aime la pelouse plus que les pins.	5.83
+33783	J'aime les pins plus que les arbres.	2.83
+33784	J'aime les arbres plus que les pins.	2.42
+33786	J'aime les pins plus que les animaux.	5.08
+33787	J'aime les animaux plus que les pins.	4.92
+33791	J'aime les pins plus que les buissons.	5.0
+33792	J'aime les buissons plus que les pins.	5.92
+33796	J'aime les pins plus que les arbustes.	5.5
+33797	J'aime les arbustes plus que les pins.	4.67
+36241	J'aime le saumon plus que le poulet.	6.0
+36242	J'aime le poulet plus que le saumon.	6.17
+36243	J'aime le saumon plus que les produits de la mer.	2.83
+36244	J'aime les produits de la mer plus que le saumon.	2.25
+36245	J'aime les produits de la mer plus que le poulet.	6.58
+36246	J'aime le saumon plus que le veau.	6.0
+36247	J'aime le veau plus que le saumon.	6.33
+36250	J'aime les produits de la mer plus que le veau.	6.58
+36251	J'aime le saumon plus que la dinde.	6.5
+36252	J'aime la dinde plus que le saumon.	6.67
+36255	J'aime les produits de la mer plus que la dinde.	6.67
+36256	J'aime le saumon plus que le boeuf.	6.33
+36257	J'aime le boeuf plus que le saumon.	6.5
+36260	J'aime les produits de la mer plus que le boeuf.	6.17
+36301	J'aime les crabes plus que le poulet.	6.82
+36302	J'aime le poulet plus que les crabes.	6.25
+36303	J'aime les crabes plus que les produits de la mer.	2.33
+36304	J'aime les produits de la mer plus que les crabes.	1.83
+36306	J'aime les crabes plus que le veau.	6.42
+36307	J'aime le veau plus que les crabes.	5.58
+36311	J'aime les crabes plus que la dinde.	6.33
+36312	J'aime la dinde plus que les crabes.	6.33
+36316	J'aime les crabes plus que le boeuf.	6.18
+36317	J'aime le boeuf plus que les crabes.	6.42
+36361	J'aime les huîtres plus que le poulet.	6.58
+36362	J'aime le poulet plus que les huîtres.	6.55
+36363	J'aime les huîtres plus que les produits de la mer.	1.83
+36364	J'aime les produits de la mer plus que les huîtres.	1.42
+36366	J'aime les huîtres plus que le veau.	6.83
+36367	J'aime le veau plus que les huîtres.	6.58
+36371	J'aime les huîtres plus que la dinde.	6.42
+36372	J'aime la dinde plus que les huîtres.	6.27
+36376	J'aime les huîtres plus que le boeuf.	6.55
+36377	J'aime le boeuf plus que les huîtres.	6.25
+36421	J'aime le caviar plus que le poulet.	6.42
+36422	J'aime le poulet plus que le caviar.	6.17
+36423	J'aime le caviar plus que les produits de la mer.	2.83
+36424	J'aime les produits de la mer plus que le caviar.	2.33
+36426	J'aime le caviar plus que le veau.	6.33
+36427	J'aime le veau plus que le caviar.	6.0
+36431	J'aime le caviar plus que la dinde.	6.33
+36432	J'aime la dinde plus que le caviar.	6.42
+36436	J'aime le caviar plus que le boeuf.	6.42
+36437	J'aime le boeuf plus que le caviar.	6.58
