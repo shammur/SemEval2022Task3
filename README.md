@@ -5,7 +5,7 @@
 </p>
 
 # SemEval 2022 Task 3
-# Presupposed Taxonomies: Evaluating Neural-network Semantics (PreTENS) 
+# Presupposed Taxonomies: Evaluating Neural Network Semantics (PreTENS) 
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
@@ -29,6 +29,16 @@ For each sub-task and each language:
 For the **binary-classification** sub-task, the training and test set will be composed by 10,000  and 23,000 samples, respectively;
 For the **regression** sub-task, 1,000 sentences will be provided for the training set and 600 for the test set.
 
+Sample/Trail data for Evaluation Campaign: data/trail
+
+Data Format:
+
+**ID    SENT    LABEL/AVG_SCORE**
+
+where LABEL is for binary classification task and AVG_SCORE is for the regression task.
+AVG_SCORE: represent average of the assigned score (1-7) given by the annotator. Details of scales and agreements will be elaborated/updated later.
+The LABEL (1/0) is assigned based on the regression score.
+
 ## Evaluation Measures
 **Coming Soon**
 
@@ -42,7 +52,7 @@ MIT
 
 ## Useful links
 
-   Task Website: Website
+   [Task Website](<https://sites.google.com/view/semeval2022-pretens>)
    
    Competition Link: Coming Soon
    
