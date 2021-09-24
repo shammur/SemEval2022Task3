@@ -1,0 +1,525 @@
+ID	Sentence	Score
+5841	I like parrots, but not cats.	4.36
+5842	I like cats, but not parrots.	5.25
+5843	I like parrots, but not birds.	3.67
+5844	I like birds, but not parrots.	5.73
+5845	I like birds, but not cats.	5.0
+5846	I like parrots, but not hamsters.	5.25
+5847	I like hamsters, but not parrots.	6.44
+5850	I like birds, but not hamsters.	5.75
+5851	I like parrots, but not pigs.	5.42
+5852	I like pigs, but not parrots.	5.33
+5855	I like birds, but not pigs.	5.27
+5856	I like parrots, but not dogs.	4.45
+5860	I like birds, but not dogs.	5.82
+5861	I like ducks, but not cats.	5.55
+5862	I like cats, but not ducks.	5.92
+5863	I like ducks, but not birds.	4.0
+5864	I like birds, but not ducks.	5.55
+5866	I like ducks, but not hamsters.	5.67
+5867	I like hamsters, but not ducks.	5.09
+5871	I like ducks, but not pigs.	4.36
+5872	I like pigs, but not ducks.	5.27
+5876	I like ducks, but not dogs.	5.0
+5877	I like dogs, but not ducks.	5.69
+5881	I like blackbirds, but not cats.	5.92
+5882	I like cats, but not blackbirds.	2.64
+5883	I like blackbirds, but not birds.	2.0
+5884	I like birds, but not blackbirds.	6.0
+5886	I like blackbirds, but not hamsters.	5.5
+5887	I like hamsters, but not blackbirds.	4.58
+5891	I like blackbirds, but not pigs.	4.67
+5892	I like pigs, but not blackbirds.	5.5
+5896	I like blackbirds, but not dogs.	5.67
+5897	I like dogs, but not blackbirds.	4.0
+5901	I like sparrows, but not cats.	4.5
+5902	I like cats, but not sparrows.	4.77
+5903	I like sparrows, but not birds.	2.17
+5904	I like birds, but not sparrows.	5.75
+5906	I like sparrows, but not hamsters.	5.08
+5907	I like hamsters, but not sparrows.	4.25
+5911	I like sparrows, but not pigs.	5.5
+5912	I like pigs, but not sparrows.	4.27
+5916	I like sparrows, but not dogs.	3.08
+5917	I like dogs, but not sparrows.	5.44
+6401	I like oaks, but not grass.	5.11
+6402	I like grass, but not oaks.	1.75
+6403	I like oaks, but not trees.	1.73
+6404	I like trees, but not oaks.	5.73
+6405	I like trees, but not grass.	4.83
+6406	I like oaks, but not animals.	4.5
+6407	I like animals, but not oaks.	4.44
+6410	I like trees, but not animals.	5.33
+6411	I like oaks, but not bushes.	4.58
+6412	I like bushes, but not oaks.	5.44
+6415	I like trees, but not bushes.	5.83
+6416	I like oaks, but not shrubs.	1.33
+6417	I like shrubs, but not oaks.	5.08
+6420	I like trees, but not shrubs.	5.75
+6421	I like birches, but not grass.	3.36
+6422	I like grass, but not birches.	4.89
+6423	I like birches, but not trees.	6.17
+6424	I like trees, but not birches.	1.83
+6426	I like birches, but not animals.	4.0
+6427	I like animals, but not birches.	4.56
+6431	I like birches, but not bushes.	5.0
+6432	I like bushes, but not birches.	4.55
+6436	I like birches, but not shrubs.	5.67
+6437	I like shrubs, but not birches.	3.67
+6441	I like firs, but not grass.	2.33
+6442	I like grass, but not firs.	4.31
+6443	I like firs, but not trees.	3.33
+6444	I like trees, but not firs.	4.58
+6446	I like firs, but not animals.	4.08
+6447	I like animals, but not firs.	3.33
+6451	I like firs, but not bushes.	4.08
+6452	I like bushes, but not firs.	3.83
+6456	I like firs, but not shrubs.	6.22
+6457	I like shrubs, but not firs.	5.42
+6461	I like pines, but not grass.	4.17
+6462	I like grass, but not pines.	4.5
+6463	I like pines, but not trees.	2.33
+6464	I like trees, but not pines.	5.67
+6466	I like pines, but not animals.	4.0
+6467	I like animals, but not pines.	3.67
+6471	I like pines, but not bushes.	3.58
+6472	I like bushes, but not pines.	4.25
+6476	I like pines, but not shrubs.	5.36
+6477	I like shrubs, but not pines.	4.92
+7281	I like salmon, but not chicken.	5.45
+7282	I like chicken, but not salmon.	5.58
+7283	I like salmon, but not seafood.	4.33
+7284	I like seafood, but not salmon.	5.67
+7285	I like seafood, but not chicken.	7.0
+7286	I like salmon, but not veal.	5.17
+7287	I like veal, but not salmon.	5.67
+7290	I like seafood, but not veal.	4.08
+7291	I like salmon, but not turkey.	5.92
+7292	I like turkey, but not salmon.	5.33
+7295	I like seafood, but not turkey.	5.0
+7296	I like salmon, but not beef.	5.77
+7297	I like beef, but not salmon.	5.92
+7300	I like seafood, but not beef.	3.82
+7301	I like crabs, but not chicken.	4.58
+7302	I like chicken, but not crabs.	5.08
+7303	I like crabs, but not seafood.	3.25
+7304	I like seafood, but not crabs.	6.42
+7306	I like crabs, but not veal.	4.55
+7307	I like veal, but not crabs.	4.92
+7311	I like crabs, but not turkey.	5.5
+7312	I like turkey, but not crabs.	4.67
+7316	I like crabs, but not beef.	4.67
+7317	I like beef, but not crabs.	4.25
+7321	I like oysters, but not chicken.	5.64
+7322	I like chicken, but not oysters.	5.75
+7323	I like oysters, but not seafood.	3.55
+7324	I like seafood, but not oysters.	6.36
+7326	I like oysters, but not veal.	4.64
+7327	I like veal, but not oysters.	5.17
+7331	I like oysters, but not turkey.	4.83
+7332	I like turkey, but not oysters.	5.42
+7336	I like oysters, but not beef.	4.75
+7337	I like beef, but not oysters.	6.0
+7341	I like caviar, but not chicken.	6.11
+7342	I like chicken, but not caviar.	6.44
+7343	I like caviar, but not seafood.	3.5
+7344	I like seafood, but not caviar.	6.17
+7346	I like caviar, but not veal.	6.0
+7347	I like veal, but not caviar.	5.17
+7351	I like caviar, but not turkey.	4.67
+7352	I like turkey, but not caviar.	4.42
+7356	I like caviar, but not beef.	6.0
+7357	I like beef, but not caviar.	5.25
+20321	I like parrots, an interesting type of cat.	1.25
+20322	I like cats, an interesting type of parrot.	1.0
+20323	I like parrots, an interesting type of bird.	6.67
+20324	I like birds, an interesting type of parrot.	2.75
+20325	I like birds, an interesting type of cat.	1.15
+20326	I like parrots, an interesting type of hamster.	1.75
+20327	I like hamsters, an interesting type of parrot.	1.25
+20330	I like birds, an interesting type of hamster.	1.82
+20331	I like parrots, an interesting type of pig.	1.42
+20332	I like pigs, an interesting type of parrot.	1.58
+20335	I like birds, an interesting type of pig.	1.0
+20336	I like parrots, an interesting type of dog.	1.58
+20340	I like birds, an interesting type of dog.	5.67
+20361	I like ducks, an interesting type of cat.	1.09
+20362	I like cats, an interesting type of duck.	1.15
+20363	I like ducks, an interesting type of bird.	6.55
+20364	I like birds, an interesting type of duck.	2.0
+20366	I like ducks, an interesting type of hamster.	1.82
+20367	I like hamsters, an interesting type of duck.	1.33
+20371	I like ducks, an interesting type of pig.	1.25
+20372	I like pigs, an interesting type of duck.	1.5
+20376	I like ducks, an interesting type of dog.	1.09
+20377	I like dogs, an interesting type of duck.	1.33
+20401	I like blackbirds, an interesting type of cat.	1.33
+20402	I like cats, an interesting type of blackbird.	1.67
+20403	I like blackbirds, an interesting type of bird.	6.75
+20404	I like birds, an interesting type of blackbird.	4.5
+20406	I like blackbirds, an interesting type of hamster.	1.67
+20407	I like hamsters, an interesting type of blackbird.	1.75
+20411	I like blackbirds, an interesting type of pig.	1.58
+20412	I like pigs, an interesting type of blackbird.	1.33
+20416	I like blackbirds, an interesting type of dog.	1.45
+20417	I like dogs, an interesting type of blackbird.	1.67
+20441	I like sparrows, an interesting type of cat.	1.33
+20442	I like cats, an interesting type of sparrow.	1.17
+20443	I like sparrows, an interesting type of bird.	6.58
+20444	I like birds, an interesting type of sparrow.	2.92
+20446	I like sparrows, an interesting type of hamster.	1.42
+20447	I like hamsters, an interesting type of sparrow.	1.73
+20451	I like sparrows, an interesting type of pig.	1.25
+20452	I like pigs, an interesting type of sparrow.	1.27
+20456	I like sparrows, an interesting type of dog.	1.58
+20457	I like dogs, an interesting type of sparrow.	1.5
+21441	I like oaks, an interesting type of grass.	1.38
+21442	I like grass, an interesting type of oak.	1.64
+21443	I like oaks, an interesting type of tree.	6.55
+21444	I like trees, an interesting type of oak.	3.08
+21445	I like trees, an interesting type of grass.	1.67
+21446	I like oaks, an interesting type of animal.	1.08
+21447	I like animals, an interesting type of oak.	1.25
+21450	I like trees, an interesting type of animal.	1.33
+21451	I like oaks, an interesting type of bush.	2.0
+21452	I like bushes, an interesting type of oak.	1.46
+21455	I like trees, an interesting type of bush.	2.91
+21456	I like oaks, an interesting type of shrub.	2.0
+21457	I like shrubs, an interesting type of oak.	1.92
+21460	I like trees, an interesting type of shrub.	2.75
+21481	I like birches, an interesting type of grass.	2.08
+21482	I like grass, an interesting type of birch.	1.23
+21483	I like birches, an interesting type of tree.	6.25
+21484	I like trees, an interesting type of birch.	1.83
+21486	I like birches, an interesting type of animal.	1.83
+21487	I like animals, an interesting type of birch.	1.23
+21491	I like birches, an interesting type of bush.	3.08
+21492	I like bushes, an interesting type of birch.	1.83
+21496	I like birches, an interesting type of shrub.	2.67
+21497	I like shrubs, an interesting type of birch.	2.0
+21521	I like firs, an interesting type of grass.	1.69
+21522	I like grass, an interesting type of fir.	1.5
+21523	I like firs, an interesting type of tree.	6.42
+21524	I like trees, an interesting type of fir.	3.25
+21526	I like firs, an interesting type of animal.	1.5
+21527	I like animals, an interesting type of fir.	1.64
+21531	I like firs, an interesting type of bush.	2.44
+21532	I like bushes, an interesting type of fir.	3.17
+21536	I like firs, an interesting type of shrub.	3.17
+21537	I like shrubs, an interesting type of fir.	2.67
+21561	I like pines, an interesting type of grass.	2.08
+21562	I like grass, an interesting type of pine.	1.75
+21563	I like pines, an interesting type of tree.	6.83
+21564	I like trees, an interesting type of pine.	1.75
+21566	I like pines, an interesting type of animal.	1.44
+21567	I like animals, an interesting type of pine.	1.15
+21571	I like pines, an interesting type of bush.	2.17
+21572	I like bushes, an interesting type of pine.	2.0
+21576	I like pines, an interesting type of shrub.	4.58
+21577	I like shrubs, an interesting type of pine.	2.0
+23201	I like salmon, an interesting type of chicken.	1.17
+23202	I like chicken, an interesting type of salmon.	1.58
+23203	I like salmon, an interesting type of seafood.	6.89
+23204	I like seafood, an interesting type of salmon.	2.67
+23205	I like seafood, an interesting type of chicken.	1.75
+23206	I like salmon, an interesting type of veal.	1.58
+23207	I like veal, an interesting type of salmon.	1.55
+23210	I like seafood, an interesting type of veal.	1.75
+23211	I like salmon, an interesting type of turkey.	1.5
+23212	I like turkey, an interesting type of salmon.	1.25
+23215	I like seafood, an interesting type of turkey.	1.5
+23216	I like salmon, an interesting type of beef.	3.92
+23217	I like beef, an interesting type of salmon.	1.25
+23220	I like seafood, an interesting type of beef.	1.67
+23241	I like crabs, an interesting type of chicken.	1.27
+23242	I like chicken, an interesting type of crabs.	1.17
+23243	I like crabs, an interesting type of seafood.	6.23
+23244	I like seafood, an interesting type of crab.	3.75
+23246	I like crabs, an interesting type of veal.	1.58
+23247	I like veal, an interesting type of crabs.	1.33
+23251	I like crabs, an interesting type of turkey.	1.25
+23252	I like turkey, an interesting type of crabs.	1.56
+23256	I like crabs, an interesting type of beef.	1.25
+23257	I like beef, an interesting type of crabs.	1.25
+23281	I like oysters, an interesting type of chicken.	1.58
+23282	I like chicken, an interesting type of oysters.	1.15
+23283	I like oysters, an interesting type of seafood.	6.77
+23284	I like seafood, an interesting type of oyster.	1.73
+23286	I like oysters, an interesting type of veal.	3.0
+23287	I like veal, an interesting type of oysters.	1.75
+23291	I like oysters, an interesting type of turkey.	1.83
+23292	I like turkey, an interesting type of oysters.	1.33
+23296	I like oysters, an interesting type of beef.	1.5
+23297	I like beef, an interesting type of oysters.	1.25
+23321	I like caviar, an interesting type of chicken.	1.75
+23322	I like chicken, an interesting type of caviar.	1.92
+23323	I like caviar, an interesting type of seafood.	6.0
+23324	I like seafood, an interesting type of caviar.	1.67
+23326	I like caviar, an interesting type of veal.	1.83
+23327	I like veal, an interesting type of caviar.	1.42
+23331	I like caviar, an interesting type of turkey.	1.25
+23332	I like turkey, an interesting type of caviar.	1.42
+23336	I like caviar, an interesting type of beef.	1.67
+23337	I like beef, an interesting type of caviar.	1.09
+26001	I like parrots, and cats too.	3.67
+26002	I like cats, and parrots too.	5.75
+26003	I like parrots, and birds too.	4.83
+26004	I like birds, and parrots too.	4.17
+26005	I like birds, and cats too.	5.75
+26006	I like parrots, and hamsters too.	4.92
+26007	I like hamsters, and parrots too.	4.83
+26010	I like birds, and hamsters too.	5.83
+26011	I like parrots, and pigs too.	3.67
+26012	I like pigs, and parrots too.	5.92
+26015	I like birds, and pigs too.	5.0
+26016	I like parrots, and dogs too.	6.08
+26020	I like birds, and dogs too.	6.0
+26021	I like ducks, and cats too.	5.73
+26022	I like cats, and ducks too.	5.75
+26023	I like ducks, and birds too.	4.83
+26024	I like birds, and ducks too.	4.08
+26026	I like ducks, and hamsters too.	5.67
+26027	I like hamsters, and ducks too.	5.83
+26031	I like ducks, and pigs too.	6.0
+26032	I like pigs, and ducks too.	5.75
+26036	I like ducks, and dogs too.	6.67
+26037	I like dogs, and ducks too.	5.58
+26041	I like blackbirds, and cats too.	6.0
+26042	I like cats, and blackbirds too.	5.5
+26043	I like blackbirds, and birds too.	3.69
+26044	I like birds, and blackbirds too.	3.58
+26046	I like blackbirds, and hamsters too.	2.25
+26047	I like hamsters, and blackbirds too.	6.22
+26051	I like blackbirds, and pigs too.	5.33
+26052	I like pigs, and blackbirds too.	5.08
+26056	I like blackbirds, and dogs too.	5.82
+26057	I like dogs, and blackbirds too.	5.18
+26061	I like sparrows, and cats too.	5.25
+26062	I like cats, and sparrows too.	5.58
+26063	I like sparrows, and birds too.	4.17
+26064	I like birds, and sparrows too.	3.25
+26066	I like sparrows, and hamsters too.	5.36
+26067	I like hamsters, and sparrows too.	5.75
+26071	I like sparrows, and pigs too.	5.78
+26072	I like pigs, and sparrows too.	5.23
+26076	I like sparrows, and dogs too.	5.54
+26077	I like dogs, and sparrows too.	5.67
+26561	I like oaks, and grass too.	5.42
+26562	I like grass, and oaks too.	5.89
+26563	I like oaks, and trees too.	4.0
+26564	I like trees, and oaks too.	3.25
+26565	I like trees, and grass too.	5.67
+26566	I like oaks, and animals too.	3.09
+26567	I like animals, and oaks too.	4.25
+26570	I like trees, and animals too.	3.92
+26571	I like oaks, and bushes too.	5.45
+26572	I like bushes, and oaks too.	5.0
+26575	I like trees, and bushes too.	1.83
+26576	I like oaks, and shrubs too.	5.25
+26577	I like shrubs, and oaks too.	5.33
+26580	I like trees, and shrubs too.	2.17
+26581	I like birches, and grass too.	3.0
+26582	I like grass, and birches too.	4.45
+26583	I like birches, and trees too.	4.25
+26584	I like trees, and birches too.	4.56
+26586	I like birches, and animals too.	4.83
+26587	I like animals, and birches too.	5.11
+26591	I like birches, and bushes too.	5.5
+26592	I like bushes, and birches too.	4.85
+26596	I like birches, and shrubs too.	5.0
+26597	I like shrubs, and birches too.	5.0
+26601	I like firs, and grass too.	5.17
+26602	I like grass, and firs too.	5.25
+26603	I like firs, and trees too.	4.5
+26604	I like trees, and firs too.	4.08
+26606	I like firs, and animals too.	5.17
+26607	I like animals, and firs too.	4.58
+26611	I like firs, and bushes too.	4.42
+26612	I like bushes, and firs too.	4.08
+26616	I like firs, and shrubs too.	5.58
+26617	I like shrubs, and firs too.	3.75
+26621	I like pines, and grass too.	4.33
+26622	I like grass, and pines too.	5.33
+26623	I like pines, and trees too.	4.17
+26624	I like trees, and pines too.	4.36
+26626	I like pines, and animals too.	4.5
+26627	I like animals, and pines too.	3.91
+26631	I like pines, and bushes too.	5.33
+26632	I like bushes, and pines too.	4.77
+26636	I like pines, and shrubs too.	5.18
+26637	I like shrubs, and pines too.	5.92
+27441	I like salmon, and chicken too.	5.25
+27442	I like chicken, and salmon too.	6.17
+27443	I like salmon, and seafood too.	4.75
+27444	I like seafood, and salmon too.	4.58
+27445	I like seafood, and chicken too.	5.83
+27446	I like salmon, and veal too.	1.5
+27447	I like veal, and salmon too.	5.67
+27450	I like seafood, and veal too.	6.0
+27451	I like salmon, and turkey too.	6.08
+27452	I like turkey, and salmon too.	6.08
+27455	I like seafood, and turkey too.	5.5
+27456	I like salmon, and beef too.	5.69
+27457	I like beef, and salmon too.	5.75
+27460	I like seafood, and beef too.	4.82
+27461	I like crabs, and chicken too.	5.75
+27462	I like chicken, and crabs too.	5.54
+27463	I like crabs, and seafood too.	3.58
+27464	I like seafood, and crabs too.	4.75
+27466	I like crabs, and veal too.	5.31
+27467	I like veal, and crabs too.	6.11
+27471	I like crabs, and turkey too.	4.83
+27472	I like turkey, and crabs too.	5.33
+27476	I like crabs, and beef too.	5.46
+27477	I like beef, and crabs too.	4.83
+27481	I like oysters, and chicken too.	5.5
+27482	I like chicken, and oysters too.	4.83
+27483	I like oysters, and seafood too.	4.45
+27484	I like seafood, and oysters too.	3.75
+27486	I like oysters, and veal too.	5.0
+27487	I like veal, and oysters too.	4.91
+27491	I like oysters, and turkey too.	6.0
+27492	I like turkey, and oysters too.	5.25
+27496	I like oysters, and beef too.	5.27
+27497	I like beef, and oysters too.	3.92
+27501	I like caviar, and chicken too.	6.44
+27502	I like chicken, and caviar too.	5.17
+27503	I like caviar, and seafood too.	3.9
+27504	I like seafood, and caviar too.	5.0
+27506	I like caviar, and veal too.	4.92
+27507	I like veal, and caviar too.	5.09
+27511	I like caviar, and turkey too.	4.82
+27512	I like turkey, and caviar too.	4.5
+27516	I like caviar, and beef too.	5.83
+27517	I like beef, and caviar too.	6.22
+31921	I like parrots more than cats.	6.92
+31922	I like cats more than parrots.	6.17
+31923	I like parrots more than birds.	2.0
+31924	I like birds more than parrots.	1.45
+31925	I like birds more than cats.	6.75
+31926	I like parrots more than hamsters.	6.75
+31927	I like hamsters more than parrots.	5.85
+31930	I like birds more than hamsters.	6.0
+31931	I like parrots more than pigs.	6.5
+31932	I like pigs more than parrots.	6.25
+31935	I like birds more than pigs.	6.0
+31936	I like parrots more than dogs.	6.17
+31940	I like birds more than dogs.	6.5
+31981	I like ducks more than cats.	6.08
+31982	I like cats more than ducks.	6.75
+31983	I like ducks more than birds.	5.92
+31984	I like birds more than ducks.	3.83
+31986	I like ducks more than hamsters.	6.5
+31987	I like hamsters more than ducks.	6.11
+31991	I like ducks more than pigs.	6.42
+31992	I like pigs more than ducks.	5.0
+31996	I like ducks more than dogs.	6.25
+31997	I like dogs more than ducks.	6.09
+32041	I like blackbirds more than cats.	5.58
+32042	I like cats more than blackbirds.	5.67
+32043	I like blackbirds more than birds.	1.5
+32044	I like birds more than blackbirds.	1.45
+32046	I like blackbirds more than hamsters.	6.15
+32047	I like hamsters more than blackbirds.	6.17
+32051	I like blackbirds more than pigs.	6.11
+32052	I like pigs more than blackbirds.	6.0
+32056	I like blackbirds more than dogs.	5.92
+32057	I like dogs more than blackbirds.	6.17
+32101	I like sparrows more than cats.	5.92
+32102	I like cats more than sparrows.	5.92
+32103	I like sparrows more than birds.	2.25
+32104	I like birds more than sparrows.	2.58
+32106	I like sparrows more than hamsters.	5.25
+32107	I like hamsters more than sparrows.	5.91
+32111	I like sparrows more than pigs.	6.08
+32112	I like pigs more than sparrows.	5.64
+32116	I like sparrows more than dogs.	5.42
+32117	I like dogs more than sparrows.	3.17
+33601	I like oaks more than grass.	5.83
+33602	I like grass more than oaks.	5.08
+33603	I like oaks more than trees.	1.92
+33604	I like trees more than oaks.	2.58
+33605	I like trees more than grass.	5.64
+33606	I like oaks more than animals.	5.08
+33607	I like animals more than oaks.	4.83
+33610	I like trees more than animals.	5.85
+33611	I like oaks more than bushes.	4.75
+33612	I like bushes more than oaks.	5.22
+33615	I like trees more than bushes.	4.17
+33616	I like oaks more than shrubs.	4.82
+33617	I like shrubs more than oaks.	5.38
+33620	I like trees more than shrubs.	6.17
+33661	I like birches more than grass.	5.23
+33662	I like grass more than birches.	5.25
+33663	I like birches more than trees.	1.77
+33664	I like trees more than birches.	3.83
+33666	I like birches more than animals.	4.92
+33667	I like animals more than birches.	3.17
+33671	I like birches more than bushes.	5.89
+33672	I like bushes more than birches.	6.0
+33676	I like birches more than shrubs.	5.83
+33677	I like shrubs more than birches.	6.11
+33721	I like firs more than grass.	5.36
+33722	I like grass more than firs.	5.09
+33723	I like firs more than trees.	2.75
+33724	I like trees more than firs.	4.08
+33726	I like firs more than animals.	4.5
+33727	I like animals more than firs.	5.0
+33731	I like firs more than bushes.	5.25
+33732	I like bushes more than firs.	4.67
+33736	I like firs more than shrubs.	1.92
+33737	I like shrubs more than firs.	3.5
+33781	I like pines more than grass.	4.55
+33782	I like grass more than pines.	5.42
+33783	I like pines more than trees.	2.33
+33784	I like trees more than pines.	3.08
+33786	I like pines more than animals.	4.78
+33787	I like animals more than pines.	4.92
+33791	I like pines more than bushes.	5.75
+33792	I like bushes more than pines.	5.0
+33796	I like pines more than shrubs.	5.75
+33797	I like shrubs more than pines.	5.78
+36241	I like salmon more than chicken.	6.73
+36242	I like chicken more than salmon.	6.54
+36243	I like salmon more than seafood.	3.08
+36244	I like seafood more than salmon.	3.58
+36245	I like seafood more than chicken.	6.58
+36246	I like salmon more than veal.	6.58
+36247	I like veal more than salmon.	6.54
+36250	I like seafood more than veal.	6.67
+36251	I like salmon more than turkey.	6.42
+36252	I like turkey more than salmon.	6.75
+36255	I like seafood more than turkey.	6.33
+36256	I like salmon more than beef.	1.58
+36257	I like beef more than salmon.	6.92
+36260	I like seafood more than beef.	6.78
+36301	I like crabs more than chicken.	6.25
+36302	I like chicken more than crabs.	6.08
+36303	I like crabs more than seafood.	2.27
+36304	I like seafood more than crabs.	1.64
+36306	I like crabs more than veal.	1.75
+36307	I like veal more than crabs.	3.83
+36311	I like crabs more than turkey.	6.25
+36312	I like turkey more than crabs.	6.33
+36316	I like crabs more than beef.	1.5
+36317	I like beef more than crabs.	5.78
+36361	I like oysters more than chicken.	6.33
+36362	I like chicken more than oysters.	5.67
+36363	I like oysters more than seafood.	1.85
+36364	I like seafood more than oysters.	2.09
+36366	I like oysters more than veal.	6.33
+36367	I like veal more than oysters.	6.22
+36371	I like oysters more than turkey.	6.08
+36372	I like turkey more than oysters.	5.75
+36376	I like oysters more than beef.	6.18
+36377	I like beef more than oysters.	5.91
+36421	I like caviar more than chicken.	5.64
+36422	I like chicken more than caviar.	5.42
+36423	I like caviar more than seafood.	3.33
+36424	I like seafood more than caviar.	3.5
+36426	I like caviar more than veal.	6.58
+36427	I like veal more than caviar.	6.56
+36431	I like caviar more than turkey.	5.18
+36432	I like turkey more than caviar.	6.5
+36436	I like caviar more than beef.	6.09
+36437	I like beef more than caviar.	5.33
