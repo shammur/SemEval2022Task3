@@ -40,6 +40,12 @@ def get_train_dev(test_fold_id, table):
     train = pd.concat(tables, ignore_index=True)
     return train, test
 
+#Function to merge all the folds and return one unified dataframe
+def get_train(table):
+  train=pd.concat(table, ignore_index=True)
+  return train
+
+
 
 def process_eval_jsons_task2(eval_jsons):
   evaluations={'mse':[], 'rmse':[], 'rho':[] }
