@@ -45,7 +45,7 @@ def process_eval_jsons_task2(eval_jsons):
   evaluations={'mse':[], 'rmse':[], 'rho':[] }
   pred=[]
   label=[]
-  print("Total entries in Json dict:", len(eval_jsons))
+#   print("Total entries in Json dict:", len(eval_jsons))
   for info in eval_jsons:
       evaluations['mse'].append(info['mse'])
       evaluations['rmse'].append(info['rmse'])
@@ -53,7 +53,7 @@ def process_eval_jsons_task2(eval_jsons):
       pred.extend(info['eval_pred'])
       label.extend(info['eval_labels'])
   
-  print(len(evaluations['rmse']))
+#   print(len(evaluations['rmse']))
   for ev in evaluations.keys():
     mean_val=round(statistics.mean(evaluations[ev]),3)
     # evaluations[ev].append(mean_val)
