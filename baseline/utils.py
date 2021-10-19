@@ -41,6 +41,28 @@ def get_train_dev(test_fold_id, table):
     return train, test
 
 
+def process_eval_jsons_task2(eval_jsons):
+  evaluations={'mse':[], 'rmse':[], 'rho':[] }
+  pred=[]
+  label=[]
+  print("Total entries in Json dict:", len(eval_jsons))
+  for info in eval_jsons:
+      evaluations['mse'].append(info['mse'])
+      evaluations['rmse'].append(info['rmse'])
+      evaluations['rho'].append(info['rho'])
+      pred.extend(info['eval_pred'])
+      label.extend(info['eval_labels'])
+  
+  print(len(evaluations['rmse']))
+  for ev in evaluations.keys():
+    mean_val=round(statistics.mean(evaluations[ev]),3)
+    # evaluations[ev].append(mean_val)
+    std_val=round(statistics.stdev(evaluations[ev]),2)
+    evaluations[ev].append(str(mean_val)+"(±"+str(std_val)+")")
+  rho_overall, pval = stats.spearmanr(label, pred)
+  # print(rho_overall)
+  
+  return pd.DataFrame.from_dict(evaluations), rho_overall
 
 
 ## Evaluation function for both the task
