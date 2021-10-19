@@ -41,7 +41,7 @@ def get_train_dev(test_fold_id, table):
 
 
 ## Evaluation function for both the task
-def evaluation_meaure(preds, labels):
+def compute_metrics_task1(preds, labels):
   # calculate accuracy using sklearn's function
   acc = accuracy_score(labels, preds)
   pre = precision_score(labels, preds)
@@ -56,3 +56,18 @@ def evaluation_meaure(preds, labels):
       'F1': f1,
       'F1macro':f1M
   }
+
+def compute_metrics_task2(preds, labels):
+  
+  # calculate accuracy using sklearn's function
+  mse = mean_squared_error(labels, preds)
+  rms = mean_squared_error(labels, preds, squared=False)
+  rho, pval = stats.spearmanr(labels, preds)
+  return {
+      'mse': mse,
+      'rmse': rms,
+      'rho': rho,
+      'p-value': pval,
+      'eval_pred':preds,
+      'eval_labels':labels
+  }  
