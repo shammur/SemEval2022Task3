@@ -45,7 +45,22 @@ def get_train(table):
   train=pd.concat(table, ignore_index=True)
   return train
 
+#Functions for post-processing json with results
+def process_eval_jsons_task1(eval_jsons):
+  evaluations={}
+  
+  for info in eval_jsons:
+    for ev in info.keys():
+      if ev not in evaluations:
+        evaluations[ev]=[]
+      evaluations[ev].append(info[ev])
+  for ev in evaluations.keys():
 
+    val=statistics.mean(evaluations[ev])
+    std=statistics.stdev(evaluations[ev])
+    evaluations[ev].append(str(round(val,3))+" (±"+str(round(std,2))+")")
+  
+  return pd.DataFrame.from_dict(evaluations)
 
 def process_eval_jsons_task2(eval_jsons):
   evaluations={'mse':[], 'rmse':[], 'rho':[] }
