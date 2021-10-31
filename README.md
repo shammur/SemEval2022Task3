@@ -43,7 +43,7 @@ The LABEL (1/0) is assigned based on the regression score.
 The official evaluation metrics for the Classification tasks are:
 **Precision**, **Recall**, **F1-measure** and **macro F-measure** (See the sub-Task1 starter code for more details)
 
-As for the Regression, we opt for **MSE**, RM****SE and **Spearman Correlation** (rho) (See the sub-Task2 starter code for more details)
+As for the Regression, we opt for **MSE**, **RMSE** and **Spearman Correlation** (rho) (See the sub-Task2 starter code for more details)
 
 ## Formating and Evaluation Scripts
 
