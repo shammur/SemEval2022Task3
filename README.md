@@ -12,7 +12,7 @@
 ## Tasks
 
 PreTENS includes the two following sub-tasks: 
-- a binary classification: Predicting the acceptability of sentences (**A** _vs_ **UA**)
+- a binary classification: Predicting the acceptability of sentences (**A (1)** _vs_ **UA (0)**)
 <!-- - , which consists in predicting the acceptability label assigned to each sentence of the test set; -->
 - a regression task: Predicting the degree of Acceptance in a five Likert-scale
 <!-- - , which consists in predicting the average score assigned by human annotators on a five Likert-scale with respect to the subset of data evaluated via crowdsourcing. -->
@@ -26,25 +26,36 @@ For each sub-task and each language:
 - Additionally, a trail data (a small subset of training set) is released to give participants a proper idea of the data and expected formats.
 
 
-For the **binary-classification** sub-task, the training and test set will be composed by 10,000  and 23,000 samples, respectively;
-For the **regression** sub-task, 1,000 sentences will be provided for the training set and 600 for the test set.
+For the **binary-classification** sub-task, the training and test set will be composed by ~5,000  and 23,000 samples, respectively;
+For the **regression** sub-task, ~500 sentences will be provided for the training set and a bigger for the test set.
 
 Sample/Trail data for Evaluation Campaign: data/trail
 
 Data Format:
 
-**ID    SENT    LABEL/AVG_SCORE**
+**ID    Sentence    LABEL/SCORE**
 
-where LABEL is for binary classification task and AVG_SCORE is for the regression task.
-AVG_SCORE: represent average of the assigned score (1-7) given by the annotator. Details of scales and agreements will be elaborated/updated later.
+where LABEL is for binary classification task and SCORE is for the regression task.
+SCORE: represent average of the assigned score (1-7) given by the annotator. Details of scales and agreements will be elaborated/updated later.
 The LABEL (1/0) is assigned based on the regression score.
 
 ## Evaluation Measures
-**Coming Soon**
+The official evaluation metrics for the Classification tasks are:
+Precision, Recall, F1-measure and F-measure macro (See the sub-Task1 starter code for more details)
+
+As for the Regression, we opt for MSE, RMSE and Spearman Correlation (rho) (See the sub-Task2 starter code for more details)
 
 ## Formating and Evaluation Scripts
 
-**Coming Soon**
+To get our participant started with the Task, we provide baseline scripts showing how the data is processed, splited and in the end -- evaluated for the said task.
+Below are the baseline and starter code:
+Subtask1:
+https://colab.research.google.com/drive/1wDFQnEfMkoJY99Bmv-CfsTsdwleCDg2f?usp=sharing
+
+Subtask2: 
+https://colab.research.google.com/drive/18KwrdyTsp3wOPcaB7pyFnqOSc3Te7p-X?usp=sharing
+
+You can also find the nessary codes in this git repository
 
 ## License
 
@@ -53,20 +64,18 @@ MIT
 ## Useful links
 
    [Task Website](<https://sites.google.com/view/semeval2022-pretens>)
-   
-   Competition Link: Coming Soon
-   
+      
    [Participants Registration Form](<https://docs.google.com/forms/d/e/1FAIpQLSfS1oIjxCifghMFPpxPOpu-8HC8lJutXa65BXfpXpOmxcJ_Wg/viewform>)
    
    mailinglist: semeval2022-task3@googlegroups.com
    
 ## Organizers
 
+Shammur Absar Chowdhury - Qatar Computing Research Institute, HBKU, Qatar
+
 Dominique Brunato - Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
 
 Cristiano Chesi - University School for Advanced Studies (IUSS), Pavia, Italy
-
-Shammur Absar Chowdhury - Qatar Computing Research Institute, HBKU, Qatar
 
 Felice Dell'Orletta - Institute for Computational Linguistics "A. Zampolli" (CNR), Pisa, Italy
 
