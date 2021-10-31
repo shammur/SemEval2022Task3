@@ -57,7 +57,7 @@ https://colab.research.google.com/drive/1wDFQnEfMkoJY99Bmv-CfsTsdwleCDg2f?usp=sh
 **_Subtask2_**: 
 https://colab.research.google.com/drive/18KwrdyTsp3wOPcaB7pyFnqOSc3Te7p-X?usp=sharing
 
-You can also find the nessary codes in this git repository
+You can also find the necessary codes in this git repository
 
 ## License
 
