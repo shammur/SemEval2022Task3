@@ -41,18 +41,19 @@ The LABEL (1/0) is assigned based on the regression score.
 
 ## Evaluation Measures
 The official evaluation metrics for the Classification tasks are:
-Precision, Recall, F1-measure and F-measure macro (See the sub-Task1 starter code for more details)
+**Precision**, **Recall**, **F1-measure** and **macro F-measure** (See the sub-Task1 starter code for more details)
 
-As for the Regression, we opt for MSE, RMSE and Spearman Correlation (rho) (See the sub-Task2 starter code for more details)
+As for the Regression, we opt for **MSE**, RM****SE and **Spearman Correlation** (rho) (See the sub-Task2 starter code for more details)
 
 ## Formating and Evaluation Scripts
 
 To get our participant started with the Task, we provide baseline scripts showing how the data is processed, splited and in the end -- evaluated for the said task.
+
 Below are the baseline and starter code:
-Subtask1:
+**_Subtask1_**:
 https://colab.research.google.com/drive/1wDFQnEfMkoJY99Bmv-CfsTsdwleCDg2f?usp=sharing
 
-Subtask2: 
+**_Subtask2_**: 
 https://colab.research.google.com/drive/18KwrdyTsp3wOPcaB7pyFnqOSc3Te7p-X?usp=sharing
 
 You can also find the nessary codes in this git repository
