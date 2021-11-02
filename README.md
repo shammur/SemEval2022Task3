@@ -47,7 +47,7 @@ As for the Regression, we opt for **MSE**, **RMSE** and **Spearman Correlation**
 
 ## Formating and Evaluation Scripts
 
-???+ note
+!!! note
 > A single baseline evaluation is defined: for both sub-tasks we used a Linear Support Vector classifier that uses n-grams (up to three) as input features. Participants can run the evaluation system and obtain the results by using different cross-validation configurations on the training set. Due to the presence in the official test-set of additional constructions with the same presuppositional constraints, we have found that applying the baseline methods on the official test-set yields results that are from 10% to 20% lower than the training set. This highlights the importance of achieving a great deal of syntactic generality on this task. For this reason we encourage to test different cross-validation configurations on the training set. 
 
 To get our participant started with the Task, we provide baseline scripts showing how the data is processed, splited and in the end -- evaluated for the said task.
