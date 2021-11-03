@@ -48,7 +48,8 @@ As for the Regression, we opt for **MSE**, **RMSE** and **Spearman Correlation**
 ## Formating and Evaluation Scripts
 
 > **⚠ NOTICE:**
->For each sub-task a seperate baseline is defined: i) for the binary classification sub-task baseline, a Linear Support Vector classifier using n-grams (up to three) as input features is used, and ii) as for the regression sub-task, baseline using a Linear Support Vector regressor with the same n-grams features is provided. Participants can run the evaluation system and obtain the results by using different cross-validation configurations on the training set. Due to the presence in the official test-set of additional constructions with the same presuppositional constraints, we have found that applying the baseline methods on the official test-set yields results that are from 10% to 20% lower than the training set. This highlights the importance of achieving a great deal of syntactic generality on this task. For this reason we encourage to test different cross-validation configurations on the training set. 
+>For each sub-task a separate baseline is defined: i) for the binary classification sub-task baseline, a Linear Support Vector classifier using n-grams (up to three) as input features is used, and ii) as for the regression sub-task, a baseline using a Linear Support Vector regressor with the same n-grams features is provided. Participants can run the evaluation system and obtain the results by using different cross-validation configurations on the training set. Due to the presence in the official test-set of additional constructions with the same presuppositional constraints, we have found that applying the baseline methods on the official test-set yields results that are from 10% to 20% lower than the training set. This highlights the importance of achieving a great deal of syntactic generality on this task. For this reason we encourage to test different cross-validation configurations on the training set.
+
 
 To get our participant started with the Task, we provide baseline scripts showing how the data is processed, splited and in the end -- evaluated for the said task.
 
@@ -60,7 +61,7 @@ https://colab.research.google.com/drive/1wDFQnEfMkoJY99Bmv-CfsTsdwleCDg2f?usp=sh
 **_Subtask2_**: 
 https://colab.research.google.com/drive/18KwrdyTsp3wOPcaB7pyFnqOSc3Te7p-X?usp=sharing
 
-You can also find the necessary codes in this git repository
+You can also find the necessary codes in this git repository ()
 
 ## License
 
