@@ -14,7 +14,7 @@
 PreTENS includes the two following sub-tasks: 
 - a binary classification: Predicting the acceptability of sentences (**A (1)** _vs_ **UA (0)**)
 <!-- - , which consists in predicting the acceptability label assigned to each sentence of the test set; -->
-- a regression task: Predicting the degree of Acceptance in a five Likert-scale
+- a regression task: Predicting the degree of Acceptance in a seven Likert-scale
 <!-- - , which consists in predicting the average score assigned by human annotators on a five Likert-scale with respect to the subset of data evaluated via crowdsourcing. -->
 
 
@@ -33,7 +33,7 @@ Sample/Trail data for Evaluation Campaign: data/trail
 
 Data Format:
 
-**ID    Sentence    LABEL/SCORE**
+**ID    Sentence    LABELS/SCORE**
 
 where LABEL is for binary classification task and SCORE is for the regression task.
 SCORE: represent average of the assigned score (1-7) given by the annotator. Details of scales and agreements will be elaborated/updated later.
@@ -45,7 +45,7 @@ The official evaluation metrics for the Classification tasks are:
 
 As for the Regression, we opt for **MSE**, **RMSE** and **Spearman Correlation** (rho) (See the sub-Task2 starter code for more details)
 
-## Formating and Evaluation Scripts
+<!-- ## Formating and Evaluation Scripts -->
 
 > **⚠ NOTICE:**
 >For each sub-task a separate baseline is defined: i) for the binary classification sub-task baseline, a Linear Support Vector classifier using n-grams (up to three) as input features is used, and ii) as for the regression sub-task, a baseline using a Linear Support Vector regressor with the same n-grams features is provided. Participants can run the evaluation system and obtain the results by using different cross-validation configurations on the training set. Due to the presence in the official test-set of additional constructions with the same presuppositional constraints, we have found that applying the baseline methods on the official test-set yields results that are from 10% to 20% lower than the training set. This highlights the importance of achieving a great deal of syntactic generality on this task. For this reason we encourage to test different cross-validation configurations on the training set.
