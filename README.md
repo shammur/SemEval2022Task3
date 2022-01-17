@@ -9,6 +9,10 @@
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
+> **⚠ NOTICE:**
+> Evaluation Phase rules are updated in the data/test folder along with sample data and format for submission.
+
+
 ## Tasks
 
 PreTENS includes the two following sub-tasks: 
