@@ -1,0 +1,14 @@
+The folder includes the sample of test set and the style of submission file (!! Note the inside examples and scores are from train set !! )
+##For subtask 1 and 2
+There are three test set for the task languages, but the submission results should be one file to be uploaded in the evaluation platform.
+The submission file format: <team_name_subtask1_submissionNo.tsv> or <team_name_subtask2_submissionNo.tsv>
+eg. <teamA_subtask1_submission1.tsv>
+
+The participant team will submit one file containing the id and the corresponding prediction of the task. The submitted file will/can contain instances from (all)  the languages. For example: if a team (team A) chooses to participate in both English and French-Subtask 1, then the submitted prediction file will contain instances from both the languages. In this case, we will calculate the global ranking score (GRS) as follows:
+GRS = (F1_macro (English) + F1_macro (French) + F1_macro (Italian))/3
+
+So in this case, for team A, GRS will be calculated using F1_macro for English and French, while for Italian (not done) the F1_macro will be set to 0.
+
+The test data will be released tomorrow 18th January 2022.
+All the best for the evaluation phase!
+
