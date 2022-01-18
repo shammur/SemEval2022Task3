@@ -85,8 +85,10 @@ MIT
    [Participants Registration Form](<https://docs.google.com/forms/d/e/1FAIpQLSfS1oIjxCifghMFPpxPOpu-8HC8lJutXa65BXfpXpOmxcJ_Wg/viewform>)
    
    Evaluation Platforms:
-   [Subtask1] (https://codalab.lisn.upsaclay.fr/competitions/1292)
-   [Subtask2] (https://codalab.lisn.upsaclay.fr/competitions/1290)
+   
+   [Subtask1] (<https://codalab.lisn.upsaclay.fr/competitions/1292>)
+   
+   [Subtask2] (<https://codalab.lisn.upsaclay.fr/competitions/1290>)
 
 
    mailinglist: semeval2022-task3@googlegroups.com
