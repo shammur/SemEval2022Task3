@@ -10,7 +10,7 @@
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
 > **⚠ New Notice:**
-> Evaluation Phase hs Started, please check the data folder for test data and sample_data for correct submission format. Updated rules are vailable in the task website. CodaLab links are given below.
+> Evaluation Phase has started, please check the data folder for test data and sample_data for correct submission format. Updated rules are vailable in the task website. CodaLab links are given below.
 
 ## FAQ and Submission Rules
 
