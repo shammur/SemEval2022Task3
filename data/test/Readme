@@ -16,10 +16,16 @@ GRS = (F1_macro (English) + F1_macro (French) + F1_macro (Italian))/3
 
 So in this case, for team A, GRS will be calculated using F1_macro for English and French, while for Italian (not done) the F1_macro will be set to 0.
 
-The test data will be released tomorrow 18th January 2022 (AOE).
+The test data are released.
 All the best for the evaluation phase!
 
 
 
 SharedTask Rules are available in: https://sites.google.com/view/semeval2022-pretens/home-page/task-rules
 Please email us if you have any concerns or question regarding the task or the data.
+
+**Codalab Urls:**
+
+**Subtask1:** https://codalab.lisn.upsaclay.fr/competitions/1292
+
+**Subtask2:** https://codalab.lisn.upsaclay.fr/competitions/1290
