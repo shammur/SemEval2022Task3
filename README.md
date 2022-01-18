@@ -9,9 +9,16 @@
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
-> **⚠ NOTICE:**
+> **⚠ New Notice:**
 > Evaluation Phase rules are updated in the data/test folder along with sample data and format for submission.
 
+## FAQ and Submission Rules
+
+- **Maximum Submission**: 3 result submissions per subtask
+- **Ranking**: Two ranking per subtask - Per Language Ranking and Global Ranking
+- **What results will be displayed/used in the LeaderBoard**: All the measures given in baseline script (Precision, Recall, F1 and F1-macro for subtask1 and Rho for subtask2) will be shown, but the final ranking will be based on macro F1 and Rho.
+- **The naming convention for submission file**: The result/submission file will be tab separated (with headers: ID \t Labels/Score), named as answer.tsv and then compressed to a zip file with naming convention: <teamName_subtaskX_submissionNo.zip>, X={1,2} and No={1,2,3}
+- **Results selected to display in Leaderboard**: Each team will have 3 chances (per task) and from there they can choose which results to submit in the leaderboard. However, each team must submit at least one result in the board (they can change the selected entry to show anytime during competition). This is mainly given so participants attempting just selected language are not penalized by the global-ranking score mechanism.
 
 ## Tasks
 
