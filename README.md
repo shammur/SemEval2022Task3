@@ -10,7 +10,7 @@
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
 > **⚠ New Notice:**
-> Evaluation Phase rules are updated in the data/test folder along with sample data and format for submission.
+> Evaluation Phase hs Started, please check the data folder for test data and sample_data for correct submission format. Updated rules are vailable in the task website. CodaLab links are given below.
 
 ## FAQ and Submission Rules
 
@@ -84,6 +84,11 @@ MIT
       
    [Participants Registration Form](<https://docs.google.com/forms/d/e/1FAIpQLSfS1oIjxCifghMFPpxPOpu-8HC8lJutXa65BXfpXpOmxcJ_Wg/viewform>)
    
+   Evaluation Platforms:
+   [Subtask1] (https://codalab.lisn.upsaclay.fr/competitions/1292)
+   [Subtask2] (https://codalab.lisn.upsaclay.fr/competitions/1290)
+
+
    mailinglist: semeval2022-task3@googlegroups.com
    
 ## Organizers
@@ -102,5 +107,5 @@ Giulia Venturi -  Institute for Computational Linguistics "A. Zampolli" (CNR), P
 
 Roberto Zamparelli - Department of Psychology and Cognitive Science - University of Trento, Italy
 
-
+For any queries:
 **Contact**: semeval2022-task3-organizers@googlegroups.com
