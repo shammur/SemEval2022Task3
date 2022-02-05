@@ -1,0 +1,1010 @@
+ID	Construction	Sentence	Scores
+fr_0	ingeneral	J'aime les buissons, et les sapins en général.	3.25
+fr_1	ingeneral	J'aime les produits de la mer, et le caviar en général.	4.08
+fr_2	particular	J'apprécie les conducteurs, et en particulier les sénateurs.	1.67
+fr_3	particular	J'apprécie les politiciens, et en particulier les conducteurs.	2.42
+fr_4	ingeneral	J'aime les huîtres, et le veau en général.	3.25
+fr_5	andtoo	J'aime les centres commerciaux, et aussi les lacs.	4.58
+fr_6	ingeneral	J'aime la dinde, et les crabes en général.	3.17
+fr_7	ingeneral	J'aime les marais, et les villes en général.	4.08
+fr_8	butnot	J'apprécie les gardiens, mais pas les sénateurs.	5.33
+fr_9	ingeneral	J'aime les perrouquets, et les oiseaux en général.	6.17
+fr_10	ingeneral	J'aime le saumon, et le boeuf en général.	4.42
+fr_11	ingeneral	J'aime le caviar, et la dinde en général.	2.92
+fr_12	unlike	Contrairement aux buissons, les chênes sont souvent mentionnés dans ce texte.	6.42
+fr_13	ingeneral	J'aime les moineaux, et les cochons en général.	3.91
+fr_14	particular	J'adore le poulet, et en particulier les crabes.	1.0
+fr_15	butnot	J'apprécie les maires, mais pas les serveurs.	4.75
+fr_16	unlike	Contrairement aux pins, les animaux sont souvent mentionnés dans ce texte.	5.58
+fr_17	ingeneral	J'aime les chênes, et les arbres en général.	6.67
+fr_18	comparatives	J'aime les villes plus que les lacs.	6.09
+fr_19	comparatives	J'apprécie les ministres plus que les serveurs.	5.58
+fr_20	particular	J'apprécie les serveurs, et en particulier les gouverneurs.	1.75
+fr_21	particular	J'aime les arbres, et en particulier la pelouse.	2.08
+fr_22	ingeneral	J'aime le caviar, et le poulet en général.	3.92
+fr_23	ingeneral	J'aime les merles, et les hamsters en général.	2.75
+fr_24	ingeneral	J'aime la dinde, et les huîtres en général.	3.08
+fr_25	butnot	J'apprécie les politiciens, mais pas les gouverneurs.	4.92
+fr_26	unlike	Contrairement aux canards, les oiseaux sont souvent mentionnés dans ce texte.	3.83
+fr_27	andtoo	J'apprécie les conducteurs, et aussi les maires.	5.67
+fr_28	type	J'apprécie les gardiens, un type intéressant de sénateur.	1.17
+fr_29	particular	J'apprécie les agriculteurs, et en particulier les maires.	1.75
+fr_30	type	J'aime les montagnes, un type intéressant de centre commercial.	1.33
+fr_31	ingeneral	J'aime le saumon, et le veau en général.	4.08
+fr_32	unlike	Contrairement au nature, les lacs sont souvent mentionnés dans ce texte.	2.17
+fr_33	particular	J'aime les montagnes, et en particulier la nature.	3.33
+fr_34	comparatives	J'aime les maisons plus que les montagnes.	4.75
+fr_35	unlike	Contrairement aux moineaux, les chats sont souvent mentionnés dans ce texte.	6.5
+fr_36	unlike	Contrairement aux chênes, les animaux sont souvent mentionnés dans ce texte.	6.25
+fr_37	ingeneral	J'aime les huîtres, et la dinde en général.	3.33
+fr_38	type	J'aime les marais, un type intéressant de béton.	1.09
+fr_39	comparatives	J'apprécie les politiciens plus que les sénateurs.	3.92
+fr_40	ingeneral	J'aime les huîtres, et le boeuf en général.	3.83
+fr_41	andtoo	J'aime les maisons, et aussi les marais.	4.75
+fr_42	andtoo	J'aime la nature, et aussi les forêts.	3.42
+fr_43	andtoo	J'aime la nature, et aussi les villes.	6.6
+fr_44	particular	J'aime les buissons, et en particulier les pins.	2.67
+fr_45	ingeneral	J'aime les chiens, et les merles en général.	2.42
+fr_46	butnot	J'adore les marais, mais pas la nature.	4.0
+fr_47	ingeneral	J'aime les moineaux, et les oiseaux en général.	6.0
+fr_48	ingeneral	J'apprécie les politiciens, et les ministres en général.	4.92
+fr_49	ingeneral	J'aime le poulet, et le caviar en général.	3.58
+fr_50	particular	J'aime les maisons, et en particulier les marais.	1.67
+fr_51	ingeneral	J'aime les animaux, et les sapins en général.	2.83
+fr_52	butnot	J'adore les lacs, mais pas les villes.	5.58
+fr_53	ingeneral	J'aime les lacs, et les maisons en général.	3.5
+fr_54	type	J'aime les lacs, un type intéressant de centre commercial.	1.08
+fr_55	unlike	Contrairement aux sénateurs, les serveurs sont souvent mentionnés dans ce texte.	6.0
+fr_56	type	J'aime les montagnes, un type intéressant de nature.	4.5
+fr_57	particular	J'apprécie les serveurs, et en particulier les ministres.	1.67
+fr_58	ingeneral	J'aime les centres commerciaux, et les montagnes en général.	3.67
+fr_59	particular	J'aime les merles, et en particulier les chiens.	2.25
+fr_60	unlike	Contrairement aux animaux, les sapins sont souvent mentionnés dans ce texte.	5.83
+fr_61	unlike	Contrairement à le veau, les huîtres sont souvent mentionnés dans ce texte.	2.73
+fr_62	type	J'aime les lacs, un type intéressant de ville.	1.0
+fr_63	unlike	Contrairement aux hamsters, les moineaux sont souvent mentionnés dans ce texte.	6.75
+fr_64	butnot	J'adore la nature, mais pas les montagnes.	5.25
+fr_65	andtoo	J'apprécie les politiciens, et aussi les agriculteurs.	6.17
+fr_66	andtoo	J'aime les marais, et aussi les maisons.	5.17
+fr_67	andtoo	J'apprécie les conducteurs, et aussi les sénateurs.	5.0
+fr_68	ingeneral	J'aime les villes, et les lacs en général.	4.0
+fr_69	ingeneral	J'aime les bouleaux, et les buissons en général.	2.67
+fr_70	unlike	Contrairement aux agriculteurs, les gouverneurs sont souvent mentionnés dans ce texte.	6.75
+fr_71	unlike	Contrairement aux chiens, les merles sont souvent mentionnés dans ce texte.	6.17
+fr_72	particular	J'adore le boeuf, et en particulier le caviar.	1.58
+fr_73	ingeneral	J'aime les merles, et les oiseaux en général.	6.25
+fr_74	ingeneral	J'aime les perrouquets, et les hamsters en général.	2.73
+fr_75	comparatives	J'apprécie les gardiens plus que les gouverneurs.	5.17
+fr_76	unlike	Contrairement au pelouse, les chênes sont souvent mentionnés dans ce texte.	3.83
+fr_77	unlike	Contrairement au pelouse, les pins sont souvent mentionnés dans ce texte.	5.17
+fr_78	butnot	J'adore les maisons, mais pas les forêts.	5.33
+fr_79	unlike	Contrairement aux arbres, la pelouse est souvent évoquée dans ce texte.	5.83
+fr_80	particular	J'apprécie les sénateurs, et en particulier les gardiens.	1.83
+fr_81	particular	J'aime les chênes, et en particulier les arbustes.	3.75
+fr_82	ingeneral	J'apprécie les politiciens, et les gardiens en général.	2.5
+fr_83	comparatives	J'apprécie les politiciens plus que les serveurs.	5.83
+fr_84	andtoo	J'aime les forêts, et aussi le béton.	4.67
+fr_85	particular	J'aime les chênes, et en particulier la pelouse.	1.33
+fr_86	unlike	Contrairement à le boeuf, les crabes sont souvent mentionnés dans ce texte.	4.5
+fr_87	particular	J'apprécie les agriculteurs, et en particulier les sénateurs.	1.42
+fr_88	ingeneral	J'aime les arbres, et les arbustes en général.	5.25
+fr_89	particular	J'aime les arbres, et en particulier les animaux.	1.58
+fr_90	unlike	Contrairement au nature, les maisons sont souvent mentionnés dans ce texte.	4.08
+fr_91	butnot	J'adore les centres commerciaux, mais pas les lacs.	5.36
+fr_92	butnot	J'apprécie les ministres, mais pas les politiciens.	3.42
+fr_93	comparatives	J'apprécie les sénateurs plus que les politiciens.	3.92
+fr_94	particular	J'aime les bouleaux, et en particulier les buissons.	2.42
+fr_95	particular	J'aime le béton, et en particulier les lacs.	1.0
+fr_96	ingeneral	J'aime les pins, et les animaux en général.	2.08
+fr_97	particular	J'apprécie les politiciens, et en particulier les serveurs.	1.5
+fr_98	butnot	J'adore les forêts, mais pas le béton.	5.42
+fr_99	particular	J'aime les cochons, et en particulier les perrouquets.	1.5
+fr_100	particular	J'aime les lacs, et en particulier les villes.	1.83
+fr_101	particular	J'aime les merles, et en particulier les chats.	1.5
+fr_102	particular	J'aime les pins, et en particulier les buissons.	2.0
+fr_103	unlike	Contrairement aux gouverneurs, les politiciens sont souvent mentionnés dans ce texte.	4.17
+fr_104	ingeneral	J'aime les canards, et les hamsters en général.	3.92
+fr_105	particular	J'aime les chats, et en particulier les perrouquets.	1.17
+fr_106	comparatives	J'aime les centres commerciaux plus que les marais.	5.25
+fr_107	ingeneral	J'aime les chiens, et les moineaux en général.	3.5
+fr_108	unlike	Contrairement aux ministres, les serveurs sont souvent mentionnés dans ce texte.	6.0
+fr_109	particular	J'aime les lacs, et en particulier le béton.	1.42
+fr_110	particular	J'adore la dinde, et en particulier le caviar.	1.33
+fr_111	unlike	Contrairement aux gardiens, les sénateurs sont souvent mentionnés dans ce texte.	5.58
+fr_112	unlike	Contrairement aux arbres, les chênes sont souvent mentionnés dans ce texte.	2.58
+fr_113	ingeneral	J'aime les bouleaux, et les animaux en général.	2.83
+fr_114	type	J'apprécie les serveurs, un type intéressant de sénateur.	1.25
+fr_115	unlike	Contrairement au dinde, le caviar est souvent évoquée dans ce texte.	5.5
+fr_116	unlike	Contrairement aux pins, la pelouse est souvent évoquée dans ce texte.	5.58
+fr_117	unlike	Contrairement aux perrouquets, les oiseaux sont souvent mentionnés dans ce texte.	1.83
+fr_118	type	J'aime la nature, un type intéressant de béton.	1.0
+fr_119	comparatives	J'aime la nature plus que les maisons.	6.17
+fr_120	butnot	J'apprécie les serveurs, mais pas les gouverneurs.	4.73
+fr_121	type	J'aime la nature, un type intéressant de maison.	1.42
+fr_122	particular	J'aime les centres commerciaux, et en particulier les marais.	1.17
+fr_123	unlike	Contrairement aux oiseaux, les chiens sont souvent mentionnés dans ce texte.	6.42
+fr_124	comparatives	J'aime les forêts plus que le béton.	5.17
+fr_125	unlike	Contrairement aux bouleaux, les animaux sont souvent mentionnés dans ce texte.	5.75
+fr_126	particular	J'adore le saumon, et en particulier le poulet.	1.67
+fr_127	ingeneral	J'aime les forêts, et les villes en général.	4.0
+fr_128	unlike	Contrairement aux forêts, les villes sont souvent mentionnés dans ce texte.	5.75
+fr_129	unlike	Contrairement aux ministres, les politiciens sont souvent mentionnés dans ce texte.	2.33
+fr_130	ingeneral	J'aime les bouleaux, et les arbustes en général.	5.0
+fr_131	particular	J'aime les arbustes, et en particulier les pins.	4.25
+fr_132	unlike	Contrairement aux canards, les chiens sont souvent mentionnés dans ce texte.	6.0
+fr_133	particular	J'aime les oiseaux, et en particulier les merles.	6.42
+fr_134	type	J'apprécie les maires, un type intéressant d' agriculteur.	1.5
+fr_135	unlike	Contrairement aux perrouquets, les chiens sont souvent mentionnés dans ce texte.	5.08
+fr_136	unlike	Contrairement aux merles, les oiseaux sont souvent mentionnés dans ce texte.	2.42
+fr_137	type	J'apprécie les ministres, un type intéressant de gardien.	1.92
+fr_138	butnot	J'apprécie les gouverneurs, mais pas les serveurs.	4.75
+fr_139	particular	J'aime les chiens, et en particulier les merles.	1.0
+fr_140	type	J'apprécie les sénateurs, un type intéressant de gardien.	1.5
+fr_141	andtoo	J'apprécie les serveurs, et aussi les gouverneurs.	3.92
+fr_142	particular	J'apprécie les gouverneurs, et en particulier les politiciens.	3.08
+fr_143	ingeneral	J'aime le béton, et les marais en général.	2.67
+fr_144	type	J'aime le béton, un type intéressant de montagne.	1.17
+fr_145	andtoo	J'aime les lacs, et aussi les villes.	6.08
+fr_146	andtoo	J'aime les villes, et aussi les lacs.	5.75
+fr_147	unlike	Contrairement aux chiens, les canards sont souvent mentionnés dans ce texte.	6.25
+fr_148	unlike	Contrairement aux moineaux, les hamsters sont souvent mentionnés dans ce texte.	6.08
+fr_149	comparatives	J'aime la nature plus que les forêts.	1.92
+fr_150	particular	J'aime les forêts, et en particulier les maisons.	1.42
+fr_151	ingeneral	J'aime les cochons, et les moineaux en général.	3.0
+fr_152	comparatives	J'aime les villes plus que les montagnes.	6.25
+fr_153	unlike	Contrairement aux ministres, les conducteurs sont souvent mentionnés dans ce texte.	6.0
+fr_154	butnot	J'apprécie les politiciens, mais pas les gardiens.	5.09
+fr_155	ingeneral	J'aime les sapins, et les arbustes en général.	4.75
+fr_156	particular	J'aime les maisons, et en particulier les forêts.	2.0
+fr_157	butnot	J'apprécie les sénateurs, mais pas les gardiens.	5.33
+fr_158	ingeneral	J'aime le béton, et les lacs en général.	2.09
+fr_159	unlike	Contrairement aux centres commerciaux, les forêts sont souvent mentionnés dans ce texte.	5.0
+fr_160	unlike	Contrairement aux huîtres, les produits de la mer sont souvent mentionnés dans ce texte.	2.08
+fr_161	particular	J'aime les cochons, et en particulier les canards.	2.08
+fr_162	unlike	Contrairement aux gouverneurs, les serveurs sont souvent mentionnés dans ce texte.	6.0
+fr_163	ingeneral	J'aime la pelouse, et les bouleaux en général.	3.33
+fr_164	ingeneral	J'aime les canards, et les oiseaux en général.	6.0
+fr_165	unlike	Contrairement aux politiciens, les sénateurs sont souvent mentionnés dans ce texte.	3.75
+fr_166	andtoo	J'aime les marais, et aussi les centres commerciaux.	4.58
+fr_167	comparatives	J'aime les marais plus que la nature.	2.25
+fr_168	particular	J'apprécie les gardiens, et en particulier les sénateurs.	2.0
+fr_169	particular	J'adore les produits de la mer, et en particulier le poulet.	1.08
+fr_170	unlike	Contrairement aux pins, les arbustes sont souvent mentionnés dans ce texte.	6.17
+fr_171	particular	J'apprécie les gardiens, et en particulier les maires.	1.75
+fr_172	ingeneral	J'apprécie les gardiens, et les maires en général.	3.75
+fr_173	ingeneral	J'aime les chats, et les merles en général.	2.5
+fr_174	comparatives	J'aime les maisons plus que les lacs.	5.58
+fr_175	particular	J'adore les huîtres, et en particulier les produits de la mer.	2.83
+fr_176	butnot	J'adore la nature, mais pas les maisons.	4.58
+fr_177	andtoo	J'apprécie les ministres, et aussi les politiciens.	4.58
+fr_178	unlike	Contrairement aux montagnes, le béton est souvent évoquée dans ce texte.	5.92
+fr_179	unlike	Contrairement aux politiciens, les gouverneurs sont souvent mentionnés dans ce texte.	2.5
+fr_180	ingeneral	J'aime les produits de la mer, et le veau en général.	2.73
+fr_181	particular	J'apprécie les agriculteurs, et en particulier les gouverneurs.	2.75
+fr_182	ingeneral	J'aime les arbres, et les sapins en général.	4.75
+fr_183	ingeneral	J'aime les chênes, et les buissons en général.	4.17
+fr_184	ingeneral	J'aime les moineaux, et les chiens en général.	4.18
+fr_185	comparatives	J'apprécie les agriculteurs plus que les ministres.	5.75
+fr_186	ingeneral	J'aime le saumon, et le poulet en général.	3.58
+fr_187	particular	J'adore la dinde, et en particulier le saumon.	1.75
+fr_188	ingeneral	J'apprécie les gouverneurs, et les serveurs en général.	3.5
+fr_189	unlike	Contrairement aux centres commerciaux, les lacs sont souvent mentionnés dans ce texte.	5.75
+fr_190	andtoo	J'aime les lacs, et aussi la nature.	4.92
+fr_191	ingeneral	J'apprécie les gardiens, et les gouverneurs en général.	2.42
+fr_192	ingeneral	J'aime les montagnes, et les maisons en général.	3.83
+fr_193	ingeneral	J'apprécie les serveurs, et les maires en général.	3.5
+fr_194	particular	J'apprécie les politiciens, et en particulier les maires.	6.0
+fr_195	type	J'apprécie les maires, un type intéressant de conducteur.	1.83
+fr_196	particular	J'aime les chênes, et en particulier les animaux.	1.33
+fr_197	unlike	Contrairement à le caviar, la dinde est souvent évoquée dans ce texte.	4.42
+fr_198	butnot	J'adore les forêts, mais pas les centres commerciaux.	5.75
+fr_199	andtoo	J'aime le béton, et aussi les marais.	4.33
+fr_200	type	J'apprécie les conducteurs, un type intéressant de gouverneur.	1.42
+fr_201	ingeneral	J'aime les centres commerciaux, et les lacs en général.	3.25
+fr_202	ingeneral	J'apprécie les sénateurs, et les agriculteurs en général.	3.33
+fr_203	andtoo	J'apprécie les serveurs, et aussi les sénateurs.	4.36
+fr_204	butnot	J'adore les lacs, mais pas la nature.	3.67
+fr_205	unlike	Contrairement aux crabes, les produits de la mer sont souvent mentionnés dans ce texte.	2.42
+fr_206	unlike	Contrairement aux produits de la mer, les crabes sont souvent mentionnés dans ce texte.	2.83
+fr_207	ingeneral	J'aime la nature, et les montagnes en général.	5.25
+fr_208	ingeneral	J'aime les perrouquets, et les cochons en général.	3.58
+fr_209	unlike	Contrairement aux sénateurs, les gardiens sont souvent mentionnés dans ce texte.	6.0
+fr_210	particular	J'adore les huîtres, et en particulier le veau.	1.5
+fr_211	ingeneral	J'aime la nature, et les marais en général.	4.18
+fr_212	type	J'apprécie les agriculteurs, un type intéressant de sénateur.	2.0
+fr_213	particular	J'aime les chiens, et en particulier les canards.	1.42
+fr_214	butnot	J'apprécie les maires, mais pas les agriculteurs.	5.83
+fr_215	type	J'apprécie les maires, un type intéressant de serveur.	1.5
+fr_216	ingeneral	J'aime les oiseaux, et les cochons en général.	3.33
+fr_217	unlike	Contrairement aux canards, les cochons sont souvent mentionnés dans ce texte.	6.67
+fr_218	ingeneral	J'aime les arbres, et les buissons en général.	3.75
+fr_219	unlike	Contrairement aux agriculteurs, les maires sont souvent mentionnés dans ce texte.	6.08
+fr_220	particular	J'aime les maisons, et en particulier les lacs.	1.83
+fr_221	unlike	Contrairement aux crabes, la dinde est souvent évoquée dans ce texte.	6.5
+fr_222	particular	J'aime les oiseaux, et en particulier les perrouquets.	6.18
+fr_223	ingeneral	J'aime les sapins, et les buissons en général.	4.92
+fr_224	unlike	Contrairement aux canards, les chats sont souvent mentionnés dans ce texte.	6.75
+fr_225	butnot	J'apprécie les sénateurs, mais pas les politiciens.	3.83
+fr_226	unlike	Contrairement à le veau, les crabes sont souvent mentionnés dans ce texte.	4.0
+fr_227	andtoo	J'aime le béton, et aussi les lacs.	4.83
+fr_228	particular	J'aime les centres commerciaux, et en particulier les lacs.	1.58
+fr_229	ingeneral	J'aime les crabes, et le poulet en général.	3.58
+fr_230	butnot	J'adore les montagnes, mais pas les villes.	6.0
+fr_231	comparatives	J'apprécie les maires plus que les agriculteurs.	5.83
+fr_232	comparatives	J'apprécie les politiciens plus que les agriculteurs.	5.58
+fr_233	unlike	Contrairement aux marais, les centres commerciaux sont souvent mentionnés dans ce texte.	5.67
+fr_234	andtoo	J'aime les forêts, et aussi la nature.	4.58
+fr_235	butnot	J'adore les villes, mais pas les lacs.	5.33
+fr_236	unlike	Contrairement aux arbustes, les bouleaux sont souvent mentionnés dans ce texte.	5.58
+fr_237	ingeneral	J'apprécie les maires, et les gardiens en général.	3.25
+fr_238	unlike	Contrairement aux chiens, les moineaux sont souvent mentionnés dans ce texte.	6.25
+fr_239	particular	J'apprécie les serveurs, et en particulier les maires.	1.5
+fr_240	particular	J'aime la nature, et en particulier le béton.	1.0
+fr_241	ingeneral	J'aime les maisons, et les forêts en général.	3.75
+fr_242	comparatives	J'aime la nature plus que le béton.	5.75
+fr_243	comparatives	J'aime les lacs plus que le béton.	5.33
+fr_244	particular	J'adore le saumon, et en particulier la dinde.	1.5
+fr_245	type	J'aime les lacs, un type intéressant de nature.	4.67
+fr_246	particular	J'aime les centres commerciaux, et en particulier les montagnes.	1.5
+fr_247	type	J'apprécie les politiciens, un type intéressant de ministre.	1.75
+fr_248	ingeneral	J'aime les chênes, et les animaux en général.	3.83
+fr_249	ingeneral	J'apprécie les gouverneurs, et les gardiens en général.	3.42
+fr_250	type	J'aime le béton, un type intéressant de lac.	1.25
+fr_251	unlike	Contrairement au nature, les montagnes sont souvent mentionnés dans ce texte.	1.5
+fr_252	unlike	Contrairement aux animaux, les pins sont souvent mentionnés dans ce texte.	5.83
+fr_253	comparatives	J'aime les villes plus que les forêts.	6.75
+fr_254	ingeneral	J'aime les canards, et les cochons en général.	4.0
+fr_255	unlike	Contrairement aux sapins, les buissons sont souvent mentionnés dans ce texte.	6.0
+fr_256	unlike	Contrairement aux arbustes, les sapins sont souvent mentionnés dans ce texte.	5.08
+fr_257	comparatives	J'aime les centres commerciaux plus que les montagnes.	6.08
+fr_258	particular	J'apprécie les ministres, et en particulier les politiciens.	3.08
+fr_259	type	J'aime les villes, un type intéressant de marais.	1.0
+fr_260	ingeneral	J'aime les produits de la mer, et les huîtres en général.	4.67
+fr_261	particular	J'aime les animaux, et en particulier les pins.	1.25
+fr_262	particular	J'apprécie les politiciens, et en particulier les gouverneurs.	6.25
+fr_263	andtoo	J'aime le béton, et aussi les montagnes.	5.67
+fr_264	particular	J'aime les canards, et en particulier les cochons.	1.08
+fr_265	particular	J'adore les produits de la mer, et en particulier le caviar.	6.0
+fr_266	andtoo	J'aime les marais, et aussi la nature.	3.5
+fr_267	butnot	J'apprécie les serveurs, mais pas les maires.	5.08
+fr_268	type	J'aime les forêts, un type intéressant de nature.	5.08
+fr_269	unlike	Contrairement aux agriculteurs, les sénateurs sont souvent mentionnés dans ce texte.	6.17
+fr_270	unlike	Contrairement aux cochons, les moineaux sont souvent mentionnés dans ce texte.	6.0
+fr_271	ingeneral	J'aime les pins, et les arbustes en général.	4.75
+fr_272	ingeneral	J'aime les montagnes, et le béton en général.	2.42
+fr_273	unlike	Contrairement aux produits de la mer, le poulet est souvent évoquée dans ce texte.	5.5
+fr_274	particular	J'aime les oiseaux, et en particulier les cochons.	1.5
+fr_275	unlike	Contrairement à le saumon, la dinde est souvent évoquée dans ce texte.	4.92
+fr_276	unlike	Contrairement aux oiseaux, les hamsters sont souvent mentionnés dans ce texte.	5.5
+fr_277	unlike	Contrairement à le veau, le caviar est souvent évoquée dans ce texte.	3.0
+fr_278	particular	J'apprécie les maires, et en particulier les agriculteurs.	2.17
+fr_279	particular	J'aime la pelouse, et en particulier les sapins.	1.75
+fr_280	ingeneral	J'apprécie les agriculteurs, et les ministres en général.	3.08
+fr_281	unlike	Contrairement au nature, le béton est souvent évoquée dans ce texte.	3.25
+fr_282	particular	J'adore les crabes, et en particulier le boeuf.	1.5
+fr_283	particular	J'aime les sapins, et en particulier les buissons.	3.17
+fr_284	andtoo	J'aime la nature, et aussi les lacs.	3.67
+fr_285	type	J'aime les marais, un type intéressant de nature.	4.42
+fr_286	butnot	J'adore les montagnes, mais pas les centres commerciaux.	4.67
+fr_287	andtoo	J'apprécie les gardiens, et aussi les ministres.	4.73
+fr_288	type	J'aime la nature, un type intéressant de lac.	1.42
+fr_289	ingeneral	J'aime les marais, et le béton en général.	2.33
+fr_290	butnot	J'apprécie les sénateurs, mais pas les conducteurs.	3.58
+fr_291	ingeneral	J'aime les produits de la mer, et les crabes en général.	4.25
+fr_292	ingeneral	J'aime la nature, et le béton en général.	2.67
+fr_293	andtoo	J'apprécie les serveurs, et aussi les ministres.	4.67
+fr_294	unlike	Contrairement aux centres commerciaux, les montagnes sont souvent mentionnés dans ce texte.	5.75
+fr_295	comparatives	J'apprécie les politiciens plus que les maires.	3.58
+fr_296	particular	J'adore le boeuf, et en particulier les huîtres.	2.08
+fr_297	butnot	J'adore les villes, mais pas les marais.	5.25
+fr_298	particular	J'aime les perrouquets, et en particulier les chats.	2.25
+fr_299	unlike	Contrairement aux chênes, la pelouse est souvent évoquée dans ce texte.	4.92
+fr_300	ingeneral	J'apprécie les maires, et les conducteurs en général.	3.42
+fr_301	particular	J'aime les arbustes, et en particulier les chênes.	4.55
+fr_302	type	J'aime les marais, un type intéressant de centre commercial.	1.0
+fr_303	unlike	Contrairement aux animaux, les bouleaux sont souvent mentionnés dans ce texte.	6.08
+fr_304	butnot	J'apprécie les ministres, mais pas les agriculteurs.	5.17
+fr_305	type	J'aime la nature, un type intéressant de marais.	1.08
+fr_306	particular	J'aime les villes, et en particulier les marais.	1.42
+fr_307	butnot	J'apprécie les gouverneurs, mais pas les politiciens.	4.42
+fr_308	andtoo	J'apprécie les gardiens, et aussi les maires.	4.75
+fr_309	unlike	Contrairement aux forêts, le béton est souvent évoquée dans ce texte.	4.82
+fr_310	unlike	Contrairement aux arbres, les bouleaux sont souvent mentionnés dans ce texte.	2.73
+fr_311	comparatives	J'aime les forêts plus que les maisons.	4.33
+fr_312	type	J'apprécie les politiciens, un type intéressant de sénateur.	1.92
+fr_313	particular	J'aime les canards, et en particulier les chats.	1.17
+fr_314	ingeneral	J'aime les marais, et la nature en général.	6.25
+fr_315	particular	J'apprécie les politiciens, et en particulier les gardiens.	1.5
+fr_316	ingeneral	J'apprécie les agriculteurs, et les maires en général.	3.5
+fr_317	particular	J'adore le poulet, et en particulier le saumon.	1.83
+fr_318	particular	J'aime les montagnes, et en particulier les maisons.	1.75
+fr_319	ingeneral	J'aime le béton, et les montagnes en général.	3.25
+fr_320	type	J'aime les centres commerciaux, un type intéressant de lac.	1.08
+fr_321	comparatives	J'aime les montagnes plus que les maisons.	5.92
+fr_322	particular	J'adore le caviar, et en particulier le poulet.	1.42
+fr_323	ingeneral	J'aime le béton, et les forêts en général.	2.92
+fr_324	particular	J'aime les marais, et en particulier la nature.	3.33
+fr_325	ingeneral	J'aime les villes, et les marais en général.	3.42
+fr_326	comparatives	J'aime la nature plus que les lacs.	3.08
+fr_327	particular	J'aime les forêts, et en particulier le béton.	1.75
+fr_328	ingeneral	J'aime les arbres, et la pelouse en général.	3.75
+fr_329	andtoo	J'apprécie les agriculteurs, et aussi les gouverneurs.	5.0
+fr_330	comparatives	J'aime les marais plus que les centres commerciaux.	5.64
+fr_331	butnot	J'adore les centres commerciaux, mais pas les marais.	4.92
+fr_332	particular	J'aime les montagnes, et en particulier les centres commerciaux.	1.0
+fr_333	andtoo	J'aime le béton, et aussi les forêts.	5.0
+fr_334	unlike	Contrairement aux buissons, les sapins sont souvent mentionnés dans ce texte.	6.5
+fr_335	particular	J'adore la dinde, et en particulier les huîtres.	1.92
+fr_336	unlike	Contrairement aux conducteurs, les ministres sont souvent mentionnés dans ce texte.	5.92
+fr_337	unlike	Contrairement à le poulet, les crabes sont souvent mentionnés dans ce texte.	4.17
+fr_338	butnot	J'apprécie les gouverneurs, mais pas les agriculteurs.	5.67
+fr_339	ingeneral	J'apprécie les sénateurs, et les conducteurs en général.	3.33
+fr_340	ingeneral	J'aime les bouleaux, et les arbres en général.	6.25
+fr_341	particular	J'adore le caviar, et en particulier les produits de la mer.	2.67
+fr_342	comparatives	J'apprécie les sénateurs plus que les serveurs.	5.17
+fr_343	type	J'aime les centres commerciaux, un type intéressant de montagne.	1.0
+fr_344	particular	J'aime les buissons, et en particulier les sapins.	1.67
+fr_345	andtoo	J'apprécie les ministres, et aussi les serveurs.	5.25
+fr_346	comparatives	J'aime les marais plus que les villes.	5.75
+fr_347	unlike	Contrairement à le veau, le saumon est souvent évoquée dans ce texte.	3.18
+fr_348	particular	J'adore les produits de la mer, et en particulier les crabes.	6.83
+fr_349	butnot	J'apprécie les agriculteurs, mais pas les gouverneurs.	4.5
+fr_350	comparatives	J'aime le béton plus que les forêts.	5.42
+fr_351	comparatives	J'aime les lacs plus que les maisons.	5.33
+fr_352	unlike	Contrairement au nature, les villes sont souvent mentionnés dans ce texte.	4.58
+fr_353	particular	J'aime les pins, et en particulier les arbres.	1.67
+fr_354	butnot	J'apprécie les politiciens, mais pas les maires.	4.42
+fr_355	particular	J'aime les chênes, et en particulier les arbres.	1.5
+fr_356	type	J'apprécie les gouverneurs, un type intéressant de politicien.	6.17
+fr_357	unlike	Contrairement aux politiciens, les serveurs sont souvent mentionnés dans ce texte.	6.0
+fr_358	type	J'aime la nature, un type intéressant de montagne.	1.67
+fr_359	unlike	Contrairement aux produits de la mer, le veau est souvent évoquée dans ce texte.	4.25
+fr_360	butnot	J'adore les forêts, mais pas les maisons.	5.17
+fr_361	particular	J'apprécie les maires, et en particulier les serveurs.	2.17
+fr_362	comparatives	J'apprécie les agriculteurs plus que les gouverneurs.	5.83
+fr_363	particular	J'aime les oiseaux, et en particulier les chiens.	2.0
+fr_364	unlike	Contrairement aux marais, le béton est souvent évoquée dans ce texte.	4.75
+fr_365	particular	J'adore les produits de la mer, et en particulier le boeuf.	1.17
+fr_366	comparatives	J'aime le béton plus que les marais.	5.33
+fr_367	type	J'apprécie les ministres, un type intéressant de politicien.	6.33
+fr_368	ingeneral	J'aime le caviar, et le veau en général.	3.42
+fr_369	ingeneral	J'apprécie les maires, et les agriculteurs en général.	2.67
+fr_370	ingeneral	J'apprécie les maires, et les serveurs en général.	3.33
+fr_371	unlike	Contrairement aux sapins, les animaux sont souvent mentionnés dans ce texte.	4.82
+fr_372	type	J'apprécie les sénateurs, un type intéressant de serveur.	1.36
+fr_373	andtoo	J'aime les lacs, et aussi les maisons.	5.92
+fr_374	ingeneral	J'apprécie les agriculteurs, et les gouverneurs en général.	2.92
+fr_375	type	J'aime les forêts, un type intéressant de ville.	1.55
+fr_376	unlike	Contrairement aux gouverneurs, les agriculteurs sont souvent mentionnés dans ce texte.	6.17
+fr_377	type	J'aime les centres commerciaux, un type intéressant de marais.	1.18
+fr_378	ingeneral	J'apprécie les gouverneurs, et les agriculteurs en général.	3.5
+fr_379	unlike	Contrairement aux produits de la mer, le caviar est souvent évoquée dans ce texte.	1.83
+fr_380	ingeneral	J'aime les oiseaux, et les chiens en général.	3.0
+fr_381	particular	J'adore les crabes, et en particulier le veau.	1.17
+fr_382	ingeneral	J'aime les arbustes, et les pins en général.	4.33
+fr_383	unlike	Contrairement aux cochons, les canards sont souvent mentionnés dans ce texte.	6.25
+fr_384	unlike	Contrairement aux sénateurs, les politiciens sont souvent mentionnés dans ce texte.	4.33
+fr_385	unlike	Contrairement aux cochons, les perrouquets sont souvent mentionnés dans ce texte.	4.67
+fr_386	particular	J'aime les moineaux, et en particulier les cochons.	1.25
+fr_387	particular	J'apprécie les conducteurs, et en particulier les maires.	1.75
+fr_388	particular	J'aime les arbustes, et en particulier les sapins.	4.17
+fr_389	ingeneral	J'apprécie les politiciens, et les agriculteurs en général.	3.17
+fr_390	ingeneral	J'aime les sapins, et les arbres en général.	6.75
+fr_391	type	J'aime les montagnes, un type intéressant de béton.	1.25
+fr_392	butnot	J'apprécie les maires, mais pas les politiciens.	3.42
+fr_393	comparatives	J'apprécie les serveurs plus que les maires.	6.0
+fr_394	particular	J'aime les canards, et en particulier les oiseaux.	2.0
+fr_395	particular	J'aime les oiseaux, et en particulier les hamsters.	1.0
+fr_396	ingeneral	J'aime les sapins, et les animaux en général.	3.64
+fr_397	butnot	J'apprécie les gouverneurs, mais pas les conducteurs.	4.5
+fr_398	particular	J'apprécie les sénateurs, et en particulier les conducteurs.	2.33
+fr_399	butnot	J'apprécie les ministres, mais pas les conducteurs.	4.75
+fr_400	particular	J'aime les cochons, et en particulier les moineaux.	1.0
+fr_401	ingeneral	J'aime les lacs, et la nature en général.	6.08
+fr_402	andtoo	J'apprécie les sénateurs, et aussi les gardiens.	3.92
+fr_403	unlike	Contrairement aux bouleaux, les arbustes sont souvent mentionnés dans ce texte.	4.5
+fr_404	particular	J'aime les chats, et en particulier les merles.	1.83
+fr_405	ingeneral	J'aime le veau, et les crabes en général.	2.67
+fr_406	unlike	Contrairement aux serveurs, les gouverneurs sont souvent mentionnés dans ce texte.	5.92
+fr_407	andtoo	J'apprécie les conducteurs, et aussi les gouverneurs.	5.17
+fr_408	ingeneral	J'apprécie les serveurs, et les sénateurs en général.	3.64
+fr_409	particular	J'aime les perrouquets, et en particulier les cochons.	1.0
+fr_410	particular	J'adore les produits de la mer, et en particulier les huîtres.	6.83
+fr_411	butnot	J'apprécie les conducteurs, mais pas les sénateurs.	4.92
+fr_412	ingeneral	J'aime les huîtres, et les produits de la mer en général.	6.42
+fr_413	particular	J'apprécie les gouverneurs, et en particulier les agriculteurs.	1.73
+fr_414	ingeneral	J'apprécie les gardiens, et les ministres en général.	3.17
+fr_415	unlike	Contrairement à le caviar, le boeuf est souvent évoquée dans ce texte.	4.0
+fr_416	type	J'apprécie les maires, un type intéressant de politicien.	6.75
+fr_417	type	J'apprécie les sénateurs, un type intéressant de politicien.	5.55
+fr_418	butnot	J'adore les villes, mais pas les forêts.	6.33
+fr_419	unlike	Contrairement à le saumon, le boeuf est souvent évoquée dans ce texte.	3.17
+fr_420	andtoo	J'apprécie les sénateurs, et aussi les politiciens.	3.83
+fr_421	particular	J'adore les huîtres, et en particulier le poulet.	1.25
+fr_422	unlike	Contrairement aux maisons, les forêts sont souvent mentionnés dans ce texte.	5.55
+fr_423	type	J'aime les maisons, un type intéressant de forêt.	1.17
+fr_424	ingeneral	J'aime les centres commerciaux, et les forêts en général.	3.83
+fr_425	ingeneral	J'apprécie les politiciens, et les serveurs en général.	3.33
+fr_426	ingeneral	J'aime les cochons, et les merles en général.	2.92
+fr_427	ingeneral	J'apprécie les sénateurs, et les gardiens en général.	3.08
+fr_428	comparatives	J'apprécie les maires plus que les politiciens.	3.5
+fr_429	comparatives	J'aime les montagnes plus que la nature.	2.83
+fr_430	type	J'aime les montagnes, un type intéressant de maison.	1.25
+fr_431	butnot	J'adore la nature, mais pas les villes.	5.58
+fr_432	comparatives	J'aime les forêts plus que les centres commerciaux.	5.92
+fr_433	particular	J'aime les moineaux, et en particulier les oiseaux.	2.67
+fr_434	type	J'aime les forêts, un type intéressant de centre commercial.	1.25
+fr_435	ingeneral	J'apprécie les serveurs, et les gouverneurs en général.	2.58
+fr_436	unlike	Contrairement aux merles, les cochons sont souvent mentionnés dans ce texte.	5.27
+fr_437	ingeneral	J'apprécie les ministres, et les agriculteurs en général.	3.25
+fr_438	ingeneral	J'aime les lacs, et les villes en général.	4.58
+fr_439	particular	J'adore le caviar, et en particulier le veau.	1.5
+fr_440	comparatives	J'apprécie les sénateurs plus que les gardiens.	5.17
+fr_441	particular	J'aime les marais, et en particulier les centres commerciaux.	1.0
+fr_442	ingeneral	J'aime les arbustes, et les sapins en général.	4.75
+fr_443	ingeneral	J'aime le boeuf, et le caviar en général.	4.0
+fr_444	comparatives	J'aime le béton plus que les lacs.	5.92
+fr_445	andtoo	J'aime les forêts, et aussi les maisons.	5.42
+fr_446	particular	J'aime les pins, et en particulier les arbustes.	3.08
+fr_447	butnot	J'adore la nature, mais pas les centres commerciaux.	4.75
+fr_448	comparatives	J'apprécie les maires plus que les conducteurs.	5.25
+fr_449	comparatives	J'apprécie les conducteurs plus que les gouverneurs.	4.25
+fr_450	particular	J'aime les hamsters, et en particulier les moineaux.	1.83
+fr_451	particular	J'aime les cochons, et en particulier les merles.	1.33
+fr_452	butnot	J'apprécie les serveurs, mais pas les ministres.	5.0
+fr_453	particular	J'adore les huîtres, et en particulier le boeuf.	1.33
+fr_454	ingeneral	J'apprécie les serveurs, et les ministres en général.	2.33
+fr_455	particular	J'aime les merles, et en particulier les hamsters.	1.75
+fr_456	unlike	Contrairement aux produits de la mer, le saumon est souvent évoquée dans ce texte.	2.83
+fr_457	type	J'apprécie les ministres, un type intéressant d' agriculteur.	1.5
+fr_458	ingeneral	J'aime les moineaux, et les chats en général.	3.58
+fr_459	unlike	Contrairement aux cochons, les merles sont souvent mentionnés dans ce texte.	6.0
+fr_460	ingeneral	J'aime le boeuf, et les huîtres en général.	4.0
+fr_461	ingeneral	J'aime les chats, et les moineaux en général.	3.36
+fr_462	ingeneral	J'apprécie les politiciens, et les conducteurs en général.	3.5
+fr_463	unlike	Contrairement aux oiseaux, les moineaux sont souvent mentionnés dans ce texte.	1.83
+fr_464	comparatives	J'apprécie les gouverneurs plus que les gardiens.	4.0
+fr_465	andtoo	J'apprécie les ministres, et aussi les agriculteurs.	6.0
+fr_466	comparatives	J'apprécie les serveurs plus que les ministres.	6.18
+fr_467	unlike	Contrairement aux politiciens, les conducteurs sont souvent mentionnés dans ce texte.	5.58
+fr_468	comparatives	J'apprécie les ministres plus que les gardiens.	6.08
+fr_469	andtoo	J'aime les montagnes, et aussi les maisons.	5.58
+fr_470	unlike	Contrairement aux ministres, les gardiens sont souvent mentionnés dans ce texte.	5.6
+fr_471	particular	J'apprécie les ministres, et en particulier les serveurs.	2.25
+fr_472	andtoo	J'aime les forêts, et aussi les centres commerciaux.	5.92
+fr_473	type	J'aime les marais, un type intéressant de maison.	1.0
+fr_474	particular	J'adore le boeuf, et en particulier le saumon.	1.75
+fr_475	particular	J'adore les produits de la mer, et en particulier le saumon.	6.67
+fr_476	comparatives	J'aime la nature plus que les marais.	2.92
+fr_477	ingeneral	J'aime les chênes, et la pelouse en général.	3.58
+fr_478	type	J'aime les villes, un type intéressant de montagne.	1.08
+fr_479	ingeneral	J'apprécie les politiciens, et les maires en général.	5.75
+fr_480	type	J'aime les maisons, un type intéressant de montagne.	1.42
+fr_481	unlike	Contrairement aux conducteurs, les sénateurs sont souvent mentionnés dans ce texte.	5.25
+fr_482	butnot	J'apprécie les gardiens, mais pas les maires.	4.64
+fr_483	particular	J'aime les arbustes, et en particulier les bouleaux.	3.17
+fr_484	unlike	Contrairement à le boeuf, les huîtres sont souvent mentionnés dans ce texte.	3.5
+fr_485	particular	J'adore les crabes, et en particulier la dinde.	1.58
+fr_486	particular	J'adore les crabes, et en particulier le poulet.	1.83
+fr_487	ingeneral	J'apprécie les ministres, et les conducteurs en général.	3.33
+fr_488	particular	J'aime les lacs, et en particulier les centres commerciaux.	1.33
+fr_489	particular	J'aime les bouleaux, et en particulier la pelouse.	1.92
+fr_490	unlike	Contrairement aux politiciens, les gardiens sont souvent mentionnés dans ce texte.	5.5
+fr_491	unlike	Contrairement aux arbres, les animaux sont souvent mentionnés dans ce texte.	5.5
+fr_492	unlike	Contrairement aux politiciens, les ministres sont souvent mentionnés dans ce texte.	3.83
+fr_493	unlike	Contrairement aux canards, les hamsters sont souvent mentionnés dans ce texte.	5.92
+fr_494	comparatives	J'apprécie les gardiens plus que les maires.	3.67
+fr_495	ingeneral	J'aime les montagnes, et les centres commerciaux en général.	4.18
+fr_496	particular	J'aime la nature, et en particulier les montagnes.	6.75
+fr_497	particular	J'aime les pins, et en particulier la pelouse.	2.92
+fr_498	particular	J'aime la nature, et en particulier les forêts.	6.58
+fr_499	andtoo	J'aime les centres commerciaux, et aussi les forêts.	5.08
+fr_500	andtoo	J'apprécie les sénateurs, et aussi les conducteurs.	5.17
+fr_501	ingeneral	J'aime les buissons, et les bouleaux en général.	3.17
+fr_502	ingeneral	J'aime les forêts, et la nature en général.	6.82
+fr_503	unlike	Contrairement aux maires, les agriculteurs sont souvent mentionnés dans ce texte.	5.75
+fr_504	ingeneral	J'aime les maisons, et les marais en général.	3.83
+fr_505	andtoo	J'apprécie les politiciens, et aussi les conducteurs.	5.0
+fr_506	butnot	J'adore les lacs, mais pas les centres commerciaux.	5.0
+fr_507	particular	J'aime les villes, et en particulier les lacs.	2.0
+fr_508	butnot	J'apprécie les agriculteurs, mais pas les maires.	5.25
+fr_509	ingeneral	J'aime les oiseaux, et les merles en général.	2.92
+fr_510	ingeneral	J'aime les montagnes, et la nature en général.	6.08
+fr_511	ingeneral	J'aime les crabes, et le veau en général.	4.25
+fr_512	ingeneral	J'aime les cochons, et les canards en général.	4.33
+fr_513	unlike	Contrairement aux bouleaux, les buissons sont souvent mentionnés dans ce texte.	6.42
+fr_514	unlike	Contrairement au dinde, les crabes sont souvent mentionnés dans ce texte.	4.5
+fr_515	particular	J'aime les arbres, et en particulier les arbustes.	5.75
+fr_516	unlike	Contrairement aux gouverneurs, les conducteurs sont souvent mentionnés dans ce texte.	5.92
+fr_517	ingeneral	J'aime les oiseaux, et les chats en général.	3.25
+fr_518	unlike	Contrairement aux ministres, les agriculteurs sont souvent mentionnés dans ce texte.	6.08
+fr_519	particular	J'apprécie les politiciens, et en particulier les agriculteurs.	2.58
+fr_520	ingeneral	J'aime les perrouquets, et les chiens en général.	3.08
+fr_521	particular	J'adore le veau, et en particulier le saumon.	2.25
+fr_522	ingeneral	J'aime les pins, et les buissons en général.	3.92
+fr_523	particular	J'aime les villes, et en particulier les forêts.	1.67
+fr_524	comparatives	J'aime les maisons plus que les forêts.	5.08
+fr_525	andtoo	J'aime les lacs, et aussi les centres commerciaux.	5.33
+fr_526	particular	J'adore le veau, et en particulier les huîtres.	1.58
+fr_527	unlike	Contrairement aux moineaux, les oiseaux sont souvent mentionnés dans ce texte.	1.92
+fr_528	butnot	J'adore la nature, mais pas le béton.	4.5
+fr_529	particular	J'apprécie les sénateurs, et en particulier les politiciens.	3.17
+fr_530	unlike	Contrairement au pelouse, les bouleaux sont souvent mentionnés dans ce texte.	4.42
+fr_531	unlike	Contrairement aux moineaux, les chiens sont souvent mentionnés dans ce texte.	6.75
+fr_532	unlike	Contrairement aux oiseaux, les perrouquets sont souvent mentionnés dans ce texte.	2.08
+fr_533	type	J'apprécie les politiciens, un type intéressant de conducteur.	1.5
+fr_534	andtoo	J'apprécie les politiciens, et aussi les sénateurs.	4.58
+fr_535	andtoo	J'apprécie les ministres, et aussi les conducteurs.	5.33
+fr_536	butnot	J'apprécie les sénateurs, mais pas les serveurs.	4.58
+fr_537	unlike	Contrairement aux gardiens, les maires sont souvent mentionnés dans ce texte.	5.67
+fr_538	unlike	Contrairement aux hamsters, les perrouquets sont souvent mentionnés dans ce texte.	3.5
+fr_539	unlike	Contrairement aux forêts, les maisons sont souvent mentionnés dans ce texte.	6.08
+fr_540	comparatives	J'apprécie les conducteurs plus que les sénateurs.	5.58
+fr_541	comparatives	J'aime les forêts plus que les villes.	6.58
+fr_542	butnot	J'apprécie les sénateurs, mais pas les agriculteurs.	5.5
+fr_543	particular	J'aime les montagnes, et en particulier les villes.	1.92
+fr_544	andtoo	J'apprécie les sénateurs, et aussi les agriculteurs.	5.92
+fr_545	unlike	Contrairement aux chats, les perrouquets sont souvent mentionnés dans ce texte.	5.75
+fr_546	unlike	Contrairement aux animaux, les chênes sont souvent mentionnés dans ce texte.	4.92
+fr_547	unlike	Contrairement aux politiciens, les agriculteurs sont souvent mentionnés dans ce texte.	5.58
+fr_548	particular	J'aime les oiseaux, et en particulier les moineaux.	7.0
+fr_549	particular	J'aime les bouleaux, et en particulier les arbustes.	3.5
+fr_550	butnot	J'apprécie les ministres, mais pas les gardiens.	5.25
+fr_551	ingeneral	J'aime les buissons, et les pins en général.	3.58
+fr_552	particular	J'aime les arbres, et en particulier les chênes.	6.91
+fr_553	andtoo	J'aime les montagnes, et aussi les centres commerciaux.	6.08
+fr_554	ingeneral	J'aime la nature, et les lacs en général.	4.08
+fr_555	ingeneral	J'aime les sapins, et la pelouse en général.	3.17
+fr_556	particular	J'aime les maisons, et en particulier les montagnes.	1.42
+fr_557	particular	J'aime les hamsters, et en particulier les merles.	1.33
+fr_558	type	J'aime les montagnes, un type intéressant de ville.	1.33
+fr_559	particular	J'apprécie les serveurs, et en particulier les sénateurs.	1.58
+fr_560	ingeneral	J'apprécie les gouverneurs, et les conducteurs en général.	2.25
+fr_561	ingeneral	J'apprécie les politiciens, et les sénateurs en général.	5.75
+fr_562	andtoo	J'apprécie les gardiens, et aussi les gouverneurs.	4.67
+fr_563	comparatives	J'aime les lacs plus que les centres commerciaux.	5.33
+fr_564	particular	J'adore le saumon, et en particulier le boeuf.	1.73
+fr_565	particular	J'aime la nature, et en particulier les villes.	1.67
+fr_566	andtoo	J'apprécie les agriculteurs, et aussi les ministres.	5.36
+fr_567	butnot	J'adore le béton, mais pas les montagnes.	3.75
+fr_568	unlike	Contrairement au dinde, les huîtres sont souvent mentionnés dans ce texte.	5.67
+fr_569	unlike	Contrairement aux huîtres, le boeuf est souvent évoquée dans ce texte.	5.75
+fr_570	unlike	Contrairement aux merles, les hamsters sont souvent mentionnés dans ce texte.	6.17
+fr_571	particular	J'aime les perrouquets, et en particulier les hamsters.	1.42
+fr_572	unlike	Contrairement aux moineaux, les cochons sont souvent mentionnés dans ce texte.	6.33
+fr_573	andtoo	J'aime la nature, et aussi les centres commerciaux.	5.67
+fr_574	unlike	Contrairement aux buissons, les pins sont souvent mentionnés dans ce texte.	6.42
+fr_575	ingeneral	J'apprécie les sénateurs, et les serveurs en général.	3.0
+fr_576	ingeneral	J'aime les oiseaux, et les moineaux en général.	3.25
+fr_577	particular	J'aime les buissons, et en particulier les chênes.	2.58
+fr_578	type	J'aime les maisons, un type intéressant de lac.	1.58
+fr_579	type	J'aime la nature, un type intéressant de ville.	1.58
+fr_580	particular	J'aime les moineaux, et en particulier les chats.	1.58
+fr_581	ingeneral	J'aime les chênes, et les arbustes en général.	3.33
+fr_582	particular	J'aime les oiseaux, et en particulier les chats.	1.25
+fr_583	unlike	Contrairement au dinde, le saumon est souvent évoquée dans ce texte.	3.92
+fr_584	ingeneral	J'aime les cochons, et les perrouquets en général.	3.17
+fr_585	particular	J'apprécie les maires, et en particulier les gardiens.	1.83
+fr_586	unlike	Contrairement aux gardiens, les ministres sont souvent mentionnés dans ce texte.	5.18
+fr_587	ingeneral	J'aime les marais, et les maisons en général.	2.83
+fr_588	unlike	Contrairement aux sapins, les arbres sont souvent mentionnés dans ce texte.	1.67
+fr_589	unlike	Contrairement aux bouleaux, la pelouse est souvent évoquée dans ce texte.	6.25
+fr_590	comparatives	J'apprécie les maires plus que les gardiens.	5.42
+fr_591	ingeneral	J'apprécie les ministres, et les serveurs en général.	3.25
+fr_592	ingeneral	J'aime la pelouse, et les pins en général.	2.5
+fr_593	unlike	Contrairement à le saumon, le veau est souvent évoquée dans ce texte.	3.0
+fr_594	unlike	Contrairement à le béton, les montagnes sont souvent mentionnés dans ce texte.	2.75
+fr_595	ingeneral	J'aime les maisons, et les lacs en général.	4.08
+fr_596	particular	J'adore le poulet, et en particulier les huîtres.	1.09
+fr_597	unlike	Contrairement aux chênes, les arbustes sont souvent mentionnés dans ce texte.	5.58
+fr_598	particular	J'aime les perrouquets, et en particulier les chiens.	1.45
+fr_599	ingeneral	J'apprécie les conducteurs, et les gouverneurs en général.	3.25
+fr_600	andtoo	J'apprécie les agriculteurs, et aussi les sénateurs.	5.42
+fr_601	ingeneral	J'aime les crabes, et le boeuf en général.	3.33
+fr_602	comparatives	J'apprécie les politiciens plus que les ministres.	2.83
+fr_603	butnot	J'adore les villes, mais pas les montagnes.	6.08
+fr_604	ingeneral	J'aime les hamsters, et les moineaux en général.	2.42
+fr_605	butnot	J'apprécie les gouverneurs, mais pas les gardiens.	4.67
+fr_606	ingeneral	J'aime les animaux, et les pins en général.	2.83
+fr_607	unlike	Contrairement aux hamsters, les merles sont souvent mentionnés dans ce texte.	5.33
+fr_608	butnot	J'adore les centres commerciaux, mais pas les montagnes.	5.58
+fr_609	unlike	Contrairement aux lacs, les centres commerciaux sont souvent mentionnés dans ce texte.	6.25
+fr_610	unlike	Contrairement aux marais, la nature est souvent évoquée dans ce texte.	2.5
+fr_611	type	J'apprécie les serveurs, un type intéressant de gouverneur.	1.25
+fr_612	unlike	Contrairement aux lacs, les villes sont souvent mentionnés dans ce texte.	6.33
+fr_613	ingeneral	J'aime le saumon, et la dinde en général.	4.08
+fr_614	ingeneral	J'aime les pins, et les arbres en général.	6.17
+fr_615	butnot	J'adore la nature, mais pas les marais.	6.0
+fr_616	unlike	Contrairement aux maires, les conducteurs sont souvent mentionnés dans ce texte.	5.09
+fr_617	ingeneral	J'aime le veau, et les huîtres en général.	3.83
+fr_618	particular	J'aime les pins, et en particulier les animaux.	1.92
+fr_619	butnot	J'apprécie les maires, mais pas les conducteurs.	4.75
+fr_620	comparatives	J'apprécie les politiciens plus que les conducteurs.	5.33
+fr_621	unlike	Contrairement aux perrouquets, les hamsters sont souvent mentionnés dans ce texte.	4.75
+fr_622	unlike	Contrairement aux serveurs, les sénateurs sont souvent mentionnés dans ce texte.	6.58
+fr_623	butnot	J'adore les forêts, mais pas la nature.	2.42
+fr_624	ingeneral	J'aime le poulet, et les huîtres en général.	4.0
+fr_625	andtoo	J'apprécie les maires, et aussi les conducteurs.	5.67
+fr_626	ingeneral	J'aime les produits de la mer, et la dinde en général.	3.42
+fr_627	butnot	J'apprécie les ministres, mais pas les serveurs.	3.67
+fr_628	unlike	Contrairement aux produits de la mer, la dinde est souvent évoquée dans ce texte.	6.25
+fr_629	type	J'apprécie les agriculteurs, un type intéressant de maire.	2.08
+fr_630	particular	J'aime les sapins, et en particulier les animaux.	1.08
+fr_631	unlike	Contrairement aux merles, les chiens sont souvent mentionnés dans ce texte.	6.0
+fr_632	andtoo	J'aime les centres commerciaux, et aussi les montagnes.	4.25
+fr_633	particular	J'apprécie les gardiens, et en particulier les ministres.	2.0
+fr_634	particular	J'aime la nature, et en particulier les lacs.	6.0
+fr_635	particular	J'apprécie les gardiens, et en particulier les gouverneurs.	1.83
+fr_636	type	J'aime les marais, un type intéressant de ville.	1.42
+fr_637	particular	J'adore le caviar, et en particulier la dinde.	1.42
+fr_638	particular	J'aime les forêts, et en particulier les villes.	1.08
+fr_639	type	J'apprécie les politiciens, un type intéressant d' agriculteur.	1.33
+fr_640	unlike	Contrairement aux merles, les chats sont souvent mentionnés dans ce texte.	6.08
+fr_641	butnot	J'adore les lacs, mais pas les maisons.	4.67
+fr_642	ingeneral	J'apprécie les ministres, et les politiciens en général.	6.67
+fr_643	comparatives	J'apprécie les politiciens plus que les gardiens.	5.5
+fr_644	ingeneral	J'aime les merles, et les chats en général.	3.42
+fr_645	unlike	Contrairement aux oiseaux, les chats sont souvent mentionnés dans ce texte.	6.08
+fr_646	ingeneral	J'aime le veau, et le saumon en général.	4.17
+fr_647	ingeneral	J'aime le poulet, et les crabes en général.	3.58
+fr_648	unlike	Contrairement aux maisons, les montagnes sont souvent mentionnés dans ce texte.	5.25
+fr_649	unlike	Contrairement aux arbres, les sapins sont souvent mentionnés dans ce texte.	2.42
+fr_650	andtoo	J'apprécie les politiciens, et aussi les gouverneurs.	4.75
+fr_651	unlike	Contrairement aux villes, les marais sont souvent mentionnés dans ce texte.	5.73
+fr_652	ingeneral	J'aime les hamsters, et les merles en général.	3.33
+fr_653	particular	J'adore le caviar, et en particulier le boeuf.	1.08
+fr_654	unlike	Contrairement aux serveurs, les ministres sont souvent mentionnés dans ce texte.	6.42
+fr_655	comparatives	J'apprécie les gardiens plus que les ministres.	5.25
+fr_656	type	J'apprécie les politiciens, un type intéressant de maire.	1.25
+fr_657	particular	J'aime les moineaux, et en particulier les chiens.	1.08
+fr_658	butnot	J'adore les centres commerciaux, mais pas les forêts.	5.5
+fr_659	unlike	Contrairement aux huîtres, la dinde est souvent évoquée dans ce texte.	5.55
+fr_660	particular	J'aime les sapins, et en particulier la pelouse.	2.0
+fr_661	unlike	Contrairement au pelouse, les sapins sont souvent mentionnés dans ce texte.	5.67
+fr_662	andtoo	J'aime les montagnes, et aussi le béton.	3.83
+fr_663	comparatives	J'aime la nature plus que les villes.	6.67
+fr_664	ingeneral	J'apprécie les politiciens, et les gouverneurs en général.	5.17
+fr_665	ingeneral	J'apprécie les conducteurs, et les maires en général.	3.17
+fr_666	type	J'aime les forêts, un type intéressant de béton.	1.17
+fr_667	ingeneral	J'aime les huîtres, et le poulet en général.	3.67
+fr_668	type	J'apprécie les ministres, un type intéressant de conducteur.	1.33
+fr_669	andtoo	J'aime les lacs, et aussi le béton.	4.92
+fr_670	particular	J'aime la pelouse, et en particulier les bouleaux.	1.92
+fr_671	unlike	Contrairement aux politiciens, les maires sont souvent mentionnés dans ce texte.	4.17
+fr_672	particular	J'aime les oiseaux, et en particulier les canards.	6.27
+fr_673	ingeneral	J'aime les arbres, et les pins en général.	3.17
+fr_674	unlike	Contrairement aux sénateurs, les agriculteurs sont souvent mentionnés dans ce texte.	6.25
+fr_675	andtoo	J'apprécie les maires, et aussi les serveurs.	4.42
+fr_676	butnot	J'adore les lacs, mais pas le béton.	5.0
+fr_677	unlike	Contrairement aux huîtres, le poulet est souvent évoquée dans ce texte.	5.0
+fr_678	ingeneral	J'aime la nature, et les maisons en général.	3.75
+fr_679	particular	J'apprécie les sénateurs, et en particulier les agriculteurs.	2.33
+fr_680	particular	J'adore le boeuf, et en particulier les crabes.	1.64
+fr_681	particular	J'aime la pelouse, et en particulier les chênes.	1.67
+fr_682	andtoo	J'apprécie les agriculteurs, et aussi les maires.	5.5
+fr_683	butnot	J'adore les maisons, mais pas les montagnes.	5.0
+fr_684	andtoo	J'apprécie les gardiens, et aussi les sénateurs.	5.0
+fr_685	particular	J'apprécie les ministres, et en particulier les agriculteurs.	1.5
+fr_686	ingeneral	J'aime les animaux, et les chênes en général.	2.58
+fr_687	unlike	Contrairement aux buissons, les bouleaux sont souvent mentionnés dans ce texte.	5.83
+fr_688	particular	J'apprécie les conducteurs, et en particulier les ministres.	1.92
+fr_689	unlike	Contrairement aux perrouquets, les cochons sont souvent mentionnés dans ce texte.	4.75
+fr_690	ingeneral	J'aime la dinde, et le saumon en général.	4.17
+fr_691	ingeneral	J'aime les montagnes, et les villes en général.	4.08
+fr_692	comparatives	J'apprécie les ministres plus que les conducteurs.	5.0
+fr_693	unlike	Contrairement aux lacs, les maisons sont souvent mentionnés dans ce texte.	4.75
+fr_694	type	J'apprécie les serveurs, un type intéressant de ministre.	1.5
+fr_695	unlike	Contrairement au nature, les marais sont souvent mentionnés dans ce texte.	1.83
+fr_696	comparatives	J'aime les montagnes plus que les villes.	6.42
+fr_697	particular	J'apprécie les gouverneurs, et en particulier les serveurs.	1.67
+fr_698	butnot	J'apprécie les serveurs, mais pas les sénateurs.	5.83
+fr_699	particular	J'apprécie les gouverneurs, et en particulier les conducteurs.	2.0
+fr_700	type	J'apprécie les gouverneurs, un type intéressant de serveur.	1.92
+fr_701	particular	J'adore les crabes, et en particulier les produits de la mer.	3.0
+fr_702	ingeneral	J'aime le veau, et le caviar en général.	4.25
+fr_703	unlike	Contrairement aux oiseaux, les canards sont souvent mentionnés dans ce texte.	3.42
+fr_704	ingeneral	J'aime les animaux, et les bouleaux en général.	2.75
+fr_705	andtoo	J'apprécie les politiciens, et aussi les ministres.	4.67
+fr_706	ingeneral	J'aime le boeuf, et le saumon en général.	4.25
+fr_707	unlike	Contrairement aux crabes, le poulet est souvent évoquée dans ce texte.	4.83
+fr_708	unlike	Contrairement à le boeuf, le caviar est souvent évoquée dans ce texte.	4.25
+fr_709	ingeneral	J'aime le saumon, et les produits de la mer en général.	6.08
+fr_710	particular	J'aime les animaux, et en particulier les sapins.	1.0
+fr_711	unlike	Contrairement à le boeuf, le saumon est souvent évoquée dans ce texte.	3.92
+fr_712	particular	J'aime les centres commerciaux, et en particulier les forêts.	1.42
+fr_713	unlike	Contrairement aux chênes, les arbres sont souvent mentionnés dans ce texte.	1.83
+fr_714	ingeneral	J'aime les moineaux, et les hamsters en général.	3.67
+fr_715	type	J'aime le béton, un type intéressant de forêt.	1.0
+fr_716	unlike	Contrairement aux conducteurs, les gouverneurs sont souvent mentionnés dans ce texte.	5.75
+fr_717	ingeneral	J'aime les merles, et les cochons en général.	3.42
+fr_718	particular	J'aime les hamsters, et en particulier les canards.	1.82
+fr_719	ingeneral	J'aime les chats, et les perrouquets en général.	3.9
+fr_720	andtoo	J'apprécie les maires, et aussi les politiciens.	4.83
+fr_721	ingeneral	J'aime la dinde, et le caviar en général.	3.25
+fr_722	type	J'aime le béton, un type intéressant de marais.	1.25
+fr_723	unlike	Contrairement aux arbres, les pins sont souvent mentionnés dans ce texte.	2.08
+fr_724	type	J'apprécie les ministres, un type intéressant de serveur.	1.92
+fr_725	andtoo	J'aime les villes, et aussi les forêts.	6.33
+fr_726	comparatives	J'aime les marais plus que le béton.	5.64
+fr_727	unlike	Contrairement aux produits de la mer, les huîtres sont souvent mentionnés dans ce texte.	2.58
+fr_728	particular	J'aime les sapins, et en particulier les arbustes.	3.17
+fr_729	comparatives	J'aime les montagnes plus que les centres commerciaux.	6.08
+fr_730	ingeneral	J'aime les hamsters, et les canards en général.	3.83
+fr_731	unlike	Contrairement aux arbres, les arbustes sont souvent mentionnés dans ce texte.	5.83
+fr_732	type	J'aime les villes, un type intéressant de lac.	1.09
+fr_733	particular	J'aime les sapins, et en particulier les arbres.	2.5
+fr_734	ingeneral	J'aime les forêts, et le béton en général.	2.75
+fr_735	particular	J'apprécie les ministres, et en particulier les conducteurs.	2.25
+fr_736	particular	J'apprécie les sénateurs, et en particulier les serveurs.	1.92
+fr_737	comparatives	J'aime la nature plus que les montagnes.	2.17
+fr_738	ingeneral	J'aime les arbres, et les animaux en général.	3.75
+fr_739	unlike	Contrairement aux maires, les serveurs sont souvent mentionnés dans ce texte.	6.67
+fr_740	ingeneral	J'apprécie les conducteurs, et les ministres en général.	2.58
+fr_741	type	J'apprécie les conducteurs, un type intéressant de ministre.	1.17
+fr_742	particular	J'adore les produits de la mer, et en particulier la dinde.	1.08
+fr_743	unlike	Contrairement à le béton, les forêts sont souvent mentionnés dans ce texte.	3.45
+fr_744	ingeneral	J'aime les hamsters, et les perrouquets en général.	2.5
+fr_745	particular	J'aime le béton, et en particulier les montagnes.	2.0
+fr_746	comparatives	J'apprécie les agriculteurs plus que les sénateurs.	5.83
+fr_747	andtoo	J'aime les marais, et aussi le béton.	5.42
+fr_748	particular	J'aime les arbres, et en particulier les pins.	6.58
+fr_749	andtoo	J'apprécie les sénateurs, et aussi les serveurs.	4.67
+fr_750	ingeneral	J'aime les chats, et les canards en général.	3.58
+fr_751	unlike	Contrairement à le béton, les marais sont souvent mentionnés dans ce texte.	3.42
+fr_752	particular	J'apprécie les agriculteurs, et en particulier les ministres.	1.5
+fr_753	comparatives	J'aime les lacs plus que les villes.	6.08
+fr_754	particular	J'aime les forêts, et en particulier la nature.	3.5
+fr_755	particular	J'adore le veau, et en particulier le caviar.	1.25
+fr_756	ingeneral	J'aime les marais, et les centres commerciaux en général.	2.17
+fr_757	particular	J'aime la nature, et en particulier les centres commerciaux.	1.75
+fr_758	particular	J'aime les animaux, et en particulier les bouleaux.	2.0
+fr_759	ingeneral	J'aime les arbustes, et les bouleaux en général.	4.36
+fr_760	ingeneral	J'aime les bouleaux, et la pelouse en général.	2.83
+fr_761	unlike	Contrairement aux oiseaux, les cochons sont souvent mentionnés dans ce texte.	6.17
+fr_762	particular	J'adore les huîtres, et en particulier la dinde.	1.67
+fr_763	butnot	J'apprécie les agriculteurs, mais pas les sénateurs.	5.5
+fr_764	particular	J'adore les produits de la mer, et en particulier le veau.	1.33
+fr_765	butnot	J'apprécie les agriculteurs, mais pas les ministres.	5.58
+fr_766	comparatives	J'apprécie les politiciens plus que les gouverneurs.	3.58
+fr_767	unlike	Contrairement aux montagnes, les villes sont souvent mentionnés dans ce texte.	5.25
+fr_768	ingeneral	J'apprécie les gardiens, et les sénateurs en général.	2.75
+fr_769	ingeneral	J'aime la nature, et les forêts en général.	5.25
+fr_770	andtoo	J'apprécie les politiciens, et aussi les maires.	4.25
+fr_771	unlike	Contrairement aux agriculteurs, les ministres sont souvent mentionnés dans ce texte.	6.33
+fr_772	unlike	Contrairement aux maisons, les marais sont souvent mentionnés dans ce texte.	5.91
+fr_773	particular	J'aime les merles, et en particulier les cochons.	1.25
+fr_774	andtoo	J'aime la nature, et aussi le béton.	4.33
+fr_775	ingeneral	J'aime la pelouse, et les chênes en général.	3.25
+fr_776	butnot	J'adore les montagnes, mais pas le béton.	3.92
+fr_777	unlike	Contrairement aux conducteurs, les maires sont souvent mentionnés dans ce texte.	6.08
+fr_778	andtoo	J'apprécie les gouverneurs, et aussi les politiciens.	5.0
+fr_779	type	J'apprécie les sénateurs, un type intéressant d' agriculteur.	1.42
+fr_780	ingeneral	J'aime le boeuf, et les crabes en général.	3.33
+fr_781	particular	J'apprécie les ministres, et en particulier les gardiens.	2.08
+fr_782	comparatives	J'apprécie les conducteurs plus que les ministres.	5.18
+fr_783	butnot	J'adore les marais, mais pas les centres commerciaux.	4.58
+fr_784	particular	J'aime les merles, et en particulier les oiseaux.	1.92
+fr_785	andtoo	J'aime les montagnes, et aussi les villes.	5.92
+fr_786	ingeneral	J'aime les perrouquets, et les chats en général.	3.17
+fr_787	ingeneral	J'aime les lacs, et les centres commerciaux en général.	3.83
+fr_788	particular	J'aime les buissons, et en particulier les bouleaux.	2.5
+fr_789	comparatives	J'apprécie les agriculteurs plus que les maires.	5.83
+fr_790	andtoo	J'aime les villes, et aussi les montagnes.	6.09
+fr_791	ingeneral	J'aime les villes, et les forêts en général.	4.0
+fr_792	type	J'apprécie les gouverneurs, un type intéressant de gardien.	1.42
+fr_793	butnot	J'adore le béton, mais pas les lacs.	4.17
+fr_794	andtoo	J'aime les maisons, et aussi les forêts.	5.67
+fr_795	unlike	Contrairement aux chats, les merles sont souvent mentionnés dans ce texte.	6.75
+fr_796	unlike	Contrairement au nature, les forêts sont souvent mentionnés dans ce texte.	2.33
+fr_797	type	J'apprécie les agriculteurs, un type intéressant de ministre.	1.42
+fr_798	comparatives	J'aime les centres commerciaux plus que les lacs.	5.58
+fr_799	unlike	Contrairement aux villes, les forêts sont souvent mentionnés dans ce texte.	6.33
+fr_800	ingeneral	J'aime les lacs, et le béton en général.	3.17
+fr_801	type	J'apprécie les gardiens, un type intéressant de gouverneur.	2.25
+fr_802	unlike	Contrairement aux crabes, le boeuf est souvent évoquée dans ce texte.	5.0
+fr_803	andtoo	J'aime les forêts, et aussi les villes.	6.0
+fr_804	unlike	Contrairement aux gardiens, les gouverneurs sont souvent mentionnés dans ce texte.	5.42
+fr_805	unlike	Contrairement aux villes, les montagnes sont souvent mentionnés dans ce texte.	5.25
+fr_806	butnot	J'adore les marais, mais pas le béton.	4.67
+fr_807	unlike	Contrairement aux maires, les politiciens sont souvent mentionnés dans ce texte.	3.83
+fr_808	unlike	Contrairement aux villes, les lacs sont souvent mentionnés dans ce texte.	6.25
+fr_809	butnot	J'apprécie les gardiens, mais pas les gouverneurs.	3.92
+fr_810	type	J'apprécie les gardiens, un type intéressant de ministre.	1.58
+fr_811	particular	J'aime les forêts, et en particulier les centres commerciaux.	1.83
+fr_812	butnot	J'apprécie les politiciens, mais pas les agriculteurs.	4.67
+fr_813	ingeneral	J'aime les villes, et les montagnes en général.	4.33
+fr_814	andtoo	J'apprécie les gouverneurs, et aussi les gardiens.	5.83
+fr_815	andtoo	J'aime les montagnes, et aussi la nature.	4.5
+fr_816	particular	J'adore le poulet, et en particulier le caviar.	1.42
+fr_817	andtoo	J'apprécie les politiciens, et aussi les serveurs.	3.75
+fr_818	unlike	Contrairement à le poulet, le saumon est souvent évoquée dans ce texte.	4.25
+fr_819	comparatives	J'apprécie les ministres plus que les agriculteurs.	5.75
+fr_820	ingeneral	J'aime les canards, et les chats en général.	4.25
+fr_821	type	J'aime les forêts, un type intéressant de maison.	1.5
+fr_822	comparatives	J'aime la nature plus que les centres commerciaux.	5.75
+fr_823	unlike	Contrairement aux arbustes, les chênes sont souvent mentionnés dans ce texte.	5.83
+fr_824	unlike	Contrairement aux huîtres, le veau est souvent évoquée dans ce texte.	6.42
+fr_825	comparatives	J'apprécie les sénateurs plus que les agriculteurs.	5.92
+fr_826	type	J'aime les villes, un type intéressant de forêt.	1.08
+fr_827	type	J'apprécie les politiciens, un type intéressant de serveur.	1.58
+fr_828	type	J'aime les maisons, un type intéressant de marais.	1.08
+fr_829	ingeneral	J'aime le caviar, et le boeuf en général.	2.82
+fr_830	comparatives	J'apprécie les serveurs plus que les gouverneurs.	4.55
+fr_831	type	J'apprécie les maires, un type intéressant de gardien.	1.92
+fr_832	unlike	Contrairement aux perrouquets, les chats sont souvent mentionnés dans ce texte.	4.42
+fr_833	andtoo	J'aime la nature, et aussi les montagnes.	4.0
+fr_834	butnot	J'apprécie les conducteurs, mais pas les gouverneurs.	5.67
+fr_835	ingeneral	J'aime les arbres, et les chênes en général.	4.83
+fr_836	comparatives	J'apprécie les ministres plus que les politiciens.	3.5
+fr_837	unlike	Contrairement à le béton, les lacs sont souvent mentionnés dans ce texte.	4.25
+fr_838	type	J'aime la nature, un type intéressant de centre commercial.	1.08
+fr_839	andtoo	J'apprécie les gouverneurs, et aussi les serveurs.	5.08
+fr_840	andtoo	J'apprécie les serveurs, et aussi les maires.	4.58
+fr_841	ingeneral	J'aime les pins, et la pelouse en général.	3.75
+fr_842	butnot	J'apprécie les maires, mais pas les gardiens.	4.33
+fr_843	particular	J'adore le veau, et en particulier les crabes.	1.33
+fr_844	type	J'apprécie les agriculteurs, un type intéressant de gouverneur.	1.5
+fr_845	particular	J'aime les chats, et en particulier les canards.	2.17
+fr_846	particular	J'aime les marais, et en particulier le béton.	1.25
+fr_847	particular	J'aime les moineaux, et en particulier les hamsters.	1.83
+fr_848	ingeneral	J'aime les produits de la mer, et le poulet en général.	2.75
+fr_849	ingeneral	J'apprécie les ministres, et les gardiens en général.	3.58
+fr_850	unlike	Contrairement aux montagnes, les centres commerciaux sont souvent mentionnés dans ce texte.	6.25
+fr_851	butnot	J'adore la nature, mais pas les forêts.	4.33
+fr_852	andtoo	J'apprécie les maires, et aussi les gardiens.	5.83
+fr_853	ingeneral	J'aime les crabes, et la dinde en général.	4.58
+fr_854	andtoo	J'apprécie les gouverneurs, et aussi les conducteurs.	5.83
+fr_855	andtoo	J'aime les centres commerciaux, et aussi les marais.	5.17
+fr_856	ingeneral	J'aime les arbustes, et les chênes en général.	3.75
+fr_857	particular	J'apprécie les gouverneurs, et en particulier les gardiens.	1.92
+fr_858	unlike	Contrairement aux lacs, la nature est souvent évoquée dans ce texte.	2.55
+fr_859	particular	J'apprécie les politiciens, et en particulier les ministres.	6.09
+fr_860	particular	J'apprécie les politiciens, et en particulier les sénateurs.	5.92
+fr_861	particular	J'aime les bouleaux, et en particulier les animaux.	1.33
+fr_862	unlike	Contrairement aux gouverneurs, les gardiens sont souvent mentionnés dans ce texte.	5.33
+fr_863	unlike	Contrairement aux produits de la mer, le boeuf est souvent évoquée dans ce texte.	5.83
+fr_864	ingeneral	J'aime les crabes, et les produits de la mer en général.	6.33
+fr_865	particular	J'aime le béton, et en particulier les marais.	1.17
+fr_866	butnot	J'adore les marais, mais pas les maisons.	3.58
+fr_867	butnot	J'apprécie les politiciens, mais pas les ministres.	5.25
+fr_868	unlike	Contrairement aux oiseaux, les merles sont souvent mentionnés dans ce texte.	3.42
+fr_869	comparatives	J'aime les maisons plus que les marais.	4.45
+fr_870	butnot	J'adore les forêts, mais pas les villes.	6.45
+fr_871	butnot	J'adore les montagnes, mais pas la nature.	3.17
+fr_872	unlike	Contrairement aux serveurs, les maires sont souvent mentionnés dans ce texte.	6.08
+fr_873	type	J'aime les centres commerciaux, un type intéressant de forêt.	1.33
+fr_874	particular	J'aime les arbres, et en particulier les bouleaux.	6.83
+fr_875	unlike	Contrairement aux pins, les buissons sont souvent mentionnés dans ce texte.	6.42
+fr_876	unlike	Contrairement aux lacs, le béton est souvent évoquée dans ce texte.	4.08
+fr_877	particular	J'aime la pelouse, et en particulier les pins.	2.25
+fr_878	unlike	Contrairement aux marais, les villes sont souvent mentionnés dans ce texte.	5.92
+fr_879	butnot	J'adore les maisons, mais pas les marais.	6.33
+fr_880	ingeneral	J'apprécie les maires, et les politiciens en général.	6.08
+fr_881	unlike	Contrairement aux arbres, les buissons sont souvent mentionnés dans ce texte.	6.42
+fr_882	ingeneral	J'apprécie les gouverneurs, et les politiciens en général.	5.5
+fr_883	butnot	J'apprécie les gardiens, mais pas les ministres.	5.33
+fr_884	unlike	Contrairement aux sapins, la pelouse est souvent évoquée dans ce texte.	6.17
+fr_885	unlike	Contrairement aux sénateurs, les conducteurs sont souvent mentionnés dans ce texte.	5.92
+fr_886	comparatives	J'apprécie les conducteurs plus que les maires.	5.17
+fr_887	ingeneral	J'aime la nature, et les villes en général.	4.0
+fr_888	particular	J'aime les chiens, et en particulier les moineaux.	1.42
+fr_889	butnot	J'apprécie les politiciens, mais pas les serveurs.	4.67
+fr_890	particular	J'aime les lacs, et en particulier les maisons.	1.0
+fr_891	comparatives	J'aime les lacs plus que la nature.	2.25
+fr_892	unlike	Contrairement aux chats, les moineaux sont souvent mentionnés dans ce texte.	6.33
+fr_893	type	J'apprécie les gouverneurs, un type intéressant d' agriculteur.	1.33
+fr_894	butnot	J'adore la nature, mais pas les lacs.	5.25
+fr_895	particular	J'aime les lacs, et en particulier la nature.	3.25
+fr_896	particular	J'adore la dinde, et en particulier les crabes.	1.0
+fr_897	unlike	Contrairement à le poulet, les huîtres sont souvent mentionnés dans ce texte.	2.75
+fr_898	andtoo	J'aime les maisons, et aussi les montagnes.	5.33
+fr_899	particular	J'adore le saumon, et en particulier les produits de la mer.	3.0
+fr_900	comparatives	J'aime les centres commerciaux plus que les forêts.	6.5
+fr_901	type	J'apprécie les politiciens, un type intéressant de gouverneur.	2.58
+fr_902	ingeneral	J'aime les centres commerciaux, et les marais en général.	2.92
+fr_903	type	J'apprécie les serveurs, un type intéressant de maire.	2.33
+fr_904	unlike	Contrairement à le caviar, les produits de la mer sont souvent mentionnés dans ce texte.	1.83
+fr_905	unlike	Contrairement aux forêts, la nature est souvent évoquée dans ce texte.	1.73
+fr_906	particular	J'adore le saumon, et en particulier le veau.	1.67
+fr_907	ingeneral	J'aime la pelouse, et les sapins en général.	3.83
+fr_908	comparatives	J'aime les forêts plus que la nature.	2.5
+fr_909	particular	J'apprécie les maires, et en particulier les politiciens.	3.67
+fr_910	ingeneral	J'aime les merles, et les chiens en général.	3.83
+fr_911	unlike	Contrairement à le caviar, le veau est souvent évoquée dans ce texte.	4.67
+fr_912	ingeneral	J'aime les chiens, et les canards en général.	2.17
+fr_913	andtoo	J'apprécie les politiciens, et aussi les gardiens.	4.83
+fr_914	comparatives	J'aime les montagnes plus que le béton.	5.25
+fr_915	ingeneral	J'aime les oiseaux, et les perrouquets en général.	3.25
+fr_916	comparatives	J'apprécie les gouverneurs plus que les agriculteurs.	6.08
+fr_917	particular	J'aime les hamsters, et en particulier les perrouquets.	1.25
+fr_918	unlike	Contrairement aux arbustes, les pins sont souvent mentionnés dans ce texte.	5.33
+fr_919	type	J'aime la nature, un type intéressant de forêt.	1.17
+fr_920	unlike	Contrairement à le saumon, les produits de la mer sont souvent mentionnés dans ce texte.	2.0
+fr_921	particular	J'aime la nature, et en particulier les marais.	5.58
+fr_922	particular	J'apprécie les conducteurs, et en particulier les gouverneurs.	1.92
+fr_923	type	J'apprécie les politiciens, un type intéressant de gardien.	1.75
+fr_924	unlike	Contrairement à le caviar, le poulet est souvent évoquée dans ce texte.	4.42
+fr_925	type	J'apprécie les sénateurs, un type intéressant de conducteur.	1.33
+fr_926	andtoo	J'apprécie les maires, et aussi les agriculteurs.	5.0
+fr_927	particular	J'aime les animaux, et en particulier les chênes.	1.17
+fr_928	butnot	J'apprécie les politiciens, mais pas les conducteurs.	4.83
+fr_929	type	J'apprécie les gouverneurs, un type intéressant de conducteur.	1.5
+fr_930	ingeneral	J'apprécie les sénateurs, et les politiciens en général.	6.5
+fr_931	ingeneral	J'aime les forêts, et les maisons en général.	3.33
+fr_932	ingeneral	J'aime la nature, et les centres commerciaux en général.	2.58
+fr_933	comparatives	J'apprécie les serveurs plus que les sénateurs.	5.75
+fr_934	particular	J'aime les bouleaux, et en particulier les arbres.	1.92
+fr_935	unlike	Contrairement aux pins, les arbres sont souvent mentionnés dans ce texte.	2.25
+fr_936	unlike	Contrairement aux maires, les gardiens sont souvent mentionnés dans ce texte.	5.25
+fr_937	ingeneral	J'aime les oiseaux, et les hamsters en général.	3.5
+fr_938	particular	J'aime les canards, et en particulier les hamsters.	1.92
+fr_939	particular	J'aime les chats, et en particulier les moineaux.	2.0
+fr_940	ingeneral	J'apprécie les conducteurs, et les sénateurs en général.	3.17
+fr_941	particular	J'aime la nature, et en particulier les maisons.	1.58
+fr_942	unlike	Contrairement aux bouleaux, les arbres sont souvent mentionnés dans ce texte.	3.08
+fr_943	particular	J'aime les canards, et en particulier les chiens.	1.75
+fr_944	ingeneral	J'apprécie les agriculteurs, et les sénateurs en général.	4.0
+fr_945	unlike	Contrairement aux centres commerciaux, les marais sont souvent mentionnés dans ce texte.	5.25
+fr_946	butnot	J'apprécie les conducteurs, mais pas les maires.	5.08
+fr_947	butnot	J'apprécie les conducteurs, mais pas les ministres.	3.92
+fr_948	andtoo	J'apprécie les gouverneurs, et aussi les agriculteurs.	6.0
+fr_949	unlike	Contrairement aux forêts, les centres commerciaux sont souvent mentionnés dans ce texte.	5.92
+fr_950	ingeneral	J'aime le poulet, et le saumon en général.	4.92
+fr_951	ingeneral	J'aime les produits de la mer, et le saumon en général.	4.5
+fr_952	particular	J'aime le béton, et en particulier les forêts.	1.08
+fr_953	comparatives	J'apprécie les gouverneurs plus que les conducteurs.	5.25
+fr_954	comparatives	J'aime les marais plus que les maisons.	4.92
+fr_955	comparatives	J'apprécie les gardiens plus que les sénateurs.	6.08
+fr_956	type	J'apprécie les gardiens, un type intéressant de maire.	1.92
+fr_957	butnot	J'adore le béton, mais pas les forêts.	5.33
+fr_958	butnot	J'apprécie les politiciens, mais pas les sénateurs.	5.0
+fr_959	andtoo	J'apprécie les conducteurs, et aussi les ministres.	5.0
+fr_960	type	J'aime les lacs, un type intéressant de béton.	1.33
+fr_961	comparatives	J'aime les villes plus que les marais.	6.08
+fr_962	andtoo	J'aime la nature, et aussi les marais.	3.75
+fr_963	ingeneral	J'aime les arbres, et les bouleaux en général.	4.67
+fr_964	unlike	Contrairement aux marais, les maisons sont souvent mentionnés dans ce texte.	6.17
+fr_965	unlike	Contrairement aux chênes, les buissons sont souvent mentionnés dans ce texte.	5.92
+fr_966	comparatives	J'apprécie les sénateurs plus que les conducteurs.	5.33
+fr_967	butnot	J'adore le béton, mais pas les marais.	4.25
+fr_968	andtoo	J'aime la nature, et aussi les maisons.	4.17
+fr_969	particular	J'aime les arbres, et en particulier les sapins.	6.67
+fr_970	unlike	Contrairement aux montagnes, les maisons sont souvent mentionnés dans ce texte.	6.0
+fr_971	comparatives	J'apprécie les gouverneurs plus que les serveurs.	4.83
+fr_972	andtoo	J'aime les marais, et aussi les villes.	5.42
+fr_973	unlike	Contrairement aux montagnes, la nature est souvent évoquée dans ce texte.	3.42
+fr_974	ingeneral	J'aime les canards, et les chiens en général.	2.42
+fr_975	unlike	Contrairement au nature, les centres commerciaux sont souvent mentionnés dans ce texte.	4.5
+fr_976	andtoo	J'aime les villes, et aussi les marais.	6.17
+fr_977	ingeneral	J'aime les produits de la mer, et le boeuf en général.	3.08
+fr_978	particular	J'aime les perrouquets, et en particulier les oiseaux.	2.33
+fr_979	comparatives	J'apprécie les gouverneurs plus que les politiciens.	3.5
+fr_980	particular	J'aime les montagnes, et en particulier le béton.	1.92
+fr_981	butnot	J'adore les maisons, mais pas les lacs.	5.33
+fr_982	type	J'apprécie les conducteurs, un type intéressant de maire.	1.33
+fr_983	butnot	J'adore les montagnes, mais pas les maisons.	5.5
+fr_984	andtoo	J'apprécie les ministres, et aussi les gardiens.	5.92
+fr_985	comparatives	J'apprécie les maires plus que les serveurs.	5.33
+fr_986	particular	J'aime les marais, et en particulier les villes.	1.67
+fr_987	type	J'aime les lacs, un type intéressant de maison.	1.17
+fr_988	butnot	J'adore les marais, mais pas les villes.	5.83
+fr_989	particular	J'aime les chênes, et en particulier les buissons.	1.5
+fr_990	andtoo	J'aime les maisons, et aussi les lacs.	6.25
+fr_991	type	J'apprécie les conducteurs, un type intéressant de sénateur.	1.17
+fr_992	ingeneral	J'aime les buissons, et les chênes en général.	4.5
+fr_993	ingeneral	J'aime les maisons, et les montagnes en général.	3.67
+fr_994	ingeneral	J'aime les oiseaux, et les canards en général.	3.27
+fr_995	comparatives	J'aime le béton plus que les montagnes.	5.25
+fr_996	ingeneral	J'aime les forêts, et les centres commerciaux en général.	2.83
+fr_997	unlike	Contrairement aux maisons, les lacs sont souvent mentionnés dans ce texte.	6.0
+fr_998	particular	J'aime les marais, et en particulier les maisons.	1.58
+fr_999	unlike	Contrairement aux hamsters, les canards sont souvent mentionnés dans ce texte.	6.17
+fr_1000	unlike	Contrairement aux sapins, les arbustes sont souvent mentionnés dans ce texte.	6.08
+fr_1001	unlike	Contrairement aux crabes, le veau est souvent évoquée dans ce texte.	5.42
+fr_1002	unlike	Contrairement aux chats, les canards sont souvent mentionnés dans ce texte.	6.5
+fr_1003	unlike	Contrairement à le poulet, le caviar est souvent évoquée dans ce texte.	3.67
+fr_1004	particular	J'apprécie les maires, et en particulier les conducteurs.	1.5
+fr_1005	particular	J'aime les arbres, et en particulier les buissons.	3.83
+fr_1006	unlike	Contrairement à le saumon, le poulet est souvent évoquée dans ce texte.	4.42
+fr_1007	particular	J'aime les villes, et en particulier les montagnes.	1.5
+fr_1008	ingeneral	J'aime le caviar, et les produits de la mer en général.	6.67

@@ -5,14 +5,19 @@
 </p>
 
 # SemEval 2022 Task 3
-# Presupposed Taxonomies: Evaluating Neural Network Semantics (PreTENS) 
+# Presupposed Taxonomies: Evaluating Neural Network Semantics (PreTENS)
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
 > **⚠ New Notice:**
-> Evaluation Phase has started, please check the data folder for test data and sample_data for correct submission format. Updated rules are vailable in the task website. CodaLab links are given below.
+> Evaluation Phase has now ended, please check the data folder for test data (with labels and sentence Construction). Updated dates are available in the task website.
+>[Old News] CodaLab links are given below.
 
-## FAQ and Submission Rules
+
+## Paper Submission Rules and Deadlines
+**Will be updated soon**
+
+## Submission Rules
 
 - **Maximum Submission**: 3 result submissions per subtask
 - **Ranking**: Two ranking per subtask - Per Language Ranking and Global Ranking
@@ -22,7 +27,7 @@
 
 ## Tasks
 
-PreTENS includes the two following sub-tasks: 
+PreTENS includes the two following sub-tasks:
 - a binary classification: Predicting the acceptability of sentences (**A (1)** _vs_ **UA (0)**)
 <!-- - , which consists in predicting the acceptability label assigned to each sentence of the test set; -->
 - a regression task: Predicting the degree of Acceptance in a seven Likert-scale
@@ -30,9 +35,9 @@ PreTENS includes the two following sub-tasks:
 
 
 ## Data
-The data comprise of sentences in 3 languages:  **English**, **Italian**, and **French**. 
+The data comprise of sentences in 3 languages:  **English**, **Italian**, and **French**.
 
-For each sub-task and each language: 
+For each sub-task and each language:
 - The dataset will be split into training and test set
 - Additionally, a trail data (a small subset of training set) is released to give participants a proper idea of the data and expected formats.
 
@@ -49,6 +54,38 @@ Data Format:
 where LABEL is for binary classification task and SCORE is for the regression task.
 SCORE: represent average of the assigned score (1-7) given by the annotator. Details of scales and agreements will be elaborated/updated later.
 The LABEL (1/0) is assigned based on the regression score.
+
+
+## TEST DATA with scores/labels are now Available.
+
+The folder <data/test/official_test_set_with_labels> now includes test file for each subtasks for all the three languages with the labels/scores in addition to the constructions the sentences belongs to.
+
+File Format:  Subtask1
+<ID>	<Construction>	<Sentence>	<Labels>
+
+e.g.
+ID	Construction	Sentence	Labels
+en_0	drather	I would rather have Chianti than water .	1
+
+
+Here constructions are:
+'andtoo',  'butnot', 'comparatives', 'drather', 'except', 'generally', 'particular', 'prefer', 'type', 'unlike'
+
+File Format:  Subtask2
+<ID>	<Construction>	<Sentence>	<Scores>
+
+e.g,
+ID	Construction	Sentence	Scores
+en_0	comparatives	I like governors more than farmers.	5.83
+
+Here constructions are:
+
+'andtoo', 'butnot', 'comparatives', 'ingeneral',	'particular', 'type', 'unlike'
+
+
+
+
+
 
 ## Evaluation Measures
 The official evaluation metrics for the Classification tasks are:
@@ -69,7 +106,7 @@ Below are the baseline and starter code:
 **_Subtask1_**:
 https://colab.research.google.com/drive/1wDFQnEfMkoJY99Bmv-CfsTsdwleCDg2f?usp=sharing
 
-**_Subtask2_**: 
+**_Subtask2_**:
 https://colab.research.google.com/drive/18KwrdyTsp3wOPcaB7pyFnqOSc3Te7p-X?usp=sharing
 
 You can also find the necessary codes in this git repository (SemEval_Task3_Baseline_subtask1.ipynb and SemEval_Task3_Baseline_subtask2.ipynb)
@@ -81,18 +118,18 @@ MIT
 ## Useful links
 
    [Task Website](<https://sites.google.com/view/semeval2022-pretens>)
-      
+
    [Participants Registration Form](<https://docs.google.com/forms/d/e/1FAIpQLSfS1oIjxCifghMFPpxPOpu-8HC8lJutXa65BXfpXpOmxcJ_Wg/viewform>)
-   
+
    Evaluation Platforms:
-   
+
    [Subtask1] (<https://codalab.lisn.upsaclay.fr/competitions/1292>)
-   
+
    [Subtask2] (<https://codalab.lisn.upsaclay.fr/competitions/1290>)
 
 
    mailinglist: semeval2022-task3@googlegroups.com
-   
+
 ## Organizers
 
 Shammur Absar Chowdhury - Qatar Computing Research Institute, HBKU, Qatar

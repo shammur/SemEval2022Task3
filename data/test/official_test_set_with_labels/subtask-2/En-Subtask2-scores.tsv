@@ -1,0 +1,1010 @@
+ID	Construction	Sentence	Scores
+en_0	comparatives	I like governors more than farmers.	5.83
+en_1	unlike	Unlike parrots, cats are often mentioned in this text.	4.83
+en_2	unlike	Unlike pines, bushes are often mentioned in this text.	4.42
+en_3	ingeneral	I like oaks, and bushes in general.	4.22
+en_4	ingeneral	I like beef, and oysters in general.	2.58
+en_5	comparatives	I like senators more than politicians.	3.58
+en_6	andtoo	I like nature, and malls too.	4.54
+en_7	type	I like ministers, an interesting type of caretaker.	2.83
+en_8	ingeneral	I like houses, and mountains in general.	3.08
+en_9	ingeneral	I like drivers, and ministers in general.	2.75
+en_10	andtoo	I like forests, and cities too.	6.08
+en_11	unlike	Unlike malls, forests are often mentioned in this text.	5.17
+en_12	particular	I like marshes, and in particular nature.	1.82
+en_13	unlike	Unlike seafood, veal is often mentioned in this text.	4.55
+en_14	particular	I like firs, and in particular bushes.	3.75
+en_15	particular	I like crabs, and in particular seafood.	2.67
+en_16	unlike	Unlike senators, politicians are often mentioned in this text.	3.25
+en_17	unlike	Unlike drivers, mayors are often mentioned in this text.	3.77
+en_18	andtoo	I like mountains, and concrete too.	4.17
+en_19	unlike	Unlike birches, animals are often mentioned in this text.	5.0
+en_20	unlike	Unlike nature, malls are often mentioned in this text.	4.75
+en_21	ingeneral	I like mayors, and politicians in general.	5.0
+en_22	butnot	I like ministers, but not waiters.	4.25
+en_23	unlike	Unlike caviar, chicken is often mentioned in this text.	5.0
+en_24	unlike	Unlike malls, mountains are often mentioned in this text.	5.25
+en_25	ingeneral	I like pines, and grass in general.	3.0
+en_26	unlike	Unlike seafood, salmon is often mentioned in this text.	3.08
+en_27	andtoo	I like malls, and marshes too.	4.42
+en_28	unlike	Unlike mayors, caretakers are often mentioned in this text.	4.83
+en_29	particular	I like malls, and in particular lakes.	2.45
+en_30	andtoo	I like caretakers, and governors too.	5.08
+en_31	unlike	Unlike politicians, caretakers are often mentioned in this text.	5.0
+en_32	type	I like mayors, an interesting type of waiter.	1.42
+en_33	unlike	Unlike cats, ducks are often mentioned in this text.	6.25
+en_34	ingeneral	I like veal, and crabs in general.	3.08
+en_35	particular	I like birds, and in particular hamsters.	1.67
+en_36	particular	I like caretakers, and in particular ministers.	2.45
+en_37	particular	I like parrots, and in particular cats.	1.67
+en_38	ingeneral	I like ducks, and hamsters in general.	3.08
+en_39	type	I like malls, an interesting type of mountain.	1.25
+en_40	butnot	I like houses, but not marshes.	4.58
+en_41	type	I like mountains, an interesting type of mall.	1.25
+en_42	ingeneral	I like grass, and birches in general.	3.67
+en_43	ingeneral	I like ducks, and cats in general.	2.73
+en_44	andtoo	I like mountains, and malls too.	5.0
+en_45	comparatives	I like concrete more than marshes.	4.45
+en_46	butnot	I like farmers, but not governors.	5.17
+en_47	andtoo	I like cities, and forests too.	5.0
+en_48	andtoo	I like drivers, and governors too.	4.77
+en_49	type	I like lakes, an interesting type of nature.	5.17
+en_50	comparatives	I like forests more than malls.	3.67
+en_51	unlike	Unlike nature, forests are often mentioned in this text.	2.67
+en_52	type	I like waiters, an interesting type of mayor.	1.17
+en_53	comparatives	I like ministers more than waiters.	4.11
+en_54	ingeneral	I like grass, and firs in general.	2.92
+en_55	unlike	Unlike firs, bushes are often mentioned in this text.	5.58
+en_56	type	I like mountains, an interesting type of concrete.	1.0
+en_57	andtoo	I like politicians, and ministers too.	5.17
+en_58	ingeneral	I like oaks, and animals in general.	2.0
+en_59	particular	I like sparrows, and in particular dogs.	2.5
+en_60	particular	I like birds, and in particular parrots.	6.45
+en_61	unlike	Unlike seafood, oysters are often mentioned in this text.	3.0
+en_62	unlike	Unlike cities, marshes are often mentioned in this text.	4.85
+en_63	comparatives	I like politicians more than caretakers.	5.17
+en_64	type	I like nature, an interesting type of city.	1.42
+en_65	ingeneral	I like ministers, and politicians in general.	4.92
+en_66	ingeneral	I like cats, and sparrows in general.	4.33
+en_67	unlike	Unlike ducks, birds are often mentioned in this text.	3.33
+en_68	particular	I like ministers, and in particular caretakers.	5.0
+en_69	particular	I like marshes, and in particular cities.	1.58
+en_70	comparatives	I like waiters more than ministers.	4.36
+en_71	particular	I like oaks, and in particular shrubs.	2.77
+en_72	andtoo	I like waiters, and ministers too.	4.08
+en_73	ingeneral	I like bushes, and firs in general.	3.5
+en_74	type	I like mayors, an interesting type of politician.	5.62
+en_75	unlike	Unlike trees, pines are often mentioned in this text.	2.11
+en_76	comparatives	I like politicians more than ministers.	4.75
+en_77	particular	I like blackbirds, and in particular birds.	2.08
+en_78	particular	I like caretakers, and in particular mayors.	2.33
+en_79	butnot	I like concrete, but not lakes.	4.83
+en_80	particular	I like caviar, and in particular seafood.	3.83
+en_81	particular	I like drivers, and in particular senators.	1.92
+en_82	particular	I like oysters, and in particular turkey.	1.17
+en_83	particular	I like hamsters, and in particular blackbirds.	1.33
+en_84	andtoo	I like nature, and lakes too.	5.33
+en_85	ingeneral	I like marshes, and nature in general.	5.17
+en_86	particular	I like animals, and in particular birches.	2.08
+en_87	unlike	Unlike cities, mountains are often mentioned in this text.	5.58
+en_88	type	I like politicians, an interesting type of senator.	3.92
+en_89	type	I like nature, an interesting type of marsh.	2.0
+en_90	unlike	Unlike hamsters, sparrows are often mentioned in this text.	5.18
+en_91	ingeneral	I like drivers, and governors in general.	2.55
+en_92	butnot	I like waiters, but not senators.	5.75
+en_93	unlike	Unlike houses, forests are often mentioned in this text.	3.92
+en_94	ingeneral	I like nature, and concrete in general.	2.92
+en_95	andtoo	I like lakes, and nature too.	5.17
+en_96	ingeneral	I like salmon, and beef in general.	4.08
+en_97	comparatives	I like houses more than lakes.	3.83
+en_98	particular	I like cities, and in particular marshes.	1.42
+en_99	andtoo	I like nature, and marshes too.	5.25
+en_100	unlike	Unlike birds, parrots are often mentioned in this text.	2.56
+en_101	unlike	Unlike chicken, crabs are often mentioned in this text.	4.55
+en_102	andtoo	I like senators, and drivers too.	4.23
+en_103	particular	I like pines, and in particular bushes.	2.55
+en_104	ingeneral	I like oysters, and chicken in general.	3.0
+en_105	comparatives	I like farmers more than governors.	5.64
+en_106	butnot	I like marshes, but not cities.	4.92
+en_107	type	I like caretakers, an interesting type of senator.	4.92
+en_108	particular	I like turkey, and in particular crabs.	1.67
+en_109	comparatives	I like cities more than lakes.	6.25
+en_110	particular	I like parrots, and in particular dogs.	1.67
+en_111	comparatives	I like nature more than marshes.	3.25
+en_112	unlike	Unlike ducks, hamsters are often mentioned in this text.	4.58
+en_113	comparatives	I like senators more than drivers.	5.08
+en_114	butnot	I like nature, but not lakes.	4.67
+en_115	ingeneral	I like forests, and concrete in general.	2.54
+en_116	ingeneral	I like waiters, and ministers in general.	3.33
+en_117	andtoo	I like concrete, and forests too.	5.0
+en_118	andtoo	I like malls, and mountains too.	4.33
+en_119	ingeneral	I like trees, and pines in general.	3.83
+en_120	comparatives	I like ministers more than politicians.	5.0
+en_121	unlike	Unlike ministers, farmers are often mentioned in this text.	4.46
+en_122	ingeneral	I like marshes, and cities in general.	2.75
+en_123	ingeneral	I like turkey, and oysters in general.	4.25
+en_124	ingeneral	I like chicken, and salmon in general.	2.5
+en_125	particular	I like nature, and in particular lakes.	6.82
+en_126	comparatives	I like nature more than mountains.	3.78
+en_127	comparatives	I like politicians more than drivers.	5.0
+en_128	particular	I like dogs, and in particular blackbirds.	1.38
+en_129	butnot	I like caretakers, but not mayors.	4.0
+en_130	comparatives	I like lakes more than cities.	6.58
+en_131	ingeneral	I like politicians, and governors in general.	5.42
+en_132	unlike	Unlike sparrows, cats are often mentioned in this text.	5.08
+en_133	unlike	Unlike trees, bushes are often mentioned in this text.	5.5
+en_134	ingeneral	I like grass, and pines in general.	4.11
+en_135	particular	I like cats, and in particular blackbirds.	1.89
+en_136	andtoo	I like mountains, and houses too.	4.55
+en_137	unlike	Unlike grass, pines are often mentioned in this text.	4.82
+en_138	particular	I like forests, and in particular houses.	2.18
+en_139	andtoo	I like forests, and concrete too.	3.73
+en_140	particular	I like shrubs, and in particular birches.	2.75
+en_141	particular	I like ministers, and in particular waiters.	1.25
+en_142	unlike	Unlike ministers, waiters are often mentioned in this text.	4.92
+en_143	ingeneral	I like bushes, and oaks in general.	3.18
+en_144	andtoo	I like drivers, and mayors too.	4.25
+en_145	unlike	Unlike caviar, turkey is often mentioned in this text.	4.17
+en_146	comparatives	I like farmers more than senators.	6.11
+en_147	particular	I like birches, and in particular trees.	2.89
+en_148	ingeneral	I like malls, and mountains in general.	1.82
+en_149	particular	I like lakes, and in particular nature.	4.42
+en_150	particular	I like mayors, and in particular caretakers.	1.92
+en_151	particular	I like trees, and in particular animals.	2.75
+en_152	ingeneral	I like bushes, and birches in general.	4.56
+en_153	unlike	Unlike politicians, ministers are often mentioned in this text.	3.25
+en_154	particular	I like ducks, and in particular dogs.	2.08
+en_155	comparatives	I like houses more than forests.	4.58
+en_156	particular	I like sparrows, and in particular birds.	3.67
+en_157	particular	I like bushes, and in particular birches.	2.56
+en_158	particular	I like birches, and in particular shrubs.	2.92
+en_159	unlike	Unlike trees, oaks are often mentioned in this text.	1.91
+en_160	ingeneral	I like politicians, and waiters in general.	2.67
+en_161	andtoo	I like mountains, and nature too.	3.83
+en_162	andtoo	I like senators, and caretakers too.	5.67
+en_163	ingeneral	I like pines, and bushes in general.	3.54
+en_164	ingeneral	I like firs, and bushes in general.	4.5
+en_165	unlike	Unlike nature, marshes are often mentioned in this text.	2.92
+en_166	ingeneral	I like cats, and ducks in general.	3.17
+en_167	butnot	I like ministers, but not farmers.	4.58
+en_168	unlike	Unlike salmon, chicken is often mentioned in this text.	4.67
+en_169	unlike	Unlike oaks, shrubs are often mentioned in this text.	4.9
+en_170	andtoo	I like marshes, and malls too.	3.09
+en_171	ingeneral	I like ministers, and farmers in general.	3.56
+en_172	comparatives	I like caretakers more than governors.	3.82
+en_173	comparatives	I like politicians more than governors.	3.0
+en_174	particular	I like crabs, and in particular turkey.	1.27
+en_175	butnot	I like mayors, but not drivers.	3.67
+en_176	type	I like houses, an interesting type of mountain.	1.08
+en_177	ingeneral	I like firs, and grass in general.	3.83
+en_178	particular	I like caviar, and in particular veal.	2.3
+en_179	comparatives	I like malls more than forests.	5.75
+en_180	particular	I like sparrows, and in particular cats.	1.58
+en_181	ingeneral	I like sparrows, and birds in general.	6.46
+en_182	particular	I like shrubs, and in particular firs.	4.17
+en_183	unlike	Unlike lakes, nature is often mentioned in this text.	3.67
+en_184	ingeneral	I like marshes, and houses in general.	2.08
+en_185	particular	I like malls, and in particular mountains.	1.92
+en_186	andtoo	I like nature, and forests too.	4.83
+en_187	comparatives	I like concrete more than lakes.	4.0
+en_188	ingeneral	I like sparrows, and hamsters in general.	3.78
+en_189	andtoo	I like malls, and lakes too.	5.17
+en_190	type	I like cities, an interesting type of marsh.	1.38
+en_191	butnot	I like cities, but not marshes.	2.5
+en_192	particular	I like pines, and in particular trees.	5.0
+en_193	ingeneral	I like parrots, and dogs in general.	3.45
+en_194	type	I like forests, an interesting type of city.	1.58
+en_195	unlike	Unlike seafood, caviar is often mentioned in this text.	3.55
+en_196	andtoo	I like ministers, and caretakers too.	5.15
+en_197	andtoo	I like politicians, and farmers too.	5.17
+en_198	ingeneral	I like caviar, and veal in general.	2.64
+en_199	type	I like caretakers, an interesting type of governor.	1.75
+en_200	butnot	I like lakes, but not houses.	6.0
+en_201	ingeneral	I like shrubs, and oaks in general.	3.5
+en_202	unlike	Unlike nature, cities are often mentioned in this text.	4.91
+en_203	ingeneral	I like lakes, and houses in general.	2.33
+en_204	ingeneral	I like seafood, and veal in general.	3.83
+en_205	ingeneral	I like birches, and grass in general.	4.11
+en_206	unlike	Unlike dogs, ducks are often mentioned in this text.	5.5
+en_207	type	I like politicians, an interesting type of driver.	1.5
+en_208	unlike	Unlike bushes, birches are often mentioned in this text.	5.08
+en_209	particular	I like governors, and in particular caretakers.	2.25
+en_210	andtoo	I like houses, and forests too.	5.18
+en_211	particular	I like trees, and in particular birches.	6.17
+en_212	butnot	I like senators, but not waiters.	4.83
+en_213	andtoo	I like governors, and drivers too.	4.44
+en_214	unlike	Unlike birches, grass is often mentioned in this text.	5.0
+en_215	comparatives	I like mayors more than drivers.	4.0
+en_216	comparatives	I like lakes more than malls.	4.91
+en_217	unlike	Unlike politicians, farmers are often mentioned in this text.	4.58
+en_218	ingeneral	I like mayors, and caretakers in general.	3.67
+en_219	andtoo	I like politicians, and senators too.	4.42
+en_220	type	I like forests, an interesting type of house.	1.25
+en_221	unlike	Unlike waiters, mayors are often mentioned in this text.	4.91
+en_222	ingeneral	I like caretakers, and governors in general.	6.42
+en_223	unlike	Unlike drivers, senators are often mentioned in this text.	5.17
+en_224	ingeneral	I like beef, and caviar in general.	3.67
+en_225	unlike	Unlike shrubs, pines are often mentioned in this text.	4.62
+en_226	butnot	I like politicians, but not caretakers.	4.08
+en_227	type	I like drivers, an interesting type of senator.	1.33
+en_228	ingeneral	I like turkey, and crabs in general.	2.18
+en_229	unlike	Unlike mountains, concrete is often mentioned in this text.	3.75
+en_230	unlike	Unlike oaks, grass is often mentioned in this text.	4.5
+en_231	comparatives	I like caretakers more than ministers.	5.23
+en_232	type	I like houses, an interesting type of lake.	1.08
+en_233	ingeneral	I like salmon, and chicken in general.	4.0
+en_234	andtoo	I like governors, and waiters too.	4.5
+en_235	ingeneral	I like drivers, and mayors in general.	1.62
+en_236	particular	I like blackbirds, and in particular pigs.	1.77
+en_237	andtoo	I like politicians, and drivers too.	5.33
+en_238	comparatives	I like waiters more than governors.	4.45
+en_239	ingeneral	I like birches, and bushes in general.	2.83
+en_240	ingeneral	I like politicians, and senators in general.	5.46
+en_241	unlike	Unlike veal, salmon is often mentioned in this text.	5.25
+en_242	ingeneral	I like birds, and blackbirds in general.	5.25
+en_243	unlike	Unlike crabs, seafood is often mentioned in this text.	3.75
+en_244	unlike	Unlike birds, dogs are often mentioned in this text.	5.17
+en_245	particular	I like grass, and in particular pines.	4.58
+en_246	unlike	Unlike pines, animals are often mentioned in this text.	4.5
+en_247	andtoo	I like farmers, and governors too.	1.83
+en_248	particular	I like lakes, and in particular malls.	1.42
+en_249	particular	I like lakes, and in particular concrete.	1.17
+en_250	ingeneral	I like lakes, and nature in general.	6.42
+en_251	unlike	Unlike nature, lakes are often mentioned in this text.	3.33
+en_252	ingeneral	I like forests, and nature in general.	6.25
+en_253	unlike	Unlike cats, parrots are often mentioned in this text.	5.33
+en_254	unlike	Unlike parrots, birds are often mentioned in this text.	3.42
+en_255	ingeneral	I like pigs, and blackbirds in general.	5.67
+en_256	particular	I like birds, and in particular ducks.	6.17
+en_257	particular	I like mayors, and in particular waiters.	2.0
+en_258	particular	I like oaks, and in particular animals.	1.78
+en_259	particular	I like seafood, and in particular veal.	2.92
+en_260	butnot	I like nature, but not mountains.	5.58
+en_261	unlike	Unlike firs, trees are often mentioned in this text.	2.77
+en_262	unlike	Unlike drivers, ministers are often mentioned in this text.	4.92
+en_263	unlike	Unlike caretakers, ministers are often mentioned in this text.	4.25
+en_264	unlike	Unlike governors, politicians are often mentioned in this text.	3.31
+en_265	ingeneral	I like hamsters, and parrots in general.	4.09
+en_266	type	I like caretakers, an interesting type of mayor.	2.0
+en_267	ingeneral	I like houses, and forests in general.	2.18
+en_268	ingeneral	I like oysters, and turkey in general.	2.27
+en_269	ingeneral	I like animals, and firs in general.	4.5
+en_270	andtoo	I like concrete, and mountains too.	4.58
+en_271	ingeneral	I like trees, and shrubs in general.	4.73
+en_272	particular	I like waiters, and in particular senators.	1.0
+en_273	unlike	Unlike seafood, chicken is often mentioned in this text.	5.5
+en_274	unlike	Unlike ministers, drivers are often mentioned in this text.	4.75
+en_275	butnot	I like mountains, but not nature.	3.08
+en_276	ingeneral	I like trees, and animals in general.	3.92
+en_277	ingeneral	I like ministers, and waiters in general.	3.75
+en_278	ingeneral	I like senators, and politicians in general.	2.08
+en_279	particular	I like nature, and in particular cities.	2.0
+en_280	unlike	Unlike nature, mountains are often mentioned in this text.	2.58
+en_281	andtoo	I like senators, and waiters too.	4.0
+en_282	butnot	I like houses, but not lakes.	4.33
+en_283	butnot	I like lakes, but not malls.	3.5
+en_284	ingeneral	I like mayors, and waiters in general.	3.08
+en_285	unlike	Unlike ducks, cats are often mentioned in this text.	5.42
+en_286	particular	I like pigs, and in particular sparrows.	1.33
+en_287	ingeneral	I like nature, and houses in general.	3.67
+en_288	ingeneral	I like salmon, and turkey in general.	3.33
+en_289	ingeneral	I like birds, and dogs in general.	4.08
+en_290	butnot	I like senators, but not drivers.	4.25
+en_291	ingeneral	I like pigs, and sparrows in general.	2.27
+en_292	type	I like concrete, an interesting type of lake.	1.17
+en_293	type	I like mayors, an interesting type of caretaker.	1.91
+en_294	particular	I like mountains, and in particular nature.	3.83
+en_295	particular	I like seafood, and in particular oysters.	6.33
+en_296	butnot	I like drivers, but not mayors.	3.25
+en_297	particular	I like firs, and in particular animals.	2.11
+en_298	butnot	I like houses, but not forests.	4.67
+en_299	particular	I like firs, and in particular shrubs.	3.83
+en_300	unlike	Unlike beef, salmon is often mentioned in this text.	5.17
+en_301	unlike	Unlike nature, concrete is often mentioned in this text.	5.0
+en_302	ingeneral	I like nature, and malls in general.	2.92
+en_303	comparatives	I like lakes more than houses.	5.92
+en_304	particular	I like shrubs, and in particular oaks.	4.33
+en_305	butnot	I like governors, but not drivers.	2.75
+en_306	particular	I like trees, and in particular firs.	5.17
+en_307	type	I like drivers, an interesting type of mayor.	1.75
+en_308	particular	I like mayors, and in particular politicians.	4.33
+en_309	ingeneral	I like caviar, and turkey in general.	4.33
+en_310	andtoo	I like lakes, and malls too.	2.92
+en_311	butnot	I like nature, but not forests.	4.25
+en_312	comparatives	I like mayors more than politicians.	4.58
+en_313	particular	I like politicians, and in particular mayors.	5.67
+en_314	particular	I like farmers, and in particular governors.	1.89
+en_315	ingeneral	I like dogs, and blackbirds in general.	4.08
+en_316	ingeneral	I like forests, and malls in general.	4.33
+en_317	unlike	Unlike beef, caviar is often mentioned in this text.	5.56
+en_318	type	I like marshes, an interesting type of concrete.	1.09
+en_319	unlike	Unlike bushes, pines are often mentioned in this text.	4.75
+en_320	particular	I like senators, and in particular farmers.	1.42
+en_321	andtoo	I like drivers, and ministers too.	3.38
+en_322	unlike	Unlike senators, waiters are often mentioned in this text.	4.83
+en_323	ingeneral	I like ministers, and drivers in general.	3.64
+en_324	ingeneral	I like marshes, and malls in general.	1.92
+en_325	comparatives	I like waiters more than senators.	5.58
+en_326	unlike	Unlike waiters, governors are often mentioned in this text.	4.69
+en_327	particular	I like turkey, and in particular salmon.	1.42
+en_328	type	I like senators, an interesting type of driver.	1.56
+en_329	unlike	Unlike salmon, beef is often mentioned in this text.	5.42
+en_330	butnot	I like drivers, but not governors.	4.17
+en_331	unlike	Unlike cats, sparrows are often mentioned in this text.	4.42
+en_332	ingeneral	I like turkey, and caviar in general.	2.45
+en_333	comparatives	I like caretakers more than mayors.	5.5
+en_334	andtoo	I like mayors, and politicians too.	3.58
+en_335	particular	I like parrots, and in particular birds.	3.5
+en_336	ingeneral	I like governors, and drivers in general.	1.89
+en_337	particular	I like trees, and in particular pines.	6.77
+en_338	unlike	Unlike governors, farmers are often mentioned in this text.	1.92
+en_339	ingeneral	I like farmers, and governors in general.	3.67
+en_340	butnot	I like mountains, but not cities.	5.67
+en_341	comparatives	I like marshes more than concrete.	5.75
+en_342	unlike	Unlike marshes, malls are often mentioned in this text.	3.78
+en_343	unlike	Unlike farmers, senators are often mentioned in this text.	4.83
+en_344	butnot	I like caretakers, but not governors.	5.0
+en_345	comparatives	I like nature more than lakes.	3.17
+en_346	ingeneral	I like birds, and sparrows in general.	5.0
+en_347	particular	I like mayors, and in particular drivers.	1.58
+en_348	comparatives	I like forests more than nature.	2.58
+en_349	type	I like mayors, an interesting type of farmer.	1.67
+en_350	unlike	Unlike blackbirds, dogs are often mentioned in this text.	4.92
+en_351	particular	I like nature, and in particular mountains.	5.83
+en_352	particular	I like ducks, and in particular cats.	1.44
+en_353	unlike	Unlike ministers, caretakers are often mentioned in this text.	4.08
+en_354	ingeneral	I like turkey, and salmon in general.	2.25
+en_355	butnot	I like mayors, but not caretakers.	4.83
+en_356	comparatives	I like farmers more than mayors.	3.83
+en_357	ingeneral	I like malls, and forests in general.	3.33
+en_358	type	I like marshes, an interesting type of mall.	1.09
+en_359	unlike	Unlike caviar, beef is often mentioned in this text.	5.18
+en_360	butnot	I like concrete, but not forests.	4.25
+en_361	unlike	Unlike grass, birches are often mentioned in this text.	5.42
+en_362	ingeneral	I like oysters, and beef in general.	3.08
+en_363	particular	I like animals, and in particular pines.	1.67
+en_364	particular	I like forests, and in particular nature.	2.58
+en_365	butnot	I like farmers, but not mayors.	4.83
+en_366	unlike	Unlike seafood, beef is often mentioned in this text.	4.5
+en_367	particular	I like waiters, and in particular ministers.	1.42
+en_368	particular	I like politicians, and in particular drivers.	4.36
+en_369	unlike	Unlike caviar, seafood is often mentioned in this text.	3.0
+en_370	ingeneral	I like salmon, and veal in general.	3.15
+en_371	unlike	Unlike marshes, concrete is often mentioned in this text.	2.83
+en_372	ingeneral	I like farmers, and senators in general.	2.82
+en_373	ingeneral	I like chicken, and oysters in general.	2.58
+en_374	unlike	Unlike houses, marshes are often mentioned in this text.	5.0
+en_375	type	I like governors, an interesting type of politician.	5.92
+en_376	particular	I like waiters, and in particular mayors.	1.58
+en_377	type	I like governors, an interesting type of waiter.	1.36
+en_378	ingeneral	I like oysters, and veal in general.	4.11
+en_379	comparatives	I like ministers more than drivers.	4.0
+en_380	butnot	I like politicians, but not governors.	4.75
+en_381	butnot	I like ministers, but not drivers.	2.18
+en_382	particular	I like mountains, and in particular cities.	2.0
+en_383	butnot	I like marshes, but not houses.	3.73
+en_384	particular	I like animals, and in particular oaks.	1.83
+en_385	comparatives	I like governors more than caretakers.	3.82
+en_386	particular	I like seafood, and in particular chicken.	1.25
+en_387	particular	I like ducks, and in particular birds.	1.92
+en_388	ingeneral	I like animals, and oaks in general.	4.0
+en_389	ingeneral	I like sparrows, and dogs in general.	6.5
+en_390	ingeneral	I like caviar, and chicken in general.	3.92
+en_391	ingeneral	I like oaks, and shrubs in general.	4.67
+en_392	particular	I like blackbirds, and in particular dogs.	3.67
+en_393	particular	I like malls, and in particular marshes.	5.5
+en_394	ingeneral	I like mountains, and nature in general.	6.75
+en_395	particular	I like concrete, and in particular mountains.	1.18
+en_396	andtoo	I like ministers, and politicians too.	5.09
+en_397	unlike	Unlike blackbirds, pigs are often mentioned in this text.	4.0
+en_398	comparatives	I like mayors more than caretakers.	5.08
+en_399	comparatives	I like ministers more than caretakers.	4.67
+en_400	type	I like mountains, an interesting type of nature.	2.83
+en_401	comparatives	I like houses more than mountains.	4.67
+en_402	ingeneral	I like caretakers, and mayors in general.	2.75
+en_403	ingeneral	I like marshes, and concrete in general.	2.92
+en_404	ingeneral	I like firs, and trees in general.	5.67
+en_405	ingeneral	I like governors, and politicians in general.	4.5
+en_406	type	I like senators, an interesting type of caretaker.	2.25
+en_407	unlike	Unlike firs, shrubs are often mentioned in this text.	5.5
+en_408	unlike	Unlike turkey, salmon is often mentioned in this text.	4.92
+en_409	unlike	Unlike birds, ducks are often mentioned in this text.	3.67
+en_410	comparatives	I like forests more than cities.	6.75
+en_411	ingeneral	I like oysters, and seafood in general.	6.67
+en_412	andtoo	I like houses, and mountains too.	4.78
+en_413	butnot	I like politicians, but not mayors.	6.25
+en_414	type	I like senators, an interesting type of politician.	6.08
+en_415	unlike	Unlike animals, birches are often mentioned in this text.	4.58
+en_416	particular	I like turkey, and in particular caviar.	4.17
+en_417	particular	I like chicken, and in particular caviar.	3.42
+en_418	unlike	Unlike mountains, nature is often mentioned in this text.	4.42
+en_419	andtoo	I like politicians, and waiters too.	5.0
+en_420	type	I like ministers, an interesting type of politician.	3.42
+en_421	butnot	I like ministers, but not politicians.	5.11
+en_422	unlike	Unlike firs, grass is often mentioned in this text.	5.0
+en_423	comparatives	I like nature more than forests.	2.15
+en_424	particular	I like hamsters, and in particular parrots.	1.5
+en_425	comparatives	I like marshes more than malls.	5.08
+en_426	andtoo	I like politicians, and governors too.	5.27
+en_427	unlike	Unlike salmon, turkey is often mentioned in this text.	5.58
+en_428	particular	I like senators, and in particular politicians.	5.17
+en_429	unlike	Unlike concrete, marshes are often mentioned in this text.	4.42
+en_430	andtoo	I like ministers, and waiters too.	3.82
+en_431	ingeneral	I like seafood, and chicken in general.	3.75
+en_432	type	I like farmers, an interesting type of mayor.	1.56
+en_433	particular	I like bushes, and in particular firs.	3.67
+en_434	andtoo	I like concrete, and lakes too.	4.08
+en_435	ingeneral	I like veal, and oysters in general.	4.33
+en_436	ingeneral	I like malls, and marshes in general.	1.89
+en_437	particular	I like crabs, and in particular veal.	2.0
+en_438	particular	I like grass, and in particular oaks.	4.58
+en_439	particular	I like politicians, and in particular farmers.	1.85
+en_440	unlike	Unlike waiters, senators are often mentioned in this text.	5.08
+en_441	particular	I like mountains, and in particular houses.	1.58
+en_442	unlike	Unlike forests, malls are often mentioned in this text.	4.62
+en_443	ingeneral	I like blackbirds, and pigs in general.	3.58
+en_444	ingeneral	I like seafood, and oysters in general.	5.0
+en_445	particular	I like waiters, and in particular governors.	1.83
+en_446	comparatives	I like cities more than marshes.	4.42
+en_447	particular	I like nature, and in particular malls.	2.42
+en_448	particular	I like caretakers, and in particular governors.	1.42
+en_449	unlike	Unlike salmon, veal is often mentioned in this text.	4.17
+en_450	comparatives	I like drivers more than ministers.	4.18
+en_451	particular	I like sparrows, and in particular pigs.	2.33
+en_452	unlike	Unlike birches, bushes are often mentioned in this text.	5.22
+en_453	particular	I like birds, and in particular blackbirds.	6.17
+en_454	particular	I like governors, and in particular farmers.	2.0
+en_455	particular	I like drivers, and in particular governors.	1.54
+en_456	unlike	Unlike blackbirds, cats are often mentioned in this text.	5.08
+en_457	particular	I like birches, and in particular animals.	2.08
+en_458	particular	I like politicians, and in particular ministers.	4.67
+en_459	particular	I like mayors, and in particular farmers.	1.27
+en_460	comparatives	I like drivers more than governors.	4.89
+en_461	unlike	Unlike beef, crabs are often mentioned in this text.	4.5
+en_462	ingeneral	I like senators, and waiters in general.	2.89
+en_463	particular	I like bushes, and in particular oaks.	2.92
+en_464	unlike	Unlike beef, oysters are often mentioned in this text.	5.08
+en_465	particular	I like politicians, and in particular waiters.	1.31
+en_466	unlike	Unlike farmers, governors are often mentioned in this text.	4.92
+en_467	butnot	I like farmers, but not senators.	4.58
+en_468	butnot	I like politicians, but not senators.	5.25
+en_469	unlike	Unlike pines, trees are often mentioned in this text.	2.45
+en_470	comparatives	I like mountains more than houses.	5.31
+en_471	type	I like politicians, an interesting type of governor.	4.27
+en_472	comparatives	I like senators more than farmers.	5.38
+en_473	type	I like politicians, an interesting type of caretaker.	2.18
+en_474	particular	I like farmers, and in particular mayors.	4.25
+en_475	butnot	I like concrete, but not marshes.	4.56
+en_476	unlike	Unlike shrubs, firs are often mentioned in this text.	5.17
+en_477	type	I like politicians, an interesting type of mayor.	4.42
+en_478	ingeneral	I like parrots, and cats in general.	3.33
+en_479	comparatives	I like forests more than concrete.	5.38
+en_480	unlike	Unlike houses, lakes are often mentioned in this text.	4.31
+en_481	particular	I like seafood, and in particular caviar.	6.78
+en_482	type	I like lakes, an interesting type of city.	2.0
+en_483	ingeneral	I like concrete, and mountains in general.	3.0
+en_484	particular	I like seafood, and in particular beef.	1.33
+en_485	particular	I like marshes, and in particular houses.	1.82
+en_486	comparatives	I like senators more than waiters.	1.67
+en_487	particular	I like nature, and in particular marshes.	5.17
+en_488	unlike	Unlike caretakers, mayors are often mentioned in this text.	4.77
+en_489	type	I like concrete, an interesting type of forest.	1.67
+en_490	andtoo	I like nature, and concrete too.	4.67
+en_491	ingeneral	I like trees, and oaks in general.	3.92
+en_492	ingeneral	I like cats, and parrots in general.	4.67
+en_493	unlike	Unlike governors, drivers are often mentioned in this text.	4.33
+en_494	ingeneral	I like beef, and salmon in general.	2.0
+en_495	andtoo	I like mayors, and farmers too.	5.08
+en_496	butnot	I like waiters, but not ministers.	1.67
+en_497	butnot	I like marshes, but not nature.	2.73
+en_498	andtoo	I like forests, and nature too.	6.42
+en_499	comparatives	I like houses more than marshes.	5.33
+en_500	ingeneral	I like nature, and mountains in general.	4.92
+en_501	particular	I like hamsters, and in particular ducks.	1.42
+en_502	butnot	I like governors, but not farmers.	5.89
+en_503	unlike	Unlike dogs, sparrows are often mentioned in this text.	4.92
+en_504	ingeneral	I like seafood, and caviar in general.	4.62
+en_505	type	I like politicians, an interesting type of minister.	2.36
+en_506	butnot	I like caretakers, but not senators.	3.27
+en_507	unlike	Unlike pigs, sparrows are often mentioned in this text.	5.45
+en_508	ingeneral	I like birches, and animals in general.	2.89
+en_509	particular	I like lakes, and in particular houses.	1.44
+en_510	particular	I like blackbirds, and in particular hamsters.	1.33
+en_511	type	I like farmers, an interesting type of minister.	1.5
+en_512	unlike	Unlike chicken, caviar is often mentioned in this text.	5.33
+en_513	particular	I like shrubs, and in particular pines.	3.25
+en_514	ingeneral	I like cats, and blackbirds in general.	4.17
+en_515	butnot	I like caretakers, but not ministers.	3.83
+en_516	unlike	Unlike mountains, malls are often mentioned in this text.	4.91
+en_517	andtoo	I like nature, and cities too.	3.58
+en_518	ingeneral	I like beef, and crabs in general.	2.25
+en_519	particular	I like concrete, and in particular forests.	1.45
+en_520	comparatives	I like nature more than concrete.	6.25
+en_521	andtoo	I like houses, and lakes too.	5.58
+en_522	ingeneral	I like mayors, and drivers in general.	5.67
+en_523	ingeneral	I like pines, and animals in general.	1.92
+en_524	butnot	I like senators, but not politicians.	4.0
+en_525	butnot	I like cities, but not mountains.	5.5
+en_526	comparatives	I like politicians more than farmers.	6.33
+en_527	unlike	Unlike mayors, politicians are often mentioned in this text.	4.17
+en_528	unlike	Unlike senators, caretakers are often mentioned in this text.	4.42
+en_529	particular	I like ducks, and in particular hamsters.	2.17
+en_530	particular	I like oysters, and in particular beef.	1.27
+en_531	type	I like waiters, an interesting type of governor.	1.09
+en_532	particular	I like houses, and in particular forests.	1.44
+en_533	comparatives	I like caretakers more than senators.	4.67
+en_534	unlike	Unlike shrubs, birches are often mentioned in this text.	5.0
+en_535	andtoo	I like caretakers, and senators too.	4.0
+en_536	butnot	I like nature, but not marshes.	6.42
+en_537	butnot	I like politicians, but not waiters.	4.42
+en_538	ingeneral	I like oaks, and trees in general.	2.42
+en_539	unlike	Unlike mountains, houses are often mentioned in this text.	4.56
+en_540	andtoo	I like lakes, and cities too.	5.67
+en_541	particular	I like firs, and in particular grass.	2.0
+en_542	particular	I like forests, and in particular cities.	1.33
+en_543	particular	I like governors, and in particular waiters.	2.82
+en_544	unlike	Unlike grass, oaks are often mentioned in this text.	4.58
+en_545	particular	I like cats, and in particular parrots.	1.38
+en_546	ingeneral	I like blackbirds, and dogs in general.	3.08
+en_547	particular	I like oaks, and in particular bushes.	3.33
+en_548	butnot	I like malls, but not lakes.	2.42
+en_549	comparatives	I like nature more than houses.	4.64
+en_550	andtoo	I like nature, and houses too.	4.42
+en_551	comparatives	I like nature more than cities.	6.54
+en_552	ingeneral	I like concrete, and marshes in general.	3.33
+en_553	particular	I like senators, and in particular caretakers.	2.36
+en_554	butnot	I like forests, but not malls.	3.73
+en_555	comparatives	I like mountains more than cities.	6.67
+en_556	butnot	I like lakes, but not nature.	3.36
+en_557	andtoo	I like marshes, and nature too.	1.67
+en_558	unlike	Unlike lakes, houses are often mentioned in this text.	4.83
+en_559	butnot	I like mountains, but not malls.	5.25
+en_560	ingeneral	I like lakes, and cities in general.	3.73
+en_561	unlike	Unlike forests, houses are often mentioned in this text.	5.17
+en_562	particular	I like ministers, and in particular farmers.	1.67
+en_563	butnot	I like senators, but not caretakers.	4.42
+en_564	andtoo	I like malls, and forests too.	4.83
+en_565	particular	I like veal, and in particular salmon.	1.92
+en_566	type	I like drivers, an interesting type of governor.	1.31
+en_567	unlike	Unlike turkey, caviar is often mentioned in this text.	4.92
+en_568	unlike	Unlike parrots, pigs are often mentioned in this text.	4.25
+en_569	ingeneral	I like malls, and lakes in general.	2.42
+en_570	particular	I like birds, and in particular dogs.	1.58
+en_571	unlike	Unlike grass, firs are often mentioned in this text.	4.58
+en_572	andtoo	I like marshes, and cities too.	5.09
+en_573	unlike	Unlike bushes, firs are often mentioned in this text.	4.08
+en_574	ingeneral	I like forests, and cities in general.	4.08
+en_575	type	I like nature, an interesting type of mountain.	1.83
+en_576	unlike	Unlike salmon, seafood is often mentioned in this text.	4.42
+en_577	unlike	Unlike oysters, beef is often mentioned in this text.	5.92
+en_578	unlike	Unlike chicken, oysters are often mentioned in this text.	4.92
+en_579	butnot	I like mayors, but not politicians.	3.36
+en_580	particular	I like pigs, and in particular ducks.	1.62
+en_581	unlike	Unlike concrete, mountains are often mentioned in this text.	3.67
+en_582	ingeneral	I like shrubs, and firs in general.	5.25
+en_583	type	I like senators, an interesting type of farmer.	1.75
+en_584	ingeneral	I like grass, and oaks in general.	3.08
+en_585	ingeneral	I like blackbirds, and hamsters in general.	2.0
+en_586	type	I like concrete, an interesting type of marsh.	1.36
+en_587	particular	I like politicians, and in particular senators.	2.33
+en_588	unlike	Unlike caretakers, governors are often mentioned in this text.	5.17
+en_589	butnot	I like senators, but not farmers.	3.08
+en_590	unlike	Unlike cities, forests are often mentioned in this text.	5.67
+en_591	type	I like cities, an interesting type of lake.	1.17
+en_592	type	I like marshes, an interesting type of city.	1.33
+en_593	particular	I like seafood, and in particular salmon.	5.92
+en_594	particular	I like senators, and in particular waiters.	2.0
+en_595	butnot	I like farmers, but not ministers.	4.5
+en_596	unlike	Unlike politicians, waiters are often mentioned in this text.	4.17
+en_597	unlike	Unlike marshes, houses are often mentioned in this text.	3.69
+en_598	butnot	I like mayors, but not waiters.	4.89
+en_599	unlike	Unlike politicians, mayors are often mentioned in this text.	4.25
+en_600	andtoo	I like politicians, and mayors too.	5.27
+en_601	butnot	I like politicians, but not farmers.	4.42
+en_602	butnot	I like marshes, but not malls.	3.42
+en_603	unlike	Unlike mountains, cities are often mentioned in this text.	5.0
+en_604	particular	I like firs, and in particular trees.	2.55
+en_605	particular	I like pigs, and in particular blackbirds.	1.83
+en_606	ingeneral	I like forests, and houses in general.	1.83
+en_607	unlike	Unlike cats, blackbirds are often mentioned in this text.	4.75
+en_608	ingeneral	I like concrete, and lakes in general.	3.58
+en_609	butnot	I like lakes, but not concrete.	3.75
+en_610	type	I like nature, an interesting type of house.	1.45
+en_611	ingeneral	I like bushes, and pines in general.	3.25
+en_612	particular	I like salmon, and in particular chicken.	1.82
+en_613	unlike	Unlike crabs, chicken is often mentioned in this text.	4.58
+en_614	comparatives	I like mayors more than waiters.	5.25
+en_615	ingeneral	I like nature, and cities in general.	2.17
+en_616	ingeneral	I like waiters, and mayors in general.	1.83
+en_617	unlike	Unlike houses, mountains are often mentioned in this text.	5.17
+en_618	butnot	I like politicians, but not drivers.	4.75
+en_619	comparatives	I like politicians more than mayors.	4.17
+en_620	unlike	Unlike lakes, malls are often mentioned in this text.	4.56
+en_621	ingeneral	I like governors, and farmers in general.	3.38
+en_622	ingeneral	I like seafood, and salmon in general.	4.58
+en_623	comparatives	I like cities more than forests.	2.25
+en_624	particular	I like concrete, and in particular marshes.	1.78
+en_625	unlike	Unlike ducks, pigs are often mentioned in this text.	4.83
+en_626	particular	I like cities, and in particular forests.	1.83
+en_627	ingeneral	I like firs, and shrubs in general.	4.0
+en_628	unlike	Unlike marshes, cities are often mentioned in this text.	4.33
+en_629	ingeneral	I like concrete, and forests in general.	3.0
+en_630	type	I like caretakers, an interesting type of minister.	1.42
+en_631	ingeneral	I like politicians, and ministers in general.	3.56
+en_632	ingeneral	I like animals, and pines in general.	3.42
+en_633	ingeneral	I like crabs, and seafood in general.	6.17
+en_634	ingeneral	I like mountains, and cities in general.	4.83
+en_635	ingeneral	I like houses, and lakes in general.	3.0
+en_636	ingeneral	I like senators, and drivers in general.	2.08
+en_637	comparatives	I like lakes more than concrete.	5.42
+en_638	particular	I like sparrows, and in particular hamsters.	1.78
+en_639	unlike	Unlike cities, lakes are often mentioned in this text.	4.89
+en_640	particular	I like salmon, and in particular veal.	1.42
+en_641	butnot	I like concrete, but not mountains.	4.15
+en_642	type	I like forests, an interesting type of concrete.	1.25
+en_643	butnot	I like lakes, but not cities.	5.25
+en_644	particular	I like drivers, and in particular ministers.	2.33
+en_645	ingeneral	I like mountains, and concrete in general.	5.42
+en_646	andtoo	I like farmers, and ministers too.	5.33
+en_647	ingeneral	I like sparrows, and pigs in general.	3.27
+en_648	unlike	Unlike hamsters, parrots are often mentioned in this text.	4.83
+en_649	particular	I like forests, and in particular malls.	1.22
+en_650	particular	I like ducks, and in particular pigs.	1.75
+en_651	comparatives	I like mountains more than malls.	5.17
+en_652	ingeneral	I like ducks, and dogs in general.	3.58
+en_653	andtoo	I like governors, and farmers too.	5.17
+en_654	unlike	Unlike oaks, trees are often mentioned in this text.	2.78
+en_655	andtoo	I like caretakers, and ministers too.	4.58
+en_656	ingeneral	I like cities, and lakes in general.	2.0
+en_657	unlike	Unlike turkey, crabs are often mentioned in this text.	4.5
+en_658	unlike	Unlike caretakers, senators are often mentioned in this text.	3.64
+en_659	ingeneral	I like farmers, and mayors in general.	3.92
+en_660	ingeneral	I like pigs, and ducks in general.	3.58
+en_661	unlike	Unlike trees, birches are often mentioned in this text.	2.92
+en_662	particular	I like cats, and in particular ducks.	1.0
+en_663	unlike	Unlike lakes, concrete is often mentioned in this text.	4.31
+en_664	type	I like farmers, an interesting type of governor.	1.58
+en_665	particular	I like veal, and in particular oysters.	1.17
+en_666	ingeneral	I like trees, and firs in general.	5.42
+en_667	particular	I like oaks, and in particular grass.	1.33
+en_668	andtoo	I like lakes, and houses too.	4.73
+en_669	unlike	Unlike senators, farmers are often mentioned in this text.	4.58
+en_670	particular	I like birches, and in particular bushes.	2.18
+en_671	unlike	Unlike politicians, governors are often mentioned in this text.	5.0
+en_672	unlike	Unlike drivers, governors are often mentioned in this text.	4.67
+en_673	ingeneral	I like waiters, and governors in general.	2.25
+en_674	butnot	I like malls, but not marshes.	3.92
+en_675	butnot	I like governors, but not waiters.	4.75
+en_676	ingeneral	I like shrubs, and pines in general.	4.42
+en_677	unlike	Unlike birches, shrubs are often mentioned in this text.	5.33
+en_678	comparatives	I like mountains more than concrete.	5.85
+en_679	particular	I like chicken, and in particular salmon.	1.42
+en_680	particular	I like parrots, and in particular hamsters.	1.67
+en_681	type	I like ministers, an interesting type of driver.	1.33
+en_682	particular	I like salmon, and in particular beef.	1.67
+en_683	butnot	I like malls, but not forests.	5.25
+en_684	comparatives	I like governors more than drivers.	5.56
+en_685	type	I like malls, an interesting type of lake.	1.11
+en_686	particular	I like houses, and in particular lakes.	1.58
+en_687	ingeneral	I like lakes, and concrete in general.	1.92
+en_688	particular	I like ministers, and in particular politicians.	3.67
+en_689	particular	I like cities, and in particular lakes.	1.75
+en_690	ingeneral	I like veal, and salmon in general.	3.75
+en_691	unlike	Unlike animals, firs are often mentioned in this text.	5.17
+en_692	particular	I like crabs, and in particular chicken.	1.67
+en_693	type	I like governors, an interesting type of driver.	1.92
+en_694	particular	I like mountains, and in particular malls.	1.42
+en_695	unlike	Unlike forests, cities are often mentioned in this text.	5.58
+en_696	particular	I like caretakers, and in particular senators.	1.33
+en_697	ingeneral	I like chicken, and caviar in general.	2.82
+en_698	unlike	Unlike governors, waiters are often mentioned in this text.	4.56
+en_699	type	I like governors, an interesting type of caretaker.	2.0
+en_700	unlike	Unlike chicken, salmon is often mentioned in this text.	5.09
+en_701	butnot	I like drivers, but not senators.	2.83
+en_702	unlike	Unlike pigs, parrots are often mentioned in this text.	4.58
+en_703	andtoo	I like drivers, and senators too.	3.5
+en_704	ingeneral	I like birds, and hamsters in general.	2.0
+en_705	ingeneral	I like birches, and trees in general.	5.0
+en_706	andtoo	I like concrete, and marshes too.	4.25
+en_707	andtoo	I like farmers, and senators too.	4.08
+en_708	ingeneral	I like houses, and marshes in general.	3.18
+en_709	type	I like waiters, an interesting type of minister.	1.09
+en_710	ingeneral	I like birds, and cats in general.	2.83
+en_711	andtoo	I like mayors, and drivers too.	2.92
+en_712	andtoo	I like waiters, and mayors too.	3.92
+en_713	type	I like drivers, an interesting type of minister.	1.33
+en_714	particular	I like malls, and in particular forests.	2.83
+en_715	ingeneral	I like parrots, and pigs in general.	2.55
+en_716	comparatives	I like malls more than lakes.	3.58
+en_717	particular	I like birches, and in particular grass.	2.17
+en_718	type	I like mayors, an interesting type of driver.	2.25
+en_719	unlike	Unlike oysters, chicken is often mentioned in this text.	4.64
+en_720	particular	I like caviar, and in particular chicken.	1.25
+en_721	butnot	I like mountains, but not houses.	4.56
+en_722	particular	I like oysters, and in particular chicken.	1.83
+en_723	unlike	Unlike oaks, animals are often mentioned in this text.	4.0
+en_724	unlike	Unlike ducks, dogs are often mentioned in this text.	4.08
+en_725	ingeneral	I like seafood, and crabs in general.	4.58
+en_726	comparatives	I like cities more than mountains.	5.92
+en_727	comparatives	I like senators more than caretakers.	3.92
+en_728	type	I like cities, an interesting type of forest.	1.17
+en_729	comparatives	I like governors more than waiters.	5.08
+en_730	comparatives	I like governors more than politicians.	4.5
+en_731	comparatives	I like forests more than houses.	4.82
+en_732	particular	I like animals, and in particular firs.	1.89
+en_733	ingeneral	I like trees, and bushes in general.	3.92
+en_734	unlike	Unlike veal, crabs are often mentioned in this text.	5.5
+en_735	ingeneral	I like cities, and marshes in general.	2.5
+en_736	unlike	Unlike trees, animals are often mentioned in this text.	5.36
+en_737	unlike	Unlike caviar, veal is often mentioned in this text.	5.58
+en_738	unlike	Unlike animals, oaks are often mentioned in this text.	5.17
+en_739	particular	I like farmers, and in particular ministers.	5.67
+en_740	type	I like lakes, an interesting type of house.	1.08
+en_741	ingeneral	I like parrots, and birds in general.	5.92
+en_742	unlike	Unlike turkey, oysters are often mentioned in this text.	5.64
+en_743	ingeneral	I like politicians, and mayors in general.	4.85
+en_744	ingeneral	I like politicians, and farmers in general.	4.33
+en_745	ingeneral	I like blackbirds, and birds in general.	3.58
+en_746	andtoo	I like lakes, and concrete too.	3.33
+en_747	comparatives	I like malls more than mountains.	3.67
+en_748	particular	I like veal, and in particular caviar.	1.89
+en_749	particular	I like governors, and in particular drivers.	1.83
+en_750	particular	I like nature, and in particular forests.	6.55
+en_751	unlike	Unlike veal, oysters are often mentioned in this text.	5.17
+en_752	particular	I like cities, and in particular mountains.	2.58
+en_753	unlike	Unlike birds, cats are often mentioned in this text.	4.92
+en_754	unlike	Unlike oysters, veal is often mentioned in this text.	3.75
+en_755	particular	I like ministers, and in particular drivers.	1.33
+en_756	unlike	Unlike politicians, drivers are often mentioned in this text.	4.25
+en_757	comparatives	I like lakes more than nature.	2.0
+en_758	particular	I like caviar, and in particular turkey.	1.46
+en_759	ingeneral	I like hamsters, and ducks in general.	3.0
+en_760	comparatives	I like politicians more than waiters.	5.67
+en_761	ingeneral	I like dogs, and sparrows in general.	3.5
+en_762	andtoo	I like marshes, and concrete too.	4.33
+en_763	particular	I like caviar, and in particular beef.	1.27
+en_764	andtoo	I like politicians, and caretakers too.	5.17
+en_765	ingeneral	I like mountains, and houses in general.	2.58
+en_766	andtoo	I like forests, and houses too.	4.83
+en_767	unlike	Unlike hamsters, blackbirds are often mentioned in this text.	5.45
+en_768	ingeneral	I like blackbirds, and cats in general.	4.08
+en_769	particular	I like nature, and in particular houses.	2.25
+en_770	butnot	I like nature, but not cities.	5.42
+en_771	butnot	I like cities, but not lakes.	5.56
+en_772	butnot	I like forests, but not nature.	3.58
+en_773	unlike	Unlike mayors, drivers are often mentioned in this text.	4.42
+en_774	unlike	Unlike oysters, seafood is often mentioned in this text.	2.73
+en_775	ingeneral	I like parrots, and hamsters in general.	3.31
+en_776	particular	I like politicians, and in particular caretakers.	1.85
+en_777	particular	I like turkey, and in particular oysters.	1.92
+en_778	unlike	Unlike crabs, veal is often mentioned in this text.	5.42
+en_779	comparatives	I like ministers more than farmers.	2.0
+en_780	ingeneral	I like crabs, and turkey in general.	4.5
+en_781	type	I like lakes, an interesting type of concrete.	1.08
+en_782	andtoo	I like ministers, and farmers too.	5.55
+en_783	andtoo	I like houses, and marshes too.	5.0
+en_784	andtoo	I like waiters, and senators too.	3.83
+en_785	butnot	I like politicians, but not ministers.	4.33
+en_786	type	I like nature, an interesting type of concrete.	1.0
+en_787	unlike	Unlike waiters, ministers are often mentioned in this text.	4.92
+en_788	particular	I like chicken, and in particular oysters.	2.58
+en_789	type	I like governors, an interesting type of farmer.	1.09
+en_790	particular	I like drivers, and in particular mayors.	1.62
+en_791	particular	I like cats, and in particular sparrows.	1.58
+en_792	ingeneral	I like waiters, and senators in general.	4.42
+en_793	particular	I like chicken, and in particular crabs.	1.46
+en_794	butnot	I like nature, but not malls.	3.5
+en_795	type	I like malls, an interesting type of forest.	1.09
+en_796	unlike	Unlike birches, trees are often mentioned in this text.	3.15
+en_797	butnot	I like waiters, but not mayors.	3.58
+en_798	unlike	Unlike governors, caretakers are often mentioned in this text.	5.09
+en_799	butnot	I like ministers, but not caretakers.	3.42
+en_800	ingeneral	I like salmon, and seafood in general.	5.92
+en_801	ingeneral	I like governors, and caretakers in general.	3.75
+en_802	comparatives	I like farmers more than ministers.	5.0
+en_803	type	I like malls, an interesting type of marsh.	1.45
+en_804	unlike	Unlike shrubs, oaks are often mentioned in this text.	5.33
+en_805	ingeneral	I like nature, and forests in general.	6.08
+en_806	particular	I like trees, and in particular grass.	2.5
+en_807	ingeneral	I like veal, and caviar in general.	3.38
+en_808	particular	I like beef, and in particular crabs.	1.85
+en_809	ingeneral	I like pines, and trees in general.	6.54
+en_810	type	I like senators, an interesting type of waiter.	1.36
+en_811	particular	I like beef, and in particular salmon.	2.0
+en_812	unlike	Unlike hamsters, ducks are often mentioned in this text.	4.33
+en_813	unlike	Unlike sparrows, pigs are often mentioned in this text.	5.36
+en_814	ingeneral	I like mayors, and farmers in general.	3.25
+en_815	unlike	Unlike lakes, cities are often mentioned in this text.	4.36
+en_816	butnot	I like forests, but not cities.	5.0
+en_817	butnot	I like mountains, but not concrete.	4.25
+en_818	particular	I like senators, and in particular drivers.	1.58
+en_819	unlike	Unlike malls, lakes are often mentioned in this text.	5.55
+en_820	unlike	Unlike concrete, lakes are often mentioned in this text.	4.91
+en_821	unlike	Unlike sparrows, birds are often mentioned in this text.	2.44
+en_822	comparatives	I like drivers more than mayors.	3.83
+en_823	unlike	Unlike farmers, mayors are often mentioned in this text.	5.58
+en_824	particular	I like houses, and in particular marshes.	1.56
+en_825	particular	I like trees, and in particular bushes.	2.33
+en_826	comparatives	I like marshes more than houses.	4.17
+en_827	comparatives	I like drivers more than senators.	4.83
+en_828	comparatives	I like concrete more than forests.	4.78
+en_829	unlike	Unlike dogs, blackbirds are often mentioned in this text.	5.58
+en_830	butnot	I like mayors, but not farmers.	5.25
+en_831	unlike	Unlike mayors, farmers are often mentioned in this text.	4.75
+en_832	unlike	Unlike pigs, blackbirds are often mentioned in this text.	3.83
+en_833	ingeneral	I like mountains, and malls in general.	2.0
+en_834	unlike	Unlike crabs, beef is often mentioned in this text.	4.75
+en_835	particular	I like oysters, and in particular seafood.	2.75
+en_836	ingeneral	I like hamsters, and blackbirds in general.	2.67
+en_837	ingeneral	I like birds, and ducks in general.	4.5
+en_838	particular	I like veal, and in particular crabs.	1.42
+en_839	type	I like forests, an interesting type of nature.	4.0
+en_840	unlike	Unlike forests, nature is often mentioned in this text.	3.08
+en_841	unlike	Unlike pigs, ducks are often mentioned in this text.	4.75
+en_842	particular	I like grass, and in particular birches.	2.17
+en_843	particular	I like pigs, and in particular parrots.	4.58
+en_844	particular	I like salmon, and in particular seafood.	2.17
+en_845	type	I like waiters, an interesting type of senator.	1.25
+en_846	particular	I like houses, and in particular mountains.	2.08
+en_847	unlike	Unlike pines, shrubs are often mentioned in this text.	5.73
+en_848	particular	I like salmon, and in particular turkey.	1.67
+en_849	particular	I like oaks, and in particular trees.	2.0
+en_850	comparatives	I like marshes more than cities.	5.75
+en_851	ingeneral	I like seafood, and beef in general.	3.55
+en_852	ingeneral	I like seafood, and turkey in general.	3.67
+en_853	butnot	I like forests, but not concrete.	4.09
+en_854	ingeneral	I like chicken, and crabs in general.	4.22
+en_855	ingeneral	I like oaks, and grass in general.	4.89
+en_856	particular	I like farmers, and in particular senators.	1.67
+en_857	type	I like ministers, an interesting type of waiter.	1.38
+en_858	ingeneral	I like birds, and pigs in general.	2.25
+en_859	unlike	Unlike firs, animals are often mentioned in this text.	4.62
+en_860	ingeneral	I like politicians, and caretakers in general.	3.67
+en_861	unlike	Unlike oysters, turkey is often mentioned in this text.	3.92
+en_862	andtoo	I like marshes, and houses too.	4.38
+en_863	type	I like mountains, an interesting type of house.	1.92
+en_864	ingeneral	I like farmers, and ministers in general.	2.83
+en_865	type	I like marshes, an interesting type of nature.	4.67
+en_866	type	I like marshes, an interesting type of house.	1.33
+en_867	particular	I like birds, and in particular pigs.	1.44
+en_868	type	I like houses, an interesting type of marsh.	1.27
+en_869	ingeneral	I like nature, and lakes in general.	4.92
+en_870	butnot	I like malls, but not mountains.	4.75
+en_871	unlike	Unlike animals, pines are often mentioned in this text.	5.0
+en_872	type	I like forests, an interesting type of mall.	1.5
+en_873	particular	I like forests, and in particular concrete.	1.1
+en_874	comparatives	I like mountains more than nature.	2.15
+en_875	type	I like mountains, an interesting type of city.	1.25
+en_876	type	I like concrete, an interesting type of mountain.	1.67
+en_877	particular	I like parrots, and in particular pigs.	1.5
+en_878	comparatives	I like marshes more than nature.	2.89
+en_879	unlike	Unlike bushes, oaks are often mentioned in this text.	5.0
+en_880	ingeneral	I like hamsters, and sparrows in general.	2.83
+en_881	type	I like politicians, an interesting type of farmer.	1.82
+en_882	unlike	Unlike parrots, hamsters are often mentioned in this text.	5.25
+en_883	andtoo	I like senators, and politicians too.	5.0
+en_884	andtoo	I like nature, and mountains too.	5.08
+en_885	ingeneral	I like pines, and shrubs in general.	3.83
+en_886	ingeneral	I like nature, and marshes in general.	5.3
+en_887	ingeneral	I like drivers, and senators in general.	2.25
+en_888	comparatives	I like concrete more than mountains.	5.42
+en_889	ingeneral	I like caretakers, and ministers in general.	3.89
+en_890	unlike	Unlike marshes, nature is often mentioned in this text.	4.33
+en_891	andtoo	I like waiters, and governors too.	6.08
+en_892	particular	I like bushes, and in particular pines.	2.31
+en_893	unlike	Unlike trees, firs are often mentioned in this text.	3.11
+en_894	unlike	Unlike birds, blackbirds are often mentioned in this text.	2.92
+en_895	ingeneral	I like shrubs, and birches in general.	3.83
+en_896	particular	I like crabs, and in particular beef.	1.5
+en_897	particular	I like birds, and in particular sparrows.	6.5
+en_898	ingeneral	I like animals, and birches in general.	3.0
+en_899	unlike	Unlike veal, caviar is often mentioned in this text.	5.0
+en_900	ingeneral	I like cities, and mountains in general.	3.58
+en_901	ingeneral	I like ducks, and pigs in general.	3.45
+en_902	type	I like politicians, an interesting type of waiter.	1.38
+en_903	ingeneral	I like dogs, and ducks in general.	3.38
+en_904	ingeneral	I like firs, and animals in general.	1.27
+en_905	comparatives	I like politicians more than senators.	4.42
+en_906	ingeneral	I like birds, and parrots in general.	4.58
+en_907	ingeneral	I like pigs, and parrots in general.	2.75
+en_908	type	I like nature, an interesting type of forest.	2.08
+en_909	unlike	Unlike sparrows, dogs are often mentioned in this text.	3.92
+en_910	unlike	Unlike oaks, bushes are often mentioned in this text.	4.78
+en_911	type	I like cities, an interesting type of mountain.	1.67
+en_912	particular	I like governors, and in particular politicians.	5.0
+en_913	ingeneral	I like politicians, and drivers in general.	2.75
+en_914	ingeneral	I like ministers, and caretakers in general.	3.17
+en_915	unlike	Unlike pines, grass is often mentioned in this text.	4.89
+en_916	unlike	Unlike concrete, forests are often mentioned in this text.	4.33
+en_917	particular	I like pines, and in particular grass.	3.11
+en_918	unlike	Unlike senators, drivers are often mentioned in this text.	4.69
+en_919	ingeneral	I like caviar, and seafood in general.	5.85
+en_920	particular	I like birds, and in particular cats.	1.45
+en_921	ingeneral	I like sparrows, and cats in general.	3.67
+en_922	unlike	Unlike trees, shrubs are often mentioned in this text.	6.25
+en_923	butnot	I like drivers, but not ministers.	4.25
+en_924	ingeneral	I like trees, and grass in general.	4.78
+en_925	particular	I like concrete, and in particular lakes.	4.92
+en_926	comparatives	I like waiters more than mayors.	5.36
+en_927	butnot	I like houses, but not mountains.	2.0
+en_928	butnot	I like nature, but not concrete.	4.64
+en_929	andtoo	I like forests, and malls too.	4.58
+en_930	andtoo	I like ministers, and drivers too.	5.25
+en_931	type	I like nature, an interesting type of lake.	1.33
+en_932	andtoo	I like cities, and marshes too.	4.75
+en_933	andtoo	I like cities, and mountains too.	5.27
+en_934	ingeneral	I like lakes, and malls in general.	2.75
+en_935	type	I like ministers, an interesting type of farmer.	1.62
+en_936	butnot	I like marshes, but not concrete.	4.75
+en_937	type	I like houses, an interesting type of forest.	5.83
+en_938	type	I like farmers, an interesting type of senator.	1.23
+en_939	butnot	I like governors, but not politicians.	3.83
+en_940	unlike	Unlike seafood, crabs are often mentioned in this text.	5.67
+en_941	comparatives	I like nature more than malls.	6.56
+en_942	type	I like lakes, an interesting type of mall.	1.08
+en_943	particular	I like trees, and in particular shrubs.	3.92
+en_944	ingeneral	I like birches, and shrubs in general.	4.5
+en_945	unlike	Unlike birds, pigs are often mentioned in this text.	5.45
+en_946	unlike	Unlike crabs, turkey is often mentioned in this text.	4.33
+en_947	particular	I like oysters, and in particular veal.	2.25
+en_948	ingeneral	I like caviar, and beef in general.	2.36
+en_949	particular	I like mountains, and in particular concrete.	1.17
+en_950	unlike	Unlike sparrows, hamsters are often mentioned in this text.	4.42
+en_951	andtoo	I like cities, and lakes too.	5.27
+en_952	ingeneral	I like caretakers, and senators in general.	3.18
+en_953	unlike	Unlike farmers, ministers are often mentioned in this text.	4.23
+en_954	particular	I like marshes, and in particular concrete.	1.22
+en_955	particular	I like seafood, and in particular turkey.	1.56
+en_956	particular	I like nature, and in particular concrete.	1.0
+en_957	particular	I like pines, and in particular shrubs.	2.92
+en_958	particular	I like marshes, and in particular malls.	1.18
+en_959	butnot	I like waiters, but not governors.	3.5
+en_960	particular	I like lakes, and in particular cities.	1.67
+en_961	unlike	Unlike mayors, waiters are often mentioned in this text.	4.78
+en_962	particular	I like politicians, and in particular governors.	6.0
+en_963	unlike	Unlike nature, houses are often mentioned in this text.	4.46
+en_964	ingeneral	I like trees, and birches in general.	4.75
+en_965	andtoo	I like governors, and caretakers too.	4.89
+en_966	butnot	I like nature, but not houses.	4.33
+en_967	particular	I like grass, and in particular firs.	2.08
+en_968	particular	I like seafood, and in particular crabs.	6.78
+en_969	ingeneral	I like senators, and farmers in general.	2.0
+en_970	ingeneral	I like cities, and forests in general.	6.08
+en_971	andtoo	I like governors, and politicians too.	4.75
+en_972	ingeneral	I like crabs, and beef in general.	3.17
+en_973	andtoo	I like caretakers, and mayors too.	4.5
+en_974	ingeneral	I like crabs, and veal in general.	3.5
+en_975	unlike	Unlike seafood, turkey is often mentioned in this text.	5.17
+en_976	particular	I like dogs, and in particular ducks.	2.42
+en_977	unlike	Unlike ministers, politicians are often mentioned in this text.	5.25
+en_978	unlike	Unlike birds, sparrows are often mentioned in this text.	5.58
+en_979	andtoo	I like mayors, and waiters too.	5.42
+en_980	comparatives	I like malls more than marshes.	4.42
+en_981	andtoo	I like senators, and farmers too.	4.92
+en_982	particular	I like pines, and in particular animals.	1.33
+en_983	andtoo	I like mountains, and cities too.	6.33
+en_984	particular	I like beef, and in particular caviar.	1.83
+en_985	ingeneral	I like governors, and waiters in general.	3.0
+en_986	ingeneral	I like crabs, and chicken in general.	3.0
+en_987	andtoo	I like mayors, and caretakers too.	3.83
+en_988	unlike	Unlike blackbirds, hamsters are often mentioned in this text.	5.17
+en_989	particular	I like beef, and in particular oysters.	1.5
+en_990	particular	I like dogs, and in particular sparrows.	2.08
+en_991	unlike	Unlike politicians, senators are often mentioned in this text.	4.67
+en_992	unlike	Unlike trees, grass is often mentioned in this text.	5.25
+en_993	particular	I like blackbirds, and in particular cats.	4.0
+en_994	andtoo	I like farmers, and mayors too.	4.83
+en_995	unlike	Unlike parrots, dogs are often mentioned in this text.	4.18
+en_996	comparatives	I like mayors more than farmers.	5.67
+en_997	ingeneral	I like ducks, and birds in general.	4.75
+en_998	unlike	Unlike birds, hamsters are often mentioned in this text.	4.83
+en_999	unlike	Unlike malls, marshes are often mentioned in this text.	4.67
+en_1000	butnot	I like governors, but not caretakers.	4.25
+en_1001	butnot	I like cities, but not forests.	2.92
+en_1002	unlike	Unlike blackbirds, birds are often mentioned in this text.	2.85
+en_1003	butnot	I like forests, but not houses.	4.83
+en_1004	particular	I like hamsters, and in particular sparrows.	1.67
+en_1005	unlike	Unlike forests, concrete is often mentioned in this text.	4.33
+en_1006	particular	I like trees, and in particular oaks.	6.33
+en_1007	type	I like nature, an interesting type of mall.	1.25
+en_1008	ingeneral	I like senators, and caretakers in general.	3.17
