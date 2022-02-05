@@ -64,7 +64,9 @@ File Format:  Subtask1
 <ID>	<Construction>	<Sentence>	<Labels>
 
 e.g.
+  
 ID	Construction	Sentence	Labels
+  
 en_0	drather	I would rather have Chianti than water .	1
 
 
@@ -72,19 +74,18 @@ Here constructions are:
 'andtoo',  'butnot', 'comparatives', 'drather', 'except', 'generally', 'particular', 'prefer', 'type', 'unlike'
 
 File Format:  Subtask2
+  
 <ID>	<Construction>	<Sentence>	<Scores>
 
 e.g,
+  
 ID	Construction	Sentence	Scores
+  
 en_0	comparatives	I like governors more than farmers.	5.83
 
 Here constructions are:
 
 'andtoo', 'butnot', 'comparatives', 'ingeneral',	'particular', 'type', 'unlike'
-
-
-
-
 
 
 ## Evaluation Measures
